@@ -1507,3 +1507,770 @@
 9788179925379	Semiconductor Materials And Process Technology Handbook	Editor - Gary E. Mcguire		There has been a major thrust throughout the semiconductor industry to establish the capability to process Very Large Scale (VLSIC) and Ultra Large Scale (ULSIC) Integrated Circuits, as well as Very High Speed Integrated Circuits (VHSIC). The goals of these integrated circuits are a natural evolution of current IC technology since the number of devices on a simple IC have nearly doubled every year for the past two decades.This handbook is a broad review of semiconductor materials and process technology, with emphasis on very large-scale integration (VLSI) and ultra large scale integration (ULSI). The technology of integrated circuit (IC) processing is expanding so rapidly that it can be difficult for the scientist working in one area to keep abreast of developments in other areas of the field. This handbook solves this problem by bringing together snapshots of the various aspects of the technology.	2006-01-01	Jaico Publishing House						ZZZ000000
 9788179926239	Operational Risk Management	S.K. Bagchi		Operational Risk is one of the important arms of the risk management triangle the other two being Credit Risk and Market (Treasury) Risk. There was no precise definition of operational risk until Basel Accord II came into being in June 2004. In order to	2006-01-01	Jaico Publishing House						ZZZ000000
 9788179926673	Nanotechnology	William Illsey Atkinson		Since The Beginning Of The Industrial Age, Many Machines Have Grown Steadily Smaller Even As They Have Grown More Powerful And Complex. Nanotechnology, Based On The Science Of The Infinitesimally Small, Takes Technology Beyond Most Popular Definitions Of Reality, To A Realm Of Molecular Machines, Cell-Sized Computers, And Other Astounding Possibilities. Nanotechnology Reveals A Spectacular View Of The Immediate Future Of Nanotechnology And Its Applications In Medicine, Computing, Manufacturing, Engineering And Countless Other Arenas That Affect Our World, Redefining How We Work, Play, And Live.Will Nanoscale Transistors Enable Computers To Outstrip The Combined Power Of All The Supercomputers Currently In The World? Can Gold Nanoparticles Bond With And Destory Cancer Cells? Will Gargantuan Elevators Lift Satellites To Their Orbits? The Possibilities For The Not-Too-Distant Future Are Astounding. But Nanotech Is Already Real: It Makes Tennis Balls Last Longer. It Makes Paints And Coatings Stick Better. It Makes Pants Impervious To Coffee Spills. It S Made Car Tires Stronger For Decades. And In 2003, President Bush Signed The 21St Century Nanotechnology Research And Development Act, A $3.7 Billion Grant That Represents The Largest Federally Funded Science Initiative Since President Kennedy Established The Space Program.	2006-01-01	Jaico Publishing House						ZZZ000000
+9788131500033	Immunology, an introduction	Ian R. Tizard			1992	Saunders College Pub.						ZZZ000000
+9788131500156	Management & Organization Behavior;An Intergrat Pierce	Pierce				Cengage Learning India Pvt Ltd						ZZZ000000
+9788131500828	Cognitive Psychology In and Out of the Laboratory	Kathleen M. Galotti			2006	Thomson Business Information						ZZZ000000
+9788131501115	Analytical Mechanics	Fowels				Thomson Press						ZZZ000000
+9788131501337	Digital Signal Processing : A Filtering Approach	White				Thomson Press						ZZZ000000
+9788131501788	The Intel Family Of Microprocessors: Hardware and Software Principles and Applications WithCD	Antonakos				Thomson Press						ZZZ000000
+9788131501948	Digital Logic & Microchip Design	Hwang				Cengage Learning India Pvt Ltd						ZZZ000000
+9788131502129	Guide to Operating Systems with 2CDs	Walters				Thomson Press						ZZZ000000
+9788131502686	Oracle 10g Database Administrator Ii Backup/recovery & Network Admn With 2 Cds	Rajan				Cengage Learning Publisher						ZZZ000000
+9788131502990	An Introduction to Signals and Systems	Stuller				Thomson Press						ZZZ000000
+9788131503195	Database Systems : Design Implementation & Management	Rob&Carlos Coronel			1995	Thomson Press						ZZZ000000
+9788131503812	Clinical Application Of Mechanical Ventilation	Chang				Cengage Learning ( Thompson )						ZZZ000000
+9788131504192	Introduction To Telecommunications	Gokhale				Cengage Learning Publisher						ZZZ000000
+9788131505236	Pricing	Landsburg			2008-01-01	Cengage Learning Publisher						ZZZ000000
+9788131506608	Communication : Goals And Approaches	Adler				Cengage Learning Publisher						ZZZ000000
+9788131506714	Solid State Physics	Wei				Cengage Learning Publisher						ZZZ000000
+9788131507858	A Ratio Proportion Approach To Dosage Calculation	Pickar			2008-01-01	Cengage Learning Publisher						ZZZ000000
+9788131508145	Class A Erp Implementation: Integrating Lean And Six Sigma	Donald Sheldon			2005	J. Ross Publishing						ZZZ000000
+9788131508831	Visual Design : A Digital Approach With Cd	Hashimoto				Cengage Learning Publisher						ZZZ000000
+9788131511374	Human-Computer Interaction	Dan Olsen				South Western						ZZZ000000
+9788175154070	Managing Work: Concepts & Tasks TQM Way	R.K. Srivastava			2003	Galgotia Publications						ZZZ000000
+9788175154803	Indian Business Laws (second Edition)	S. K. Aggarwal				Galgotia Publications						ZZZ000000
+9788175155527	SAT Subjest SET Biology E/M	Goldberg D T				Galgotia Publications Pvt Ltd						ZZZ000000
+9788175155534	Barron's Sat Physics 9th Ed	Wolfe				Galgotia Publications						ZZZ000000
+9788175155541	Chemistry 2007: Barrons Sat Subject Test	Joseph A Mascetta				Galgotia Publications Pvt Ltd						ZZZ000000
+9788175155558	Barron's Sat-2nd Mathmetics Ic	Wolfe				Galgotia Publications						ZZZ000000
+9788175155794	Interprise Resource Planning	R K Srivastava				Galgotias						ZZZ000000
+9788175156050	Industrial Engineering & Managment 2e	Ravi Shankar				Galgotia Publications N Delhi						ZZZ000000
+9780070434325	SAT Math for the Clueless	Robert Miller&Bob Miller		Do square roots, logs, and graphs leave you in a cold sweat? Does the very thought of the all-important SAT¨ math send chills up your spine? If so, then you are like hundreds of thousands of students who face math only with fear. Luckily, there is a cure: Bob MillerÕs Clueless series! Like the teacher you always wished you had (but never thought existed), Bob Miller brings a combination of knowledge, empathy and fun to the often-troubling subject of mathematics. He breaks down the learning process in an easy, nontechnical way and builds it up again using his own unique methods. Meant to bridge the gulf between you and mathematics, SAT¨Math for the Clueless is packed with all the information you need to conquer this crucial standardized test. This radically new approach gives you anxiety-reducing features on every page; bite-sized math portions that fit short study sessions (and short attention spans); appealing methods that make math understandable; full explanations of basic principles that make hard problems easy; quick tips for solving difficult problems; and a complete practice SAT¨-type math practice exam! "I am always delighted when a student tells me that he or she hated math...but taking a class with me has made math understandable...even enjoyable," says Bob Miller. Now itÕs your turn. Sharpen your #2 pencils and let this extraordinary teacher show you how to never be clueless again!	1998-10-01	McGraw-Hill						ZZZ000000
+9780070517721	McGraw-Hill Yearbook of Science & Technology 1996	McGraw-Hill Companies&McGraw-Hill Encyclopedia of Science & Technology			1995-09	McGraw-Hill						ZZZ000000
+9780070665743	Chemical Engineering Kinetics	J. M. Smith			1981-06-01	McGraw-Hill						ZZZ000000
+9780070665842	Elements of power system analysis	William D. Stevenson			1982	McGraw-Hill						ZZZ000000
+9780070856134	Principles of mathematical analysis	Walter Rudin			1976	McGraw-Hill						ZZZ000000
+9780071004053	Fluid mechanics with engineering applications	Robert L. Daugherty&Joseph B. Franzini&E. John Finnemore&K. Subramanya			1989	McGraw-Hill						ZZZ000000
+9780071004435	Basic electronics	Bernard Grob			1984	McGraw-Hill						ZZZ000000
+9780071111690	Marketing management,a strategic, decision-making approach	John Walker Mullins		Marketing Management, 5/e by Mullins, Walker, Boyd, and Larreche is specifically designed for courses in which decision-focused cases are an important element and/or where student projects, such as the development of a marketing plan, are assigned. The concentration on strategic decision making sets this book apart from other texts that place greater emphasis on description of marketing phenomena than on the strategic and tactical marketing decisions that managers and entrepreneurs must make each and every day. This edition continues to be the most current and internet-savvy book available, injecting the latest developments in internet-based communication and distribution technology into every chapter. Also, an entire chapter (Chapter 15) is devoted to the development of marketing strategies for the new economy. The author team猬"s rich entrepreneurial, marketing management, and consulting experience spanning a broad variety of manufacturing, service, software, and distribution industries provides an abundance of real-world, global perspectives.	2005	McGraw-Hill						ZZZ000000
+9780071116886	Current Pediatric Diagnosis and Treatment	Hay			2005	McGraw-Hill Education						ZZZ000000
+9780071125314	Schaum's outline of theory and problems of differential and integral calculus	Frank Ayres&Elliott Mendelson&G. Reece			1992-10-01	McGraw-Hill						ZZZ000000
+9780071128667	Key Concepts in Medicine	John R. Thornborough			2000-04	McGraw-Hill						ZZZ000000
+9780071132879	Engineering graphics fundamentals	Arvid R. Eide			1995-06-01	McGraw-Hill						ZZZ000000
+9780071134071	Machine vision	Ramesh Jain&Rangachar Kasturi&Brian G. Schunck			1995	McGraw-Hill						ZZZ000000
+9780071135719	Telecommunications management,broadcasting/cable and the new technologies	Barry L. Sherman			1995-03-01	McGraw-Hill						ZZZ000000
+9780071137751	Global management of quality assurance systems	Walter Willborn			1994-05-01	McGraw-Hill						ZZZ000000
+9780071139823	Wireless networked communications,concepts, technology, and implementation	Regis J. Bates			1995-03-01	McGraw-Hill						ZZZ000000
+9780071141413	Systems Analysis and Design,An Object-Oriented Approach	Sandra Dewitz			1996-05-01	McGraw-Hill Education						COM000000
+9780071144254	Forest resource economics and finance	W. David Klemperer			1996-04-01	McGraw-Hill						ZZZ000000
+9780071155304	Linear algebra with applications	John T. Scheick			1997-07-01	McGraw-Hill						ZZZ000000
+9780071155847	Manual of structural kinesiology	Clem W. Thompson&R. T. Floyd			1998-03	WCB/McGraw-Hill						ZZZ000000
+9780071156752	The discovery of society	Randall Collins&Michael Makowsky			1998-05-01	McGraw-Hill						ZZZ000000
+9780071156905	Fundamentals of social statistics	Kirk W. Elifson&Richard P. Runyon&Audrey Haber			1998	McGraw-Hill						ZZZ000000
+9780071158060	Introduction to information systems,an internetworked enterprise perspective	James A. O'Brien			1998-06-01	Irwin/McGraw-Hill						ZZZ000000
+9780071158350	Partial differential equations and boundary-value problems with applications	Mark A. Pinsky			1998-02-01	WCB/McGraw-Hill						ZZZ000000
+9780071160131	Schaum's outline of theory and problems of trigonometry,with calculator-based solutions	Frank Ayres&Robert E. Moyer		Printbegrænsninger: Der kan printes 10 sider ad gangen og max. 40 sider pr. session.	1999-06-01	McGraw-Hill						ZZZ000000
+9780071163545	Reliability of structures	Andrzej S. Nowak&Nowak&Kevin R. Collins			2000-04-10	McGraw-Hill						ZZZ000000
+9780071167918	Operation and modeling of the MOS transistor	Yannis P. Tsividis			1999-03-31	WCB/McGraw-Hill						ZZZ000000
+9780071182119	Pre-Test Neurology	Elkind			2001	McGraw-Hill Education						ZZZ000000
+9780071226240	Computer organization	V. Carl Hamacher&Zvonko G. Vranesic&Safwat G. Zaky			2002	McGraw-Hill						ZZZ000000
+9780071232494	Microelectronic circuit design	Richard C. Jaeger&Travis N. Blalock		Microelectronic Circuit Design is known for being a technically excellent text. The new edition has been revised to make the material more motivating and accessible to students. A new co-author, Travis Blalock, has joined the author team to assist in providing a student-friendly approach. A pedagogical framework has been included to include chapter opening vignettes, chapter objectives, 'ŹSElectronics in Action'Ź boxes, a problem solving methodology, and 'ŹSdesign note'Ź boxes. More examples, including new design examples, have been built-in, giving students more opportunity to see problems worked out. Additionally, some of the less fundamental mathematical material has been moved to the website.	2004	McGraw-Hill						ZZZ000000
+9780071240598	The mechanical design process	David G. Ullman			2003	McGraw-Hill						ZZZ000000
+9780071240833	Software Engineering	Roger Pressman			2009-03-01	McGraw-Hill Education						ZZZ000000
+9780071241526	Semiconductor Device Fundamentals	Anderson			2003-12-01	McGraw-Hill Education						ZZZ000000
+9780071412018	Phase-locked loops,design, simulation, and applications	Roland E. Best		Phase Locked Loops (PLLs) are electronic circuits used for frequency control. Anything using radio waves, from simple radios and cell phones to sophisticated military communications gear uses PLLs.The communications industry’s big move into wireless in the past two years has made this mature topic red hot again. The fifth edition of this classic circuit reference comes complete with extremely valuable PLL design software written by Dr. Best. The software alone is worth many times the price of the book. The new edition also includes new chapters on frequency synthesis, CAD for PLLs, mixed-signal PLLs, and a completely new collection of sample communications applications.	2003	McGraw-Hill Professional						ZZZ000000
+9780838584491	Review of medical physiology	William F. Ganong			1999-12-31	McGraw-Hill Education						MED068000
+9780071006064	Analysis and design of information systems	James A. Senn			1989-09-01	McGraw-Hill						ZZZ000000
+9780071358668	Managing interactively,executing business strategy, improving communication, and creating a knowledge-sharing culture	Mary E. Boone		Based on numerous interviews with top CEOs and other professionals, Managing Interactively helps readers become well-versed communicators in today’s global, technologically focused organizations.Best-selling author Mary Boone examines the techniques and issues that surround clear and effective communication skills in the rapidly changing digital environment and presents provocative new ideas that will help readers address today’s communication challenges. Distilling the experience of top executives into easily applied techniques, each chapter features actual stories from expert communicators who have learned how to successfully adapt their communication strategies to today’s technologies. Managing Interactively is a must-have for anyone facing the communication challenges of today’s volatile business world.	2001	McGraw-Hill Professional						ZZZ000000
+9780071362443	How to hire and develop your next top performer,the five qualities that make salespeople great	Herbert Greenberg&Harold Weinstein&Patrick Sweeney		Over the past four decades, Caliper Consulting has helped more than 23,000 companies worldwide effectively select, develop, and manage people. For most companies, hiring the right employee is a challenge. The Caliper Profile has proved to be over 90% accurate in determining who will become a top performing salesperson. In this practical book, Herb Greenberg, CEO of Caliper and developer of the Caliper Profile, arms managers with everything they need to stop the recruitment revolving door in their companies and to hire the right people the first time, every time, by showing managers how to:• Identify the four proven factors that predict an employee’s success in sales• Outline a proven system for finding, developing, and retaining great salespeople• Follow his expert guidance on job matching, team-building, leadership, and successful sales traits for specific industriesHerb Greenberg (Princeton, NJ) is the founder and president of Caliper. A recognized authority on the relationship between personality and performance, he speaks widely and is published extensively, including articles in the Harvard Business Review. Harold Weinstein (Princeton, NJ) is COO of Caliper and an active consultant, writer, and speaker around the world. Patrick Sweeney (Princeton, NJ)is Executive VP of marketing at Caliper where he oversees positioning of the assessment, training, and consulting practices.	2001	McGraw-Hill						ZZZ000000
+9780071375276	ValueSpace,winning the battle for market leadership : lessons from the world's most admired companies	Banwari Mittal&Jagdish N. Sheth		In the tradition of the bestselling The Discipline of Market Leaders, business professors and consultants Banwari Mittal and Jagdish N. Sheth describe a dynamic new value-based approach to achieving market dominance they call ValueSpace—the space that great companies create to deliver their customers the greatest value. Based on the findings of an in-depth study for the prestigious Marketing Science Institute of the top 10 companies on Fortune’s Most Admired Companies list, Mittal and Sheth show that value is the “missing link” in achieving enduring customer loyalty, and that the three main components of customer value are performance, price, and service. With the help of fascinating case studies from UPS, 3M, Caterpillar, Xerox, Fossil, and other “most admireds,” Value Space explains why and how companies in all business sectors that excel at delivering customer value are invariably the market leaders. It outlines a complete program for achieving long-term success by more effectively managing the 9 organizational processes that drive performance, price, and service.	2001-05-11	McGraw-Hill						ZZZ000000
+9780070078086	Management 8E (Sie)	Bateman				Tata McGraw-Hill						ZZZ000000
+9780070080744	Complete Physics For Aieee 2009 (With Free Cd)	Tmh				Tata McGraw-Hill						ZZZ000000
+9780070080850	Algebra For Iit Jee	Rahi				Tata McGraw-Hill						ZZZ000000
+9780070083103	Essentials Of Fin Services 2E	Gurusamy				Tata McGraw-Hill						ZZZ000000
+9780070087750	Cost Accounting 2E	Murthy				Tata McGraw-Hill						ZZZ000000
+9780070090996	Understdng Geog Maps Entries	Husain				Tata McGraw-Hill						ZZZ000000
+9780070091108	Cases In Organizational Behaviour And Human Resource Management	Mirza S Saiyadain			2009	Tata Mgraw Hill						ZZZ000000
+9780070091504	Mcqs In Mercantile Law(For Ca Commn.)	Madhuri				Tata McGraw-Hill						ZZZ000000
+9780070139206	Relationships in physical science	Wilfred Frank Croft&Ormon Lee Wilson&George Allen Page			1971	Tata McGraw-Hill						ZZZ000000
+9780070141599	Plant Taxonomy 2E	Sharma				Tata McGraw-Hill						ZZZ000000
+9780070144927	Information Tech For Mgmt	Behl				Tata McGraw-Hill						ZZZ000000
+9780070145054	Aieee Maths In 30 Days	Tmh				Tata McGraw-Hill						ZZZ000000
+9780070146297	Aieee Chemistry In 30 Days	Tmh				Tata McGraw-Hill						ZZZ000000
+9780070146457	Verbal Ability & Reading Compre Cat, 2E	Sharma				Tata McGraw-Hill						ZZZ000000
+9780070151550	Concepts Of Modern Phy (Sie) 6E	Beiser				Tata McGraw-Hill						ZZZ000000
+9780070152618	Course In Maths Iit 2010	Tmh				Tata McGraw-Hill						ZZZ000000
+9780070153257	Prin Of Mgmt & Ob, 2E	Mukherjee			2009	Tata McGraw-Hill						ZZZ000000
+9780070153295	Executive Communication, 3E	Devaraj				Tata McGraw-Hill						ZZZ000000
+9780070159471	Buss Organization & Mgmt	Saha				Tata McGraw-Hill						ZZZ000000
+9780070221628	Cost Accounting	Jawahar-Lal			2008	Tata McGraw-Hill						ZZZ000000
+9780070221864	Physics For Class X	Goel				Tata McGraw-Hill						ZZZ000000
+9780070223882	Deep Strengths	Pritchett				Tata McGraw-Hill						ZZZ000000
+9780070260986	Cimple	Rout			2008	Tata McGraw-Hill						ZZZ000000
+9780070263529	Chemistry For Class X	Dhawan				Tata McGraw-Hill						ZZZ000000
+9780070263642	International economics	Cherunilam			2008	Tata McGraw-Hill						ZZZ000000
+9780070264175	How To Prep For Di & Lr For Cat 4E	Sharma				Tata McGraw-Hill						ZZZ000000
+9780070264755	C'a	Engardio				Tata McGraw-Hill						ZZZ000000
+9780070265110	Distributed Databases	Ceri			1988	Tata McGraw-Hill						COM021000
+9780070435100	Sos: Statistics	Spiegel			2000-11-01	Tata McGraw-Hill						ZZZ000000
+9780070436046	EDP auditing,conceptual foundations and practice	Ron Weber			1982	McGraw-Hill						ZZZ000000
+9780070444782	Nortel Networks: The Complete Reference (with Cd)	Knapp				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070444799	Oracle 8i: Data Warehousing	Corey				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070447608	Principles of foundry technology	P. L. Jain			2003	Tata McGraw-Hill						ZZZ000000
+9780070473713	Proced. Elements 4 Comp.Graphi	Rogers			2001	Tata McGraw-Hill						ZZZ000000
+9780070474321	Fundamentals Of Digital Logic With Vhdl Design (with Cd)	Brown			2002	Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070483996	Computer Program Design	Dickson			2002-05-01	Tata McGraw-Hill						ZZZ000000
+9780070486386	Ele Machns Pwr Sys Vol.I Elec Machns	S. A. Nasar			2003	Tata McGraw-Hill						ZZZ000000
+9780070486775	Math. Elements 4 Comp Graphics, 2/E	Rogers			2002-07-01	Tata McGraw-Hill						ZZZ000000
+9780070494701	Embedded systems,architecture, programming and design	Raj Kamal			2003	Tata McGraw-Hill						ZZZ000000
+9780070494817	Advanced Mech Of Solids,2E	Srinath			2003-07-01	Tata McGraw-Hill						ZZZ000000
+9780070494916	Automotive mechanics	S. Srinivasan			2003	Tata McGraw-Hill						ZZZ000000
+9780070495043	Reinforced Concrete Design	Pillai & Menon&S Unnikrishna Pillai Menon Devadas			2003	Tata McGraw-Hill						ZZZ000000
+9780070529069	Digital Principles And Design (With Cd)	Givone			2002-10-01	Tata McGraw-Hill						ZZZ000000
+9780070530706	Advanced Computer Architecture	Hwang			2003-02-01	Tata McGraw-Hill						ZZZ000000
+9780070534704	Surveying,vol.i,2e	S. K. Duggal			2004	Tata McGraw-Hill						ZZZ000000
+9780070540736	Ethics In Engineering	Martin			2003	Tata McGraw-Hill						ZZZ000000
+9780070581890	Qt Apt, 3E	Guha			2004-08-01	Tata McGraw-Hill						ZZZ000000
+9780070581937	Engineering Economics And Financial Accounting (Ascent Series)	Aryasri & Ramana Murthy			2003	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070582446	Constrn Plang, Equipmt N Metho	Peurifoy			2003-07-01	Tata McGraw-Hill						ZZZ000000
+9780070582477	Microeconomic Thoery 3/E	Henderson			2003-08-01	Tata McGraw-Hill						ZZZ000000
+9780070583375	Relationship marketing,text and cases	S. Shajahan			2004	Tata McGraw-Hill						ZZZ000000
+9780070583733	CAD/CAM,principles and applications	P N Rao			2004	Tata McGraw-Hill						ZZZ000000
+9780070586109	Theory And Problems Of Probability And Statistics (Schaum S Outline Series)	Spiegel			2003-12-01	Tata McGraw-Hill						ZZZ000000
+9780070586666	Designing And Managing The Supply Chain: Concepts, Strategies And Case Studies (with Cd)	Simchi-Levi			2006	Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070586918	Human Development, 9/E With Cd	Papalia			2004	Tata McGraw-Hill						ZZZ000000
+9780070587519	Spectro. Metds In Org. Chemist	Williams			2004-06-01	Tata McGraw-Hill						ZZZ000000
+9780070587991	Financial institutions and markets,structure, growth and innovations	L M Bhole			2004	Tata McGraw-Hill						ZZZ000000
+9780070588004	General Studies Manual 2005 For The Upsc Civil Services Preliminary Examination	Tara Chand				Tata Mcgraw Hill Publishing Co Ltd						ZZZ000000
+9780070588820	T&P Of College Chemistry, 8/E (Sos)	Rosenberg			2004-07-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070588875	Reinforced Concrete Dsign 3/E (Sos)	Everard			2004-07-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070589537	Theory And Problems Of Fluid Dynamics	Hughes			2004-07-01	Tata McGraw-Hill						ZZZ000000
+9780070589667	Dsp: A Hands-On- Approach With Cd	Schuler			2004-07-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070591127	Introduction to neural networks using MATLAB 6.0	S. N. Sivanandam&Sumathi & Deepa			2006	Tata McGraw-Hill						ZZZ000000
+9780070591134	Operating systems	Achyut S Godbole&Achyut			2005	Tata McGraw-Hill						ZZZ000000
+9780070593671	Electric Power Systems (Special Indian Edition) (Schaum S Outline Series)	Nasar				Tata McGraw-Hill						ZZZ000000
+9780070598553	Economics	Samuelson			2005	Tata McGraw-Hill						ZZZ000000
+9780070598577	Restructuring For Growth	Michaelson			2004-12-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070598621	Creative New Employee Orientation Progra	Sims			2004-11-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070598799	International Marketing 12/E W	Cateora			2005-01-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070599055	Macroeconomics, 6/E	Dornbusch			2005	Tata McGraw-Hill						ZZZ000000
+9780070599383	Macroeconomic Policy Environment	Roy			2005-07-01	Tata McGraw-Hill						ZZZ000000
+9780070599499	Question Bank In Mathematics For Class Viii	Tata Mcgraw-Hill				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070599758	Basic Business Communication: Skills For Empowering The Internet Generation (Book + Cd)	Lesikar			2005	Tata McGraw-Hill						ZZZ000000
+9780070601635	Strength Of Materials 4E Sie	Nash			2005-10-01	Tata McGraw-Hill						ZZZ000000
+9780070601680	T&P Of Data Struc (Sie)	Lipschutz & Pai				Tata McGraw-Hill						ZZZ000000
+9780070601772	Feedback & Control Systems 2E	Distefano				Tata McGraw-Hill						ZZZ000000
+9780070603356	Six Sigma Management	Blashka/crager		MPD - No Info	2005	Tata McGraw-Hill						ZZZ000000
+9780070603561	Operations Management, 8/E With Dvd	Stevenson			2005-10-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070603578	Operations Management, 8/E Book Only	Stevenson			2005-09-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070603677	Digital Hardware Design	Peatman			2005-09-01	Tata McGraw-Hill						ZZZ000000
+9780070603981	Complete Solutions To Model Iit Entrance Examination Questions 2005	Tata Mcgraw-Hill				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070604100	Question Bank In Mathematics For Class Xi	Tata Mcgraw-Hill				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070604131	Question Bank In Accountancy For Class Xi	Tata Mcgraw-Hill				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070604155	Question Bank In Economics For Class Xi	Tata Mcgraw-Hill				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780070604612	Indian advertising,1780 to 1950 A.D.	Arun Chaudhuri		Indian Advertising: 1780-1950 A.D. is a book with a difference. It covers a span of two centuries and takes the readers through the bygone era when similar and not so similar issues were encountered while reaching the end consumer. Besides the social milieu around that time, it covers the creative aspects of advertising such as copywriting and art. It also provides a glimpse of the evolution of media, printing and the people who set up art colleges or formed art groups to sell lithography paintings. It also follows the rapid developments in advertising standards of press advertising (when all the pre-press work was done in newspaper offices and no ad agencies were around).	2007	Tata McGraw-Hill						ZZZ000000
+9780070605008	Differential Geometry (Sos)	Lipschutz			2005-09-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070610552	International Financial Management	Apte			2006	Tata McGraw-Hill						ZZZ000000
+9780070611221	Articulate Executive In Action	Toogood			2005-12-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070611818	How Dell Does It	Holzner		From $1,000 in capital to $47 billion in gross income, Dell is now the world's leading computer systems company. How Dell Does It delineates Dell's incredible successes and the lessons learned on the way to becoming #1 on Fortune's Most Admired list--and shows how you can apply these successes to your businesses. You'll get an insider look at the cornerstone of Dell's model: zero-tolerance for inventory, and the flexibility allowed by that policy, which is sure to be a central business paradigm, especially in the tech industry, in coming years.	2006	Tata McGraw-Hill						BUS070030
+9780070612464	An Introduction to Differential Equations	Sherman K. Stein&Anthony Barcellos			1993-07-01	McGraw-Hill Companies, The						MAT007000
+9780070615601	Management Strategy	Marcus			2006-04-01	Tata McGraw-Hill						ZZZ000000
+9780070615649	Extreme Resume Makeover	Kenkel			2006-04-01	Tata McGraw-Hill						ZZZ000000
+9780070616097	Differential Equations	Simmons			2006	Tata McGraw-Hill						ZZZ000000
+9780070616394	Numerical Problems In Physics For Class Xi	Tmh			2006-08-01	Tata McGraw-Hill						ZZZ000000
+9780070616820	Data Commn And Networks(Isrd)	Isrd			2006	Tata McGraw-Hill						ZZZ000000
+9780070617292	Projects	P Chandra			2006-05-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070618411	Applied Statistics In Business And Economics	Doane			2006	Tata McGraw-Hill						ZZZ000000
+9780070618879	How Great Leaders Get Great Results	Baldoni			2006-07-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070619852	Software Project Mgmt 4E	Hughes			2006-08-01	Tata McGraw-Hill						ZZZ000000
+9780070620285	The Ca Digest: Question Bank In Accountancy For Ca Pe-I	Tulsian			2006-07-01	Tata McGraw-Hill						ZZZ000000
+9780070620360	Concise Physics Class Xi	N P Sharma			2006-10-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070634275	Foundations Of Embryology 6E Sie	Carlson				Tata McGraw-Hill						ZZZ000000
+9780070634831	Introduction To Business	Jones				Tata McGraw-Hill						ZZZ000000
+9780070634961	Schaum's outlines electronic communication	Lloyd Temes&Mitchel E. Schultz		If you want top grades and thorough understanding of electronic communications in less study time, this powerful study tool is the best tutor you can have! It takes you step-by-step through the subject and gives you accompanying problems with fully worked solutionsÑplus hundreds of additional problems with answers at the end of chapters, so you can measure your own progress. You also get the benefit of clear, detailed illustrations. Famous for their clarity, wealth of illustrations and examplesÑand lack of tedious detailÑSchaumÕs Outlines have sold more than 30 million copies worldwide. This guide will show you why!	1998	McGraw-Hill						ZZZ000000
+9780070635715	The diaries of Adam and Eve	Mark Twain			1971-01	Tata McGraw-Hill						ZZZ000000
+9780070635739	Geography For The Upsc Civil Services Preliminary Examination	Singh			2006	Tata McGraw-Hill						ZZZ000000
+9780070636002	Schaum'S Theoretical Mechanics	Spiegel			2006-08-01	Tata McGraw-Hill						ZZZ000000
+9780070636194	Medical Anthropology	Pool			2006	Tata McGraw-Hill						SOC002000
+9780070636590	Programming languages	Allen B. Tucker			1986	Tata McGraw-Hill						ZZZ000000
+9780070636620	7 Secrets Of Great Entrepreneurialmaster	Fishman			2006-12-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070636750	Presentations That Change Mind	Gordon			2006-11-01	Tata McGraw-Hill						ZZZ000000
+9780070647770	Software Engineering (Sie) 7E	Schach				Tata McGraw-Hill						ZZZ000000
+9780070655430	Mathematics For Class Ix	Kathuria			2007-06-01	Tata McGraw-Hill						ZZZ000000
+9780070655539	Quest Bank Maths Xi (2008)	Tmh			2007-03-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070655577	Quest Bank Business Studies Xi (2008)	Tmh			2007-03-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070655683	Political Science For Civil Services Preliminary Examination	Arora				Tata McGraw-Hill						ZZZ000000
+9780070656154	Physics For Class Ix	Goel			2007	Tata McGraw-Hill						ZZZ000000
+9780070656178	Providing for energy,report of the Twentieth Century Fund Task Force on United States Energy Policy	Twentieth Century Fund. Task Force on United States Energy Policy&Richard B. Mancke			1977-01-01	Tata McGraw-Hill						ZZZ000000
+9780070656321	Quest Bank Maths Ix(2008)	Tmh			2007-03-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070656345	Concise Physics For Class Xii	Sharma N P			2007-05-01	Tata McGraw-Hill						ZZZ000000
+9780070656666	Financial Supply Chain	Dalmia			2009-01-01	Tata McGraw-Hill						ZZZ000000
+9780070656789	The Missionary: Amrita Patel	Shrinivas Pandit			2007-08-01	Tata McGraw-Hill						ZZZ000000
+9780070656901	Investment Banking:Theory&Prac	Pratap G Subramanyam			2008	Tata McGraw-Hill						ZZZ000000
+9780070657038	Financial Instruments Standards	Gupta		Over the last couple of years, companies around the world switched from national accounting standards to International Financial Reporting Standards (IFRS). India too would adopt IFRS directly or align the national standards with IFRS from 2011. While this has been welcomed by investors and other stakeholders, practitioners continue to grapple with interpretations and practices that are emerging in areas where the standards are not explicit.Financial Instruments Standards guides the reader through rules and supplements the application guidance with interpretation and analyses. It deals with all aspects of hedge accounting, as well as embedded derivatives and de-recognition of financial instruments. It also includes numerous worked out examples pertaining to complex calculations and disclosures.	2008	Tata McGraw-Hill						ZZZ000000
+9780070657076	On The Leading Edge	Shrinivas Pandit			2008	Tata McGraw-Hill						ZZZ000000
+9780070659575	The Lead Ladder	Schaller			2007-07-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070659940	Vector Mechancis For Engineers: Statics And Dynamics [Si Units]	Beer; Johnston&Beer				Tata McGraw-Hill						ZZZ000000
+9780070660267	Numerical Problems In Physics Xii 2E	Tmh			2007-07-01	Tata McGraw-Hill						ZZZ000000
+9780070660274	Cases In Strategic Management	Mital			2007-09-01	Tata McGraw-Hill						ZZZ000000
+9780070660335	Complete Chem For Aieee 2008(W/Cd)	Tmh			2007-07-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070660359	Complete Maths For Aieee 2008	Tmh			2007	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070660366	Complete Physcis For Aieee 2008	Tmh			2007-06-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070660373	Crse In Phy Iit-Jee 2008	Tmh			2007-06-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070660380	Course In Maths Iit 2008	Tmh			2007-06-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070660397	Course In Chem Iit-Jee 2008	Tmh			2007-06-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070660403	Study Packge For Ntse-Viii 1E	Tmh			2007-08-01	Tata McGraw-Hill						ZZZ000000
+9780070660502	Spaceflight Dynamics,2E(Sie)	Wiesel				Tata McGraw-Hill						ZZZ000000
+9780070660854	Principles of underwater sound for engineers	Robert J. Urick			1967	Tata McGraw-Hill						ZZZ000000
+9780070666764	Pro/Engg Wildfire 3.0(Sie)	Kelly				Tata McGraw-Hill						ZZZ000000
+9780070666924	Financial Services	Khan			2007-09-01	Tata McGraw-Hill						ZZZ000000
+9780070666931	Operations Now (Bk Only) 3E	Finch				Tata McGraw-Hill						ZZZ000000
+9780070667037	Supply chain logistics management	Bowersox				Tata McGraw-Hill						ZZZ000000
+9780070667112	Marketing	Grewal				Tata McGraw-Hill						ZZZ000000
+9780070667167	Organic Chemistry (Sie)	Carey				Tata McGraw-Hill						ZZZ000000
+9780070667181	Food Microbiology (Sie) 4E	Frazier				Tata McGraw-Hill						ZZZ000000
+9780070667617	Tech Of Machine Tools (Sie)	Krar			2007-09-01	Tata McGraw-Hill						ZZZ000000
+9780070667631	Software Engineering	Jawadekar				Tata McGraw-Hill						ZZZ000000
+9780070667662	Contemporary Advertising 10E (Sie)	Arens				Tata McGraw-Hill						ZZZ000000
+9780070668058	Financial Services & System	Sasidharan			2008	Tata McGraw-Hill						ZZZ000000
+9780070668386	Current Affairs Reckoner	Vaid			2007-09-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070669321	Engineering Chemistry	Sivasankar			2008	Tata McGraw-Hill						ZZZ000000
+9780070671928	System Software	Nithyashri				Tata McGraw-Hill						ZZZ000000
+9780070672833	Transmission Lines & Waveguide	Ganesan			2010	Tata McGraw-Hill						ZZZ000000
+9780070672840	Design Of Machine Elements	Babu & Sridhar			2010	Tata McGraw-Hill						ZZZ000000
+9780070677401	Strategic Mgmt: Text & Cases 3E	Dess				Tata McGraw-Hill						ZZZ000000
+9780070679948	General Studies Manual 2010 (Silver Jubilee Ed)	T M H				McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070682603	Strategic Marketing 8E	Cravens				Tata McGraw-Hill						ZZZ000000
+9780070965188	Managerial economics,concepts and cases	Victor L. Mote			1977	Tata McGraw-Hill						ZZZ000000
+9780070992290	Most Common Mistakes in English Usage	Thomas Elliott Berry			1976-07-01	Tata McGraw-Hill						ZZZ000000
+9780070992764	Experimental Psychology,Methodology, Psychophysics and Learning	M.R. D'Amato			1979	Tata McGraw-Hill						ZZZ000000
+9780070992900	Stereochemistry Of Carbon Comp	Eliel			2001	Tata McGraw-Hill						ZZZ000000
+9780070993198	Introduction to operations research,a computer-oriented algorithmic approach	Billy E. Gillett			1979-09-01	Tata McGraw-Hill						ZZZ000000
+9780070993914	Bio-Tech : The Biological Prin	Boffey Jw Trevan			2001-12-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780070994874	Intro pract biochemistry	Plummer Mu&Plummer			2001	Tata McGraw-Hill						ZZZ000000
+9780070995000	Abnormal Psychology	Page Mn			2002-07-01	Tata McGraw-Hill						ZZZ000000
+9780070995628	Fundamental principles of bacteriology	A.J. Salle			1984	Tata McGraw-Hill						ZZZ000000
+9780070995734	Power station engineering and economy	Bernhardt George August Skrotzki&William A. Vopat			1972	Tata McGraw-Hill						ZZZ000000
+9780070996946	The Finite Element Mtd 3E	Zienkiewicz Mu			2001-05-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780071167635	Schaum's Outline of Managerial Accounting	Jae K. Shim&Joel G. Siegel			1999-04-29	McGraw-Hill Education						ZZZ000000
+9780074515051	Introduction to Engineering Materials	B. K. Agrawal			1988-09-01	Tata McGraw-Hill						ZZZ000000
+9780074515068	Organization and management	R.D. Agarwal			1983-01-01	Tata McGraw-Hill						ZZZ000000
+9780074516102	THE PHYSICS OF WAVES AND OSCILLATIONS	N.K. Bajaj			1988-10-01	Tata McGraw-Hill						ZZZ000000
+9780074516263	Managerial effectiveness and quality of worklife,Indian insights	Chakraborty			1987	Tata McGraw-Hill						ZZZ000000
+9780074516508	Purchasing and Materials Management	Gopalakrishnan			2001	Tata McGraw-Hill						ZZZ000000
+9780074517154	Solid mechanics	S. M. A. Kazimi			2001	Tata McGraw-Hill						ZZZ000000
+9780074517963	Materials science	G. K. Narula&K. S. Narula&V. K. Gupta			1989-10-01	Tata McGraw-Hill						ZZZ000000
+9780074600818	Artificial Intelligence 2E	Rich			2001	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780074601051	TV and Video Engineering	A. M. Dhake			2001	Tata McGraw-Hill						ZZZ000000
+9780074601266	Managerial Economics	Gupta			2001	Tata McGraw-Hill						ZZZ000000
+9780074601341	Thermal Physics	Garg			1993	Tata McGraw-Hill						ZZZ000000
+9780074603154	Classical Mechanics	Rana & Joag&Rana			2001-02-01	Tata McGraw-Hill						ZZZ000000
+9780074603901	Automotive Technology	Sethi			2001-07-01	McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9780074604205	Electrical Engineering Materials	Technical Teachers' Training I			1989-06-01	Tata McGraw-Hill						ZZZ000000
+9780074604748	Counselling And Guidance	Rao			2002	Tata McGraw-Hill						ZZZ000000
+9780074620434	Textbook of Soil Sciences	Biswas&S.K. Mukherjee			2001-11-01	Tata McGraw-Hill						ZZZ000000
+9780074620526	Theory and problems in production and operations management	S. N. Chary			1995	Tata McGraw-Hill						ZZZ000000
+9780074621400	Audio Video System : Principles, Maintenance & Troubleshooting	R. G. Gupta			2001	Tata McGraw-Hill						ZZZ000000
+9780074621479	Mechatronics	Hindustan Machine Tools Limited			1998	Tata McGraw-Hill						ZZZ000000
+9780074622346	Fundamentals Of Cereal Crop Production	Pal			1996	Tmh						ZZZ000000
+9780074622377	Machine Tool Dsgn,2E	Mehta			2002	Tata McGraw-Hill						ZZZ000000
+9780074622506	Introduction To Psychology	Morgan			2001-02-01	Tata McGraw-Hill						ZZZ000000
+9780074622933	Production and Operations Management	Nair			2002	Tata McGraw-Hill						ZZZ000000
+9780074623343	Prin Of Ind'L Instru'N 2E	Patranabis			2001	Tata McGraw-Hill						ZZZ000000
+9780074623534	Programming In Ansi C	Ramkumar				Tata Mcgraw-Hill Publishing Company Limited						ZZZ000000
+9780074624005	Power electronics	P. C. Sen			1987	Tata McGraw-Hill						ZZZ000000
+9780074630105	Refrigeration and air conditioning	Arora			2000	Tata McGraw-Hill						ZZZ000000
+9780074630952	Design of steel structures	Duggal S K			2000	Tata McGraw-Hill						ZZZ000000
+9780074631669	Child Development	Hurlock			2001	Tata McGraw-Hill						ZZZ000000
+9780074633632	Thermal Engineering	Sarkar			2001	Tata McGraw-Hill						ZZZ000000
+9780074635292	Neural Netwks Funs.Grps,Alg. & Applns	Bose			1998-09-01	Tata McGraw-Hill						ZZZ000000
+9780074635582	Information Technology	Curtin			1999-01-01	Tata McGraw-Hill						ZZZ000000
+9780074635773	Microwave engineering	Annapurna Das			2000-04-01	Tata McGraw-Hill						ZZZ000000
+9780074637432	Internet & Intranet Engineering	Minoli			1999	Tata McGraw-Hill						COM060000
+9788182090873	Spoken English With Cd	Jayashree Blan				McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9788182091023	Essentials Of Dbms	Alexis Leon&Matthews Leon				McGraw-Hill Education (India) Pvt Ltd						ZZZ000000
+9788122421682	Credit Risk Pricing, Measurement And Management	Nil			2007-01-01	New Age International (P) Ltd.						ZZZ000000
+9780852261903	Thyristorised Power Controllers	G. K. Dubey&S.R. Doradia&A. Joshi			1986-08-24	New Age International						ZZZ000000
+9780852263075	Polymer Science	V R Gowariker&N V Viswanathan&Jayadev Sreedhar			2003	New Age International						ZZZ000000
+9780852263389	University algebra	N. S. Gopalakrishnan			1986-11-02	New Age International						ZZZ000000
+9780852263464	Microwaves	K. C. Gupta			1979	New Age International						ZZZ000000
+9780852264324	Numerical solution of differential equations	Mahinder Kumar Jain			1984-05-16	Wiley Eastern						ZZZ000000
+9780852264522	An introduction to energy conversion	V. Kadambi&Manohar Prasad			1974	New Age International						ZZZ000000
+9780852264997	Electromagnetics	B. B. Laud			1987	New Age International						ZZZ000000
+9780852267585	Power system protection and switchgear	B. Ravindranath&M. Chander			1977	New Age International						ZZZ000000
+9780852268520	Introduction to Applicable Mathematics	Fred A. Hinchey			1984	Wiley						ZZZ000000
+9788122403381	Marketing Research - Text, Applications And Case Studies	Ramanuj Majumdar		This Handbook Clearly Explains The Basic Principles Of Engineering Drawing And Highlights The Essential And Advanced Features Of Modern Draughting Practice. The Basic Emphasis Is Towards Providing Practical Guidelines For The Making Of Reliable Industrial Drawings.In A Systematic Manner, The Book Presents: * The Various Procedures Governing Engineering Drawing * Material Specifications Of Common Engineering Components * Incorporation Of Machining Symbols * Assignment Of Proper Fits And Tolerances * Mensuration For Calculating Volume And Mass * Ways Of Overcoming Common Problems And Pitfalls * Relevant Indian Standards And Iso SpecificationsWritten Completely In Si Units, This Is A Self-Sufficient Handbook For Engineering Draughts Men And Designers.	2007-01-01	New Age International						ZZZ000000
+9788122404265	Mechanism and Machine Theory	R V Dukkipati		This Book Evolved Itself Out Of 25 Years Of Teaching Experience In The Subject, Moulding Different Important Aspects Into A One Year Course Of Mechanism And Machine Theory. Basic Principles Of Analysis And Synthesis Of Mechanisms With Lower And Higher Pairs Are Both Included Considering Both Kinematic And Kinetic Aspects. A Chapter On Hydrodynamic Lubrication Is Included In The Book. Balancing Machines Are Introduced In The Chapter On Balancing Of Rotating Parts. Mechanisms Used In Control Namely, Governors And Gyroscopes Are Discussed In A Separate Chapter. The Book Also Contains A Chapter On Principles Of Theory Of Vibrations As Applied To Machines. A Solution Manual To Problems Given At The End Of Each Chapter Is Also Available. Principles Of Balancing Of Linkages Is Also Included. Thus The Book Takes Into Account All Aspects Of Mechanism And Machine Theory To The Reader Studying A First Course On This Subject.This Book Is Intended For Undergraduate Students Taking Basic Courses In Mechanism And Machine Theory. The Practice Of Machines Has Been Initially To Use Inventions And Establishment Of Basic Working Models And Then Generalising The Theory And Hence The Earlier Books Emphasises These Principles. With The Advancement Of Theory Particularly In The Last Two Decades, New Books Come Up With A Stress On Specific Topics.The Book Retains All The Aspects Of Mechanism And Machine Theory In A Unified Manner As Far As Possible For A Two Semester Course At Undergraduate Level Without Recourse To Following Several Text Books And Derive The Benefits Of Basic Principles Recently Advanced In Mechanism And Machine Theory.	2007-01-01	bohem press						ZZZ000000
+9788122404296	Computational Methods for Partial Differential Equations	M. K. Jain&S. R. Iyengar			1993-01-01	New Age International						ZZZ000000
+9788122404326	Digital Systems - From Gates To Microprocessors	Sanjay K Bose		Starting From The Basics Of Boolean Algebra And Digital Circuit Design Using Gates And Flip-Flops, This Text Familiarises The Reader With The Basic Concepts Of Microprocessors And Microprocessor-Based Systems. The Initial Chapters Deal With The Design Of Combinatorial And Sequential Circuits Summarizing Briefly, The Relevant Techniques For Such Designs. The Later Chapters Of The Text Deal With Cpu Architecture, Microcomputer Organization, I/O Techniques, Interrupts And Analog Interfacing. The Book Discusses In Detail Intel'S 8085A And 8086/8088 Cpus And The Zilog Z-80 Cpu. It Also Presents A Detailed Description Of Some Single-Chip Microcomputers. Various Commonly Used Lsi Peripheral Support Devices Are Also Discussed Extensively Throughout The Text.	2007-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122413113	Machine Drawing (Vtu)	K. L. Narayana			2003-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122415261	Legal Aspects Of Marketing In India	V. V. Sople		The Book Covers Indian Laws, Which Influence The Marketing Decision Making Process In The Business Organizations. The Provisions Of The Laws Are Explained And Supported By The Court Judgments In The Form Of Cases At The End Of Each Chapter, Keeping In View The Requirements Of Dbm, Pgdba, Mms And Mba Students Specializing In Marketing Management. This Book Is Designed To Prepare The Students Of Marketing To Understand The Legal Implications Of Their Day-To-Day Or Strategic Decisions In Product Or Service Marketing. He Need Not Be A Legal Expert, But He Should Have Enough Knowledge About The Laws Of The Land To Avoid Two Things, One Falling Into The Legal Trap And Two To Face The Consequences Like Imprisonment, Penalty Or Defamation For Himself And For The Organization He Is Representing.The Book Starts With Chapters On Basics Of Law, Various Indian Acts Influencing Marketing And Consumer Rights. The Major Acts Like Consumer Protection Act, Competition Acts, Sales Of Goods Act, Hire Purchase Act, Contract Act And Negotiable Instruments Act Are Covered In Details. A Chapter On Intellectual Property Rights (I.E. Patents, Copyrights, Trademarks, Designs And Geographical Indications) Covers Various Indian Acts For Protecting These Rights In Light Of Trips Provisions Enforced Through Wto (World Trade Organization) In The Member Countries. Separate Chapters Are Devoted To Each Of The 4Ps Of Marketing (I.E. Product, Price, Promotion And Place) To Cover The Provisions Of Various Acts To Curb The Prevailing Unfair And Restrictive Trade Practices In Marketing Of Goods And Services. The Book Covers The E-Marketing Legislation To Curb The Fraudulent Practices In Cyberspace. The Book Ends With A Discussion On 'Marketing Abuses With Some Ethical Question Marks' In The Last Chapter.In Nutshell The Text Presents A Comprehensive Treatment Of Legal Provisions In Various Indian Acts And Its Implications In Marketing Decision-Making Process. The Book Provides Guidelines For Marketers, To Formulate And Implement Marketing Strategies Within The Legal Boundaries Of The Law Of The Land.This Book Is Designed For Both Marketing Practitioners And The Students Studying Marketing Management At Graduate Or Post Graduate Level Courses Of Dbm, Pgdba, Mms, And Mba, Conducted In Various Business Schools And Universities In India.	2007-01-01	New Age International						ZZZ000000
+9788122416886	Cell Biology	S C Rastogi		Especially Designed For Students And Professionals, This Text Book Presents Funda-Mentals Of Cell Biology, From Microscopic To The Molecular Level, In A Relevant And User-Friendly Manner, Supported By Excellent Diagrams, Micrographs And Tables.Salient Features * Expanded And Up To Date Coverage Of The Cell, Its Ultrastructure And Molecular Mechanisms In A State Of The Art Style * Describes Metabolic Pathways, Intracellular Protein Traffic And Protein Targeting, Receptors And Gene Regulation * Includes Latest Information On Jak-Stat, Ras And Other Signaling Pathways, And Mechanism Of Apoptosis * Reflects Significant Advances In Cell Biology * Gives Application-Oriented Topics, Such As Ageing, Cancer And Recombinant Dna Technology	2007-01-01	New Age International						ZZZ000000
+9788122418552	Business Ethics	Manisha Paliwal		Business Ethics Is Nothing But The Application Of Ethics In Business. It Is The Application Of General Ethical Rules To Business Behavior. Business Ethics Concentrate On Moral Standards As They Are Applied To Business Policies, Institutions And Behaviour. It Is A Specialized Study Of Moral Rights Or Wrongs. It Is A Systematic Study Of Ethical Matters Pertaining To Business Industry Or Related Activities.In Any Organization From Top Executive To Bottom-Line Employees, Ethics Is Considered As Every Body Business. It Is Not Just Only Achieving High Level Of Economic Performance But Also To Conduct One Of Business S Most Important Social Challenges, Ethically At The Same Time.Ethics In Business And Management Is Gaining Momentum Day By Day.The Main Aim Of This Book Is To: * Impart Knowledge, Analytical Skills And Develop Mindsets Of Managers To Apply Ethical Concepts In Business. * Introduce Various Ethical Concepts In Practical Application. * Create Awareness About Moral Values, Corporate Social Responsibility. * Develop The Abilities To Resolve Ethical Dilemmas. * Inculcate High Level Of Integrity. * Introduce New Ethical Aspects In 21St Century.	2007	New Age International						ZZZ000000
+9788122418910	Placement Preparation	S. Parthasarthy			2006-01-01	New Age International						ZZZ000000
+9788122419092	Engineering Economy	Nvr Naidu			2006-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122419474	Consumer Behaviour and Advertising Management	M. Khan			2007-01-01	New Age International						ZZZ000000
+9788122419696	Basic Electronics (As Per Vtu Syllabus)	D. Chattopadhyay			2007-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122420135	Enterprise Resource Planning : A Managerial & Technical Perspective	S. Parthasarthy			2007-01-01	New Age International						ZZZ000000
+9788122420753	A Textbook Of Engineering Physics (As Per Vtu Syllabus)	S.O. Pillai&Pillai Sivakami			2007-01-01	New Age International						ZZZ000000
+9788122420913	Modern Commercial Banking	Machiraju&H. R.			2007	New Age International						ZZZ000000
+9788122420920	Basic Concepts Of Analytical Chemistry	S.M. Khopkar			2007-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122421514	Advertising Management Text And Cases	Mathur&U.C.			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122422016	Engineering Chemistry (As Per Vtu Syllabus)	S.K. Singh			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122422214	Environmental Studies (As Per Bangalore University Syllabus) (Common To All Branches)	Anubha Kaushik&C.P. Kaushik			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122422313	Business Law Including Company Law	Gulshan S.S.&Kapoor G. K.			2008-01-01	New Age International						ZZZ000000
+9788122422320	Business Legislation	Bopal			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122422368	Cad/Cam/Cim	P. Radhakrishnan&S. Subramanyam&V. Raju			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122422511	Entrepreneurship	John Forbat			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122422535	Constitution Of India & Professional Ethics (All India)	Rajaraman			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122422771	Principles of Real Analysis	Malik S.C.			2008-01-01	New Age International						ZZZ000000
+9788122422849	Textbook Of Control Systems Engineering (Vtu)	Nagrath I.J.			2008-01-01	New Age International						ZZZ000000
+9788122423747	Engineering Mechanics	Bhavikatti&S.S.			2008-01-01	New Age International						ZZZ000000
+9788122423839	The Working of Stock Exchanges in India	H.R. Machiraju&Machiraju H.R.			2009	New Age International						ZZZ000000
+9788122423938	Customer Relationship Management	Sugandhi			2008-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122425871	Operations Management	Kumar S. Anil&Suresh N.			2009-01-01	New Age International						ZZZ000000
+9788122426182	High Voltage Engineering (Problem & Solution)	R.D. Begamudre			2009-01-01	New Age International (P) Ltd.						ZZZ000000
+9788122426649	Stochastic Processes	Medhi			2009	New Age International (P) Ltd.						ZZZ000000
+9788122426687	Fundamentals Of Compressible Flow	S.M. Yahya			2009	New Age International (P) Ltd.						ZZZ000000
+9788122427264	Solid State Physics	S.O. Pillai				New Age International (p) Ltd						ZZZ000000
+9788122427295	International Financial Markets And India	H.R. Machiraju			2002	New Age International (p) Limited						ZZZ000000
+9788122427707	Finite Element Analysis	S.S. Bhavikatti				New Age International (p) Ltd						ZZZ000000
+9788122427851	Fundamentals Of Engineering Heat And Mass Transfer, 4th Edition	Sachdeva				New Age International Publishers Ltd.						ZZZ000000
+9788122428155	Essentials Of Human Resource Management	Indranil Mutsuddi				New Age International Publishers Ltd.						ZZZ000000
+9788177580983	The 86 percent solution,how to succeed in the biggest market opportunity of the next 50 years	Vijay Mahajan			2006	Wharton School Publishing						ZZZ000000
+9788129703163	Public Administration In Theory And Practice	Cox				Pearson Education						ZZZ000000
+9788129707345	It's Your Move: Dealing Yourself The Best Cards In Life And Work	Maxey				Pearson Education						ZZZ000000
+9788129711816	Ip Sec. Vpn Design	Bollapragada				Dorling Kindersley (india) Pvt Ltd Abc.Lst Flipfetch.Sh Jjj.Lst Jjj.Tab Nohup.Out Old.Flipfetch.Sh						ZZZ000000
+9788131700471	Introduction to Materials Management	Arnold&Stephen N. Chapman			1987	Pearson Education						ZZZ000000
+9788131700648	Quality Control, 7/e (with CD)	Besterfield				Pearson Education						ZZZ000000
+9788131700778	Sams Teach Yourself Asp.Net 2.0 In 24 Hours, Complete Starter Kit (with Cd) (sams)	Scott Mitchell				Pearson Education						ZZZ000000
+9788131701027	Microcomputers And Microprocessors,3/e	John Uffenbeck				Pearson Education						ZZZ000000
+9788131701508	Spring Into Php 5	Steven Holzner				Pearson Education						ZZZ000000
+9788131701515	Spring Into HTML and CSS	Molly E. Holzschlag				Pearson Education						ZZZ000000
+9788131701669	RFID: Applications, Security, and Privacy	Simon Garfinkel&Beth Rosenberg				Pearson Education						ZZZ000000
+9788131702093	Chemical And Process Thermodynamics,3/e	B.G. Kyle				Pearson Education						ZZZ000000
+9788131703120	XML Web Services and the Data Revolution	Frank P. Coyle		This Book Presents An Insightful View Of Xml That Places This Emerging Technology In The Context Of Ongoing Web Revolution. Written For Business And Technical Professional, This Book Reveals The True Value Of Xml For Distributed Information Systems. It Explains How Xml Is Transforming The Way Organisations Manage Data And Build Software Systems. Explains How Xml And Web Services Reflect A Fundamental Shift In Software Construction - From Monolithic Applications To Software Based On The Composition Of Simple Parts.		Pearson Education						ZZZ000000
+9788131703144	Electronic Devices And Circuit Theory,9/e With Cd	Boylestad				Pearson Education						ZZZ000000
+9788131703175	The C Answer Book	Clovis L Tondo										ZZZ000000
+9788131703199	Information Systems Today: Why Is Matters, 2/e	Leonard Jessup				Pearson Education						ZZZ000000
+9788131705636	ISDN and Broadband ISDN with Frame Relay and ATM	Stallings				Pearson Education						ZZZ000000
+9788131705919	IPsec Virtual Private Network Fundamentals	James Henry Carmouche				Pearson Education						ZZZ000000
+9788131706756	The Rules of Life	Templar				Pearson Education						ZZZ000000
+9788131707418	Practical Project Management (with CD)	Ghattas				Pearson Education						ZZZ000000
+9788131707562	Sams Teach Yourself EJB in 21 Days (SAMS)	Ghaly				Pearson Education						ZZZ000000
+9788131708408	ARM System on Chip Architecture, 2/e	Furber				Pearson Education						ZZZ000000
+9788131708705	The Theory of Computation	Moret				Pearson Education						ZZZ000000
+9788131709061	Java Phrasebook (SAMS)	Fisher				Pearson Education						ZZZ000000
+9788131709344	System Dynamics	Ogata				Pearson Education						ZZZ000000
+9788131709740	Classical Electromagnetism	Franklin				Pearson Education						SCI022000
+9788131710739	Switching Basics and Intermediate Routing CCNA 3 Labs and Study Guide	Johnson				Pearson Education						ZZZ000000
+9788131710746	Routers and Routing Basics CCNA 2 Labs and Study Guide	Johnson				Pearson Education						COM043000
+9788131711378	CCNP Self-Study: Building Scalable Cisco Internetworks (BSCI), 3/e (642-901) (Cisco Press)	Paquet Catherine				Pearson Education						ZZZ000000
+9788131711873	The C# Programming Language, 2/e	Anders Hejlsberg&Scott Wiltamuth&Peter Golde				Pearson Education						ZZZ000000
+9788131713693	Special Edition Using Microsoft Office Excel 2007	Jelen				Pearson Education						COM054000
+9788131714898	CMMI Survival Guide: Just Enough Process Improvement	Garcia				Pearson Education						ZZZ000000
+9788131714980	Understanding .NET, 2/e	David Chappell				Pearson Education						ZZZ000000
+9788131715604	Management,9e	Robbins				Pearson Education						ZZZ000000
+9788131716007	Biometrics and Network Security	Reid				Pearson Education						ZZZ000000
+9788131717523	The Pearson Guide to the Bank Clerical Recruitment Examination	Thorpe Edgar				Pearson Education India						ZZZ000000
+9788131718131	Building Web Services with Java	Graham Steve				Pearson Education						ZZZ000000
+9788131718681	Software Design	Budgen				Pearson Education						ZZZ000000
+9788131719152	Project Management Step by Step	Newton Richard				Pearson Education						BUS101000
+9788131719459	Core Java Vol. 1 Fundamentals,8/e	Horstmann				Pearson Education						ZZZ000000
+9788131719480	Microeconomics	Hubbard				Pearson Education						ZZZ000000
+9788131719572	The Pearson Guide To Complete Mathematics For Iit-Jee	Khattar				Pearson Education India						ZZZ000000
+9788131719886	Globalization in India: Contents and Discontents	Gupta / Basu / Chattarji			2010	Pearson Education India						ZZZ000000
+9788131720912	Decision Support Systems	Marakas				Dorling Kindersley						ZZZ000000
+9788131721315	Pearson Current Events Digest 2008	Edgar Thorpe				Dorling Kindersley (india) Pvt Ltd						ZZZ000000
+9788131721636	Designing the User Interface	Shneiderman Ben				Pearson Education India						ZZZ000000
+9788131724729	The Pearson Complete Guide For Aieee 2/e	Khattar				Pearson Education India						ZZZ000000
+9788131725337	Cloud Computing	Miller Michael				Pearson Education						ZZZ000000
+9788131725405	Customer Relationship Management	Peelen Ed				Pearson Education						ZZZ000000
+9788131726884	A Programmer's Guide To Java SCJP Certification	Mughal				Pearson Education						ZZZ000000
+9788131728765	The Pearson Guide to Mathematics for the IIT-JEE, 2/e (New Edition)	Khattar				Pearson Education India						ZZZ000000
+9788131729694	An Introduction to the CAT: Tips from an IIM Alumnus	Balakrishna				Pearson Education						ZZZ000000
+9788173814624	An Introduction To Analysis (diffe Calculus)	Ghosh & Maity				New Central Book Agency (P) Ltd.						ZZZ000000
+9788173815430	Engineering Mathematics	B.K.Kar				New Central Book Agency (P) Ltd.						ZZZ000000
+9788173815683	Introduction to General Zoology	Chaki&Kundu & Sarkar				New Central Book Agency (P) Ltd.						ZZZ000000
+9788177581218	Software Testing,Principles and Practice	Srinivasan Desikan&Gopalaswamy Ramesh			2006	Pearson Education India						ZZZ000000
+9788177582437	Introducing Software Testing	Louise Tamres				Pearson Education						ZZZ000000
+9788177582512	Inside Knowledge: Rediscovering the Source of Performance Improvement	Fearon				Pearson Education						ZZZ000000
+9788177582550	Essential COM	Don Box				Pearson Education						COM051210
+9788177582741	Java Design Patterns: A Tutorial (with CD)	Cooper				Pearson Education						ZZZ000000
+9788177583304	Managing the Software Process	Humphrey				Pearson Education						ZZZ000000
+9788177583502	Business Environment	Shaikh			2006	Pearson Education India						ZZZ000000
+9788177585254	Quantum chemistry	Ira N. Levine			2000	Pearson Education						ZZZ000000
+9788177585445	Aerodynamics for Engineers	Bertin				Pearson Education						ZZZ000000
+9788177586572	Essential XML	Box				Pearson Education						ZZZ000000
+9788177586787	Visual Modeling with Rational Rose 2002 and UML	Terry Quatrani				Pearson Education						ZZZ000000
+9788177586800	.NET Patterns: Architecture, Design, and Process	Thilmany				Pearson Education						ZZZ000000
+9788177586992	MPLS VPN Security (Cisco Press)	Michael H. Behringer&Monique J. Morrow				Pearson Education						ZZZ000000
+9788177587357	Longman New Junior English Dictionary	Longman				Pearson Education						ZZZ000000
+9788177587999	Algorithms in Java, Parts 1-4	Sedgewick				Pearson Education						COM021000
+9788177588002	Longman Basic English Dictionary	Longman				Pearson Education						ZZZ000000
+9788177589320	DB2 Developer's Guide	Mullins				Pearson Education						ZZZ000000
+9788177589740	Management	Hitt				Pearson Education						ZZZ000000
+9788177589931	Computer Organization and Architecture: Designing for Performance, 7/e	William Stallings				Pearson Education						ZZZ000000
+9788120300866	Advanced Calculus 2Nd Ed.	Widder				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120304550	Introductory Plant Physiology 2Nd Ed.	Noggle				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120307490	Unix Network Programming	Stevens			1990	Prentice-Hall of India						ZZZ000000
+9788120308701	Performance Modeling Of Automated Manufacturing Systems	Viswanadham & Narahari				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120311206	Calculus of Variations with Applications	A. S. Gupta			2004-08-01	Prentice-Hall Of India Pvt. Ltd.						MAT005000
+9788120321892	Engineering Mechanics: Statics And Dynamics	J. Lakshminarasimhan&Raju Sethuraman			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120322714	Microsoft Windows Xp Networking Inside Out	Simmons & Causey				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120323230	Introducing Microsoft .Net 3Rd Ed.	Platt				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120323452	Mcad/Mcse/Mcdba Self-Paced Training Kit Exam 70-229: Microsoft Sql Server" 2000 Database Design And Implementation 2Nd Ed.	MICROSOFT CORPORATION				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120324053	A System Engineering Approach To Imaging	Kopeika			1998	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120325494	Mcsa/Mcse/Mcdba Self-Paced Training Kit: Exam 70-228 Microsoft Sql Server" 2000 System Administration 2Nd Ed.	MICROSOFT CORPORATION				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120327320	Vector Analysis	Dipak Chatterjee			2005-03-01	PHI Learning Pvt. Ltd.						MAT033000
+9788120327535	Introduction To Supply Chain Management	Handfield			2005	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120327825	Statistical Mechanics	R.K. Srivastava			2005-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328426	Mcsa/Mcse Self-Paced Training Kit: Exam 70-350 Implementing Microsoft Internet Security And Acceleration Server 2004	REIMER STAN&THOMAS ORIN				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120329232	Microsoft Windows Xp Networking And Security Inside Out	Ed Bott&Carl Siechert				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120329249	Mcdst Self-Paced Training Kit Exam 70-272 Supporting Users And Troubleshooting Desktop Applications On A Microsoft Windows Xp 2Nd Ed.	Walter Glenn&Tony Northrup				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120330399	Development Of Component-Based Information Systems	De Cesare				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120331129	Optimal Trading Strategies: Quantitative Approaches For Managing Market Impact And Trading Risk	Kissell & Glantz				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120331457	Plant propagation,principles and practice	Hudson Thomas Hartmann			2002	Prentice Hall of India						ZZZ000000
+9788120300286	System Simulation with Digital Computer	Narsingh Deo			2004-08-01	PHI Learning Pvt. Ltd.						COM072000
+9788120300859	Scientific Social Surveys And Research 4Th Ed.	Young				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120301320	Management Guide To Pert/Cpm A: With Gert/Pdm/Dcpm And Other Networks 2Nd Ed.	Wiest & Levy				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120301795	Mathematics For Economists: An Elementary Survey 2Nd Ed.	Yamane				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120302624	Introduction to mathematical physics	Charlie Harper			2003	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120302709	Linear Algebra 2Nd Ed.	Hoffman				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120303027	Educational Psychology 4Th Ed.	Skinner (ed.)				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120303485	Digital Electronics: An Introduction To Theory And Practice 2Nd Ed.	Gothmann			2000	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120304765	General Climatology 4Th Ed.	Critchfield				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120304840	Marketing Research 7Th Ed.	Luck & Rubin				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120304864	Essentials Of Management 4Th Ed.	Massie				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120305014	Theory And Application Of Digital Signal Processing	Rabiner			1975	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120305502	Mathematical Methods 2Nd Ed.	Potter & Goldberg				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120305694	Algorithms + Data Structures = Programs	Wirth				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120305991	Electrical Engineering Fundamentals 2Nd Ed.	Del Toro				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120306684	Agricultural Microbiology	G. Rangaswami&D. J. Bagyaraj&D.G. Bagyaraj			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120306714	Data Management And File Structures 2Nd Ed.	Loomis				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120307094	Handbook of Materials Management	P. Gopalakrishnan			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120307131	Telecommunication Switching Systems and Networks	T. Viswanathan			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120307865	Computer Oriented Numerical Methods	V. Rajaraman			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120308428	Robotic Engineering: An Integrated Approach	Klafter Et Al.&Richard David Klafter&Thomas A. Chmielewski&Negin Michael			1989	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120308947	Fluid Mechanics	A. K. Mohanty			2004-10-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120309333	8086/8088 Familytrue Programming And Interfacing	Uffenbeck				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120309739	Real Analysis 3Rd Ed.	Royden			1988	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120309784	Introduction To Microprocessors For Engineers And Scientists 2Nd Ed.	P. K. Ghosh&P. R. Sridhar			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120310070	Quantum Mechanics	B. K. Agarwal&Hari Prakash			2004-02-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120310124	Managing with information	Jerome Kanter				Prentice Hall of India						ZZZ000000
+9788120310155	Applications And Design With Analog Integrated Circuits 2Nd Ed.	Jacob				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120310414	Computer networks,protocols, standards, and interfaces	Uyless Black			1999	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120310445	Introduction In Fluid Mechanics	Fay				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120310506	Designing Object-Oriented Software	Wirfs-Brock				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120311220	Understanding Organisations,Organisational Theory and Practice in India	Madhukar Shukla			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120311237	Computer-Based Industrial Control	Krishna Kant			2004	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120311367	Fuzzy Sets And Fuzzy Logic: Theory And Applications	George J. Klir&Bo Yuan			2003	Prentice Hall of India						ZZZ000000
+9788120311770	Data structures using C and C++	Yedidyah Langsam			2000	Prentice-Hall of India						ZZZ000000
+9788120312296	Management Control Systems: Using Adaptive Systems To Attain Control 2Nd Ed.	Maciariello & Kirby		This text provides a systematic and an in-depth treatment of the subject of management control systems. It is essentially rooted in accounting for management. The main emphasis of the second edition (which has 10 new chapters added and the remaining nine updated) is the integration of adaptive control model through the text.		Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120312470	Diseases of Crop Plants in India	G. Rangaswami&A. Mahadevan			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120312609	Fundamentals of Surveying	S. K. Roy			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120312685	Introduction to Particle Physics	M. P. Khanna			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120313569	Fundamentals Of Artificial Neural Networks	Hassoun				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120314436	Data Structures in C++	N. S. Kutti&P. Y. Padhye			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120314443	Decision Support Systems	V. S. Janakiraman&K. Sarukesi			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120314467	Fundamentals of Computer Graphics and Multimedia	D. P. Mukherjee			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120314849	Pattern Recognition And Image Analysis	Gose			2006	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120314917	Electronics,Analog and Digital	I. J. Nagrath			2004-08-01	Prentice Hall India Pvt., Limited						ZZZ000000
+9788120314924	Electric Drives	N. K. De			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120315020	Discrete Mathematics For Computer Scientists And Mathematicians 2Nd Ed.	Mott Kandel & Baker				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120316010	Introduction to electrodynamics	David Jeffery Griffiths			2006	Prentice-Hall of India						ZZZ000000
+9788120316201	Object-Oriented Programming with C++ and Java	D. Samanta			2004-10-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120316218	Parallel Computers,Architecture and Programming	V. Rajaraman&C. Siva Ram Murthy			2004-08-01	Prentice Hall India Pvt., Limited						ZZZ000000
+9788120317093	Effective Business Communication	Asha Kaul			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120317277	Analysis and design of information systems	V. Rajaraman			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120317291	Irrigation Water Management,Principles and Practice	D. K. Majumdar			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120317321	A Textbook of Chemical Engineering Thermodynamics	K. V. Narayanan			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120317437	Engineering Economics	R. Panneerselvam			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120318120	Strategic Human Resource Development	Srinivas R. Kandula			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120319295	Principles of Management and Administration	D. Chandra Bose			2004-02-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120319561	Digital electronics and logic design	B. Somanathan Nair			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120320352	Programming Languages: Design And Implementation 4Th Ed.	Pratt & Zelkowitz				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120320390	Limit State Design of Reinforced Concrete	P. C. Varghese			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120320857	Electronic Devices and Applications	B. Somanathan Nair			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120320949	Ibm Pc Assembly Language And Programming 5Th Ed.	Abel				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120320970	Data Structures And Program Design In C	Kruse Et Al.				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120321007	Microcomputers And Microprocessors: The 8080True Interfacing And Troubleshooting 3Rd Ed.	Uffenbeck				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120321410	Introduction to algorithms	Thomas H. Cormen			2001	Prentice-Hall of India Private Limited						ZZZ000000
+9788120321632	Logistics	Bloomberg Lemay & Hanna			2005	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120321663	Theory And Design Of Adaptive Filters	Treichler Johnson Jr. & Larimore				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120321670	International Marketing Research	Kumar				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120321854	Internetworking Technologies: An Engineering Perspective	Rahul Banerjee			2004-02-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120321861	Neural Networks, Fuzzy Logic and Genetic Algorithms,Synthesis and Applications	S. Rajasekaran&G. A. Vijayalakshmi Pai			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120321908	Theory and Practice of Foundation Design	N. N. Som&S. C. Das			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120321953	Microwave Devices and Circuit Design	Ganesh Prasad Srivastava&Vijay Laxmi Gupta			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120322219	Consumer Behavior And Managerial Decision Making 2Nd Ed.	Frank R. Kardes			2002	Prentice Hall India						ZZZ000000
+9788120322394	Fundamentals Of Parallel Processing	Jprdan				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120322547	Enterprise resource planning,concepts and practice	Vinod Kumar Garg&N. K. Venkitakrishnan			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120322578	Digital integrated circuits,a design perspective	Jan M. Rabaey			2007	Prentice-Hall of India Private Limited						ZZZ000000
+9788120323803	Principles of wireless networks,a unified approach	Kaveh Pahlavan&Pahlavan & Krishnamurty&Prashanth Krishnamurthy			2008	Prentice Hall of India						ZZZ000000
+9788120323964	Power Electronics	Asghar			2004-10-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120324176	An Introduction to High Voltage Engineering	Subir Ray			2004-01-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120324183	Microwave Semiconductor Devices	Roy Mitra			2004-10-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120324275	Human Resource Management in Practice,With 300 Models, Techniques and Tools	Srinivas R. Kandula			2004-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120324435	Bluetooth Technology and Its Applications with JAVA and J2ME	C.S.R. Prabhu&A. Prathap Reddi&Prathap A. Reddi			2006-03-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120324541	Electronic Instruments and Instrumentation Technology	M.M.S. Anand			2004-10-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120324893	Basics Of Networking	Niit				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120325326	Mcse Self-Paced Training Kit: Exam 70-297 Designing A Microsoft Windows Server 2003 Active Directory And Network Infrastructure	GLENN&SIMPSON				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120325708	Mcse Self-Paced Training Kit: Exam 70-298 Designing Security For A Microsoft Windows Server 2003 Network	BRAGG				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120325937	Textbook of Mechanical Vibrations	Dukkipati & Srinivas&Rao V. Dukkipati&Rao V. Dukkipati J. Srinivas			2004-10-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120325951	Digital Signal Processing,Theory, Analysis and Digital-Filter Design	B. Somanathan Nair&Nair			2004	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120326156	International Perspectives On Organizational Behavior And Human Resource Management	Pummett			2009	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120326453	Database Management Systems	Rajesh Narang			2006	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120326637	Abnormal psychology,the problem of maladaptive behaviour	Barbara R. Sarason			2005	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120326729	Financial Policy And Management Accounting 7Th Ed.	Bhabatosh Banjerjee			2005-03-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120326767	Classical mechanics	K. Sankara Rao			2006-03-01	PHI Learning Pvt. Ltd.						SCI041000
+9788120327221	Analog Electronics	L. K. Maheshwari&L.K. Maheshwari M.M.S. Anand			2005-03-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120327290	Fundamentals of Electrical Engineering	Rajendra Prasad			2005-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120327450	Data Structures With Java"	Hubbard & Anita Hurray				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120327467	Wireless Communications And Networking	Mark & Zhuang				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120327498	Modern Power Electronics And Ac Drives	Bose				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120327504	Communication Systems Engineering 2Nd Ed.	Proakis				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120327566	Advanced Digital Design With The Verilog Hdl	Ciletti			2008	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120327610	Introductory methods of numerical analysis	S.S. Sastry			2006-03-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120327764	First Course in Electronics, A	Khan&Anwar A. Khan Kanchan K. Dey			2006-09-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120327948	Data Mining: Next Generation Challenges And Future Directions	Hillol Kargupta			2004	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120328341	Miller & Freund S Probability And Statistics For Engineers 7Th Ed.	Richard A Johnson				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120328433	Principles of Management	M. Govindarajan&S. Natarajan			2005-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328464	Data Communications and Computer Networks	Prakash C. Gupta			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328471	Elements of Solid State Physics	J.P. Srivastava			2006-01-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328532	Inventory Management	D.Chandra Bose			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328587	Bioinformatics: A Modern Approach	Vittal R. Srinivas			2005-12-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328617	Introduction to Fuzzy Sets and Fuzzy Logic	M. Ganesh			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328631	Financial Derivatives Theory Concepts And Problems	S.L. Gupta			2005-12-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328679	Fundamentals of Entrepreneurship	Sangram Keshari Mohanty			2005-12-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328716	C++ and object-oriented programming paradigm	Debasish Jana			2005	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120328730	Ethics In Public Management	H. George Frederickson				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120328761	Introduction to Biostatistics and Research Methods	P. S. S. Sundar Rao&J. Richard			2006-01-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329133	Structured Computer Organization 5Th Ed.	Andrew S Tanenbaum				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120329218	Microeconomics	Robert S. Pindyck&Daniel L. Rubinfeld			2007	Prentice Hall of India						ZZZ000000
+9788120329263	Electronics in Medicine and Biomedical Instrumentation	Nandini K. Jog			2006-01-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329553	Operating systems,design and implementation	Andrew S. Tanenbaum			2006-01-04	Prentice-Hall of India						ZZZ000000
+9788120329584	Basic Managerial Skills for All	E.H. McGrath			2006-06-01	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120329645	Materials Management: Text And Cases	A.K. Chitale&R.C. Gupta			2007-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329669	Operations Research	N.K. Tiwari&Tiwari & Shandilya&Shishir K. Shandilya			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329676	Electronic Devices And Circuit Theory 9Th Ed.	Robert L. Boylestad			2007	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120329706	Business Ethics: Concepts And Cases 6Th Ed.	Manuel G.Velasquez				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120329713	Digital Image Processing,An Algorithmic Approach	Madhuri A. Joshi			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329737	Advertising: Planning And Implementation	Sharma			2006	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120329799	Digital Logic and Computer Organization	V. Rajaraman&T. Radhakrishnan			2006-09-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329881	Performance Management	Kandula			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329898	Electrical Power Systems: Concepts Theory And Practice	Ray			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120329928	Stoichiometry and Process Calculations	Narayanan&B. Lakshnikutty&K.V. Narayanan			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120330139	Financial Accounting For Business Managers 3Rd Ed.	Asish K. Bhattacharyya			2006-06-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120330177	Soil Fertility And Fertilizers: An Introduction To Nutrient Management 7Th Ed.	John Havlin			2009	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120330276	Electronic Commerce: From Vision To Fulfillment 3Rd Ed.	. Awad				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120330306	Digital signal processing	John G. Proakis			2007	Prentice Hall of India Private Limited						ZZZ000000
+9788120330313	Engineering Fundamentals Of The Internal Combustion Engine 2Nd Ed.	Pulkrabek				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120330375	Mcse Exam 70-284 Windows Server 2003 Active Directinfrastructure	Jill Spealman				N/A						ZZZ000000
+9788120330481	Fundamentals Of Reinforced Concrete Design	Murari Lal Gambhir			2006-09-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120330535	Introduction to Data Mining with Case Studies	G.K. Gupta			2006-09-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120330566	Total Quality Management	P.N. Mukherjee			2006-09-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120330573	Fundamentals Of Cryogenic Engineering	Mukhopadhyay				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120330580	Fundamentals Of Entrepreneurship	Nandan			2007	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120330832	Building Construction	Varghese			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331150	Ultimate Six Sigma The: Beyond Quality Excellence To Total Business Excellence	Bhote				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120331174	Programming with C#,concepts and practice	B. Rama Krishna Rao			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331181	Production Planning And Control: Text And Cases 2Nd Ed.	Mukhopadhyay			2007	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331266	Classical Mechanics: Analytical Dynamics	Tiwari & Thakur			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331280	Operations Research	Shah/gor/soni			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331372	The Indian Economy	The Ray&Ray			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331907	Mechanics of Solids	Singh			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331921	Electronic Devices And Integrated Circuits	Singh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331945	Financial Accounting: A Dynamic Approach	Banerjee				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331969	Chemical Process Modelling & Computer Simulation	Jana			2008	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120331976	Control Systems	Anand Kumar			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332027	Mechanics of Materials with Programs in C	Jayaram			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332171	Numerical Methods For Scientists And Engineers 3Rd Ed.	Sankara Rao			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332348	Essentials Of Strategic Management 4Th Ed.	Hunger & Wheelen			2007	Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120332522	Essentials Of Financial Accounting	Bhattacharyya			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332720	Software Engineering: A Concise Study	Kelkar			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332744	Strength of Materials	Srivastava & Gope			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332768	Web Technology: A Developer S Perspective	Gopalan&Gopalan/akilandeswari				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332782	Design and Analysis of Algorithms	Panneerselvam			2007	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332850	Customers Relationship Management: A Strategic Approach To Marketing	Kaushik Mukerjee			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332867	Engineering Physics	Rajagopal&Rajagopal K.			2007-08-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120332898	Ironmaking And Steelmaking: Theory And Practice	Ghosh/chatterjee			2008-10-30	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333161	Elements of Banking and Insurance	Sethi/bhatia			2007-09-01	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333215	Managerial Economics And Financial Accounting	Reddy/saraswathi				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333246	Performance Appraisal And Compensation Management: A Modern Approach	Goel			2008	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333291	Environmental Management: Text And Cases 2Nd Ed.	Bala Krishnamurthy			2008-10-30	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333390	Applied Electromagnetic Theory: Analyses Problems And Applications	Nair&Nair/deepa				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333420	Computer Aided Design And Manufacturing	Lalit Narayan Et Al.			2008	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333505	Industrial Waste Water Treatment	Patwardhan			2008	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333550	Principles Of Electronic Instrumentation	Patranabis				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333598	Sociology of religions,perspectives of Ali Shariati	Mir Mohammed Ibrahim		Ali Shariʻati, 1933-1977, Iranian sociologist and Muslim scholar.	2008	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120333611	Textbook Of Engineering Physics	Mehta				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120334090	Introduction To Digital Computer Design An 5Th Ed.	Rajaraman & Radhakrishnan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120334212	Design And Analysis Of Algorithms	Gupta Et Al.				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120334243	A Textbook on C : Fundamentals, Data Structures	Karthikeyan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120334267	Investment Management	Maheshwari				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120334274	Economic Environment of Business	Pailwar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120334281	Grid And Cluster Computing	Prabhu				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120334366	Numerical Linear Algebra	Sundarapandian				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335110	Computer Organization And Design 3Rd Ed.	Pal Chaudhury				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335141	Wireless Communications	Nathan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335165	Classical Mechanics (Revised Edition)	Mondal				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335202	All of C	Ghosh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335219	Cryptography and Information Security	Pachghare				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335233	Fluid Mechanics And Turbomachines	Das				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335288	Business Analysis: Visualizing Business Processes And Effective Software Solutions	Pendse				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335301	Business Law	Chandra Bose				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335332	Management Of Financial Institutions: With Emphasis On Bank And Risk Management	Sharma				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335370	Financial Markets Institutions And Financial Services	Gomez				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335387	Customer Relationship Management: Concepts And Cases	Rai				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335424	Basic Managerial Skills For All 8Th Ed.	Mcgrath				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335608	Electric Power Generation Transmission And Distribution 2Nd Ed	Singh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335691	Transducers And Instrumentation 2Nd Ed.	Murty				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335875	Irrigation And Water Power Engineering	Das&Das/saikia				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335899	Software Engineering	James				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335905	Cases In Operations Management	Krishnaswamy/mathirajan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335912	Rate Processes in Metallurgy	Mohanty				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335929	Textbook of Agricultural Biotechnology	Nag A.				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335943	Computer System Architecture	Rao				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335950	Bioinformatics Methods And Applications: Genomics Proteomics And Drug Discovery 3Rd Ed.	Rastogi				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120335967	Numerical Methods With C++ Programming	Shah				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336001	Environmental Engineering	Srinivasan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336025	Operations Management And Productivity Techniques	Mukherjee				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336049	Microeconomics: Theory and Applications, Part - i	Chauhan&S.p.s.				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336100	Introduction To Nuclear And Particle Physics	Mittal				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336162	Engineering Mathematics Vol. One 4Th Ed.	Sastry				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336285	International Business	Justin Paul			2008	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336346	Predictive Modelling in Strategic Marketing	Rao				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336360	Working Capital Management Strategies And Techniques 2Nd Ed.	Bhattacharya				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336438	Electric Motors: Application And Control	Deshpande (forthcoming)				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336445	Sponge Iron Production By Direct Reduction Of Iron Oxide	Chatterjee				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336476	Elements Of Electrical Power Station Design	Deshpande (forthcoming)				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336513	Information Systems	Kelkar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336544	Management Information Systems In Knowledge Economy	Joseph&Joseph/mohapatra				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336551	Modern Banking: Theory And Practice	Muralidharan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336728	Software Project Management: A Concise Study 2Nd Ed.	Kelkar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336735	International Accounting 2Nd Ed.	Rathore				PHI Learning Pvt. Ltd.						BUS035000
+9788120336742	Introduction To The Constitution Of India 5Th Ed.	Sharma				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336759	Principles Of Physics 3Rd Ed.	Naik				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336773	Biochemical Engineering: Principles And Concepts 2Nd Ed.	Inamdar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336780	Process Control: Concepts Dynamics And Applications	Singh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336810	Technique Of Success	Muller				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336957	Auditing and Assurance	Ainapure/ainapure				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120336971	Strengthening Governance Through Access To Justice	Singh&Singh/zahid			2009	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337022	It Strategy And Management	Dubey				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337039	Organization Effectiveness and Change Management	Kondalkar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337077	Hydrology	Das & Saikia				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337084	Basic Physics	Singh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337091	Java Server Faces	Harwani				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337169	Fundamentals Of Microwave Engineering	Singh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337176	Financial Statement Analysis	Sinha				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337206	Managerial Economics	Nadar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337237	Essentials Of Educational Technology	Mangal				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337251	Product Management: Text And Cases	Mukherjee				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337282	Statistical Inference Testing of Hypotheses	Srivastava & Srivastava				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337336	Quantitative Techniques For Decision Making 3Rd Ed.	Gupta				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337626	Experiments In Fluid Mechanics	Singh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337633	Mulk Raj Anand: Early Novels	Goswami			2009	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337657	Management Information Systems: A Concise Study 2Nd Ed.	Kelkar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337763	Fundamentals Of Mechanical Engineering: Thermodynamicstrue Theory Of Machines And Strength Of Materials 2Nd Ed.	Sawhney				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337848	Mechanical System Design	Mishra & Simant			2009	PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337879	Feature Writing	Meera Rao				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337886	Engeneering Graphics for Degree	John				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337909	Corporate Environmental Management	Banerjee				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120337923	Logistics Management for International Business	Sudalaimuthu & Anthony Raj				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338098	Strategic Management	Prasad				PHI Learning Pvt. Ltd.						BUS063000
+9788120338111	Operating Systems: Priciples and Design	Pal Chaudhury				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338142	Laboratory Manual for Genetic Engineering	Vennison				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338159	Business Process Outsourcing	Sople				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338180	Engineering Chemistry	Qanungo				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338197	Fundamentals of Software Engineering	Rajib Mall				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338425	Discrete Mathematics and Graph Theory	Satyanarayana & Prasad				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338456	Engineering Thermodynamics 2Nd Ed.	Achuthan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338463	Intorduction to Chemical Engineering Thermodynamics	Halder				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338555	Fundamentals Of Bioanalytical Techniques And Instrumentation	Ghosal & Srivastava				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338579	Colloid And Interface Science	Ghosh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338586	Introduction to Measurements and Instrumentation	Ghosh				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338609	Microeconomics: An Advanced Treatise	Chauhan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338623	Textbook of Engineering Physics	Jain				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338630	Human Body Measurements: Concepts And Applications	Singh & Mehta				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338654	Amitav Ghosh:Critical Essays	Choudhury (ed.)				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338708	Fundamentals of Solid Mechanics	Gambhir				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120338746	Microprocessor 8085 And Its Interfacing	Mathur				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120338753	International Relations	Ghosh				PHI Learning Pvt. Ltd.						POL011000
+9788120338944	Essentials of Ecology and Enviromental Science	Rana				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339156	Refrigeration and Air Conditioning	Ramesh Chandra Arora				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339194	Advd. Accounting	Chandra Bose				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339200	Database Management System Oracle Sql and Pl/sql	Das Gupta				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339231	Object-Oriented Programming Using C++	Gopalan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339255	Fundamentals Of Life Insurance: Theories And Applications	Kaninika Mishra				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339279	Business Process Automation	Mohapatra				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339316	Engineering Mathematics	Sharma & Yeolekar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339392	Engineering Physics	Marikani				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339408	Introduction To Sociology	Ferreol & Noreck				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339453	Modern Marketing - Principles & Practice	Chandra Bose				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339477	Accountancy For Class Xii	Banerjee				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339484	Accountancy for Class XI	B.K. Banerjee				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339514	Strategic It Management: A Concise Study	Kelkar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339521	Mobile Computing	Dasbit & Sikdar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339613	A Practical Course In Spoken English (audio Cd)	Gangal				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339637	Consumer Behaviour: Insights From Indian Market	Majumdar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339651	Electricity And Magnetism	Navina Wadhwani				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339682	Essentials Of Plant Breeding	Mohanan				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120339873	Hospital Administration And Human Resource Management 5Th Ed.	Sharma & Goyal				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120340138	Microprocessor 8085: Architecture Programming And Interfacing	Wadhwa				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120340145	Economic Environment Of Business 2Nd Ed.	Pailwar				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120340176	Statistics Made Simple Do It Yourself On Pc 2Nd Ed.	Sarma				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120340404	Downstream Process Technology: A New Horizon In Biotechnology	Krishna Prasad (forthcoming)				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120340428	Charter Of The United Nations & Statute Of Inter	Sharma B.K.				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120340435	Human Rights Covenants And Indian Law	Sharma B.K.				Prentice-Hall Of India Pvt. Ltd.						ZZZ000000
+9788120340527	The Dynamic Earth System, 2/e	Patwardhan				PHI Learning Pvt. Ltd.						SCI019000
+9788120340534	Insight Into Wavelets	K.P. Soman&K.I. Ramachandran&N.G. Resmi				PHI Learning Pvt. Ltd.						ZZZ000000
+9788120340602	Textbook Of Engineering Physics -	Jain&Mahesh C. Jain&Jain				PHI Learning Pvt. Ltd.						ZZZ000000
+9788126501076	Cliffs Toefl Preparation Guide (2Cassettes)	Michael A. Pyle			2006	Wiley-India						ZZZ000000
+9788126503315	Patterns In Java Vol.1 (2Nd Ed.)	Mark Grand			2008	Wiley-India						ZZZ000000
+9788126508655	ORGANIZATIONAL BEHAVIOR A STRATEGIC APPROACH	Hitt&Michael A. Hitt&C. Chet Miller&Adrienne Colella		Managing human capital is critical for an organization to beat the competition and perform effectively. This innovative book shows readers how to efficiently manage behavior in organizations that in turn helps implement the organization s strategy, affects the organization s productivity, and allows the organization to gain advantages over its competitors. It also explains the strategic importance of managing behavior and emphasizes its relationship to organizational performance.· A Strategic Approach to Organizational Behavior· Organizational Diversity· Organizational Behavior in a Global Context· Learning and Perception· Personality, Attitudes, and Values· Work Motivation· Workplace Stress· Leadership· Communication· Decision Making by Individuals and Groups· Groups and Teams· Conflict, Power and Politics· Organizational Structure and Culture· Organizational Change and Development	2006	Wiley-India						BUS085000
+9788126508808	System Analysis & Design	Dennis&Wixom & Roth		In a field as exciting and dynamic as System Analysis and Design (SAD), there will always be new techniques and approaches to develop systems more effectively and efficiently. But if readers want to succeed in SAD, they ll need a solid foundation of skills that they can rely on - no matter what the approach or methodology. Systems Analysis and Design focuses on the core set of skills that all analysis must possess, from gathering requirements and modeling business needs to creating blueprints for how the system should be built.· Introduction to Systems Analysis and Design · Project Initiation · Project Management · Requirements Determination · Use Case Analysis · Process Modeling · Data Modeling · Moving Into Design · Architecture Design · User Interface Design · Program Design · Data Storage Design · Moving Into Implementation · Transition to the New System · The Movement to Objects	2006	Wiley-India						ZZZ000000
+9788126513406	BUSINESS DATA COMMUNICATIONS AND NETWORKING, 8TH ED	Jerry Fitzgerald&Alan Dennis		This revised edition with new technologies, new applications, and new examples, offers balanced coverage of the technical and managerial aspects of data communications to help understand how networks operate and how to successfully apply them. It features a chapter on wireless LANS, an expansion of the security chapter to include more on security design and new technologies, and more coverage of technology design material on network design including a selection of technologies and best practices for network design. · Introduction · Application Layer · Physical Layer · Data Link Layer · Network and Transport Layers · Local Area Networks · Wireless Local Area Networks · Backbone Networks · Metropolitan and Wide Area Networks · The Internet · Network Management · Network Security · Network Design	2007	Wiley-India						ZZZ000000
+9788184890549	Pro Spring 2.5	Jan Machacek&Aleksa Vukotic&Anirvan Chakraborty&Jessica Ditt			2008	Dreamtech Press						COM051280
+9788172248567	Dynamics of national security,essential dimensions and perspectives	N. M. Verma			2001	Jaico Pub. House						ZZZ000000
+9788172248741	Managing productivity	Robert H. Schaffer			2001	Jaico						ZZZ000000
+9788172248871	Conduct Effective Negotiations	Forsyth		Everyone Needs To Negotiate Whether It'S In The Office Or Over The Garden Fence, Buying A Car, Making A Sale Or Wage Bargaining It'S An Everyday Activity. Negotiation Is The Process Concerned With Striking A Bargain And Negotiating Effectively Is A Valuable Communications Skill That Anyone Can Learn. This Book Sets Out In Clear, Practical Terms The Techniques, The Strategies And The Ploys Of Negotiating Successfully. You Will Learn The Hidden Language Of Negotiation So That You Can Recognise What Is Really Going On. This Book Will Show You That Negotiation Is A Manageable Process, One That You Can Control In Order To Achieve The Deal You Want. Patrick Forsyth Has Been In Consultancy For Over 20 Years Specialising In Communication And Management Skills; His Work Has Spanned Many Industries And Countries. He Is Also The Author Of Several Successful Bsiness Books.	2001-01-01	Jaico Publishing House						ZZZ000000
+9788172249687	Research methods,how to design and conduct a successful project	Peter Marshall			2002	Jaico Publishing House						ZZZ000000
+9788172249809	Effective Public Relations In Public And Private Sector	G. C. Banik			2002	Jaico Publishing House						ZZZ000000
+9788179920237	The Skeleton and Other Writings	Amrita Pritam			2003	Jaico Publishing House						ZZZ000000
+9788179921241	Islāma,rājanaitika viśva para Muslima ākramaṇa ki avadhāraṇā / \c dvārā, Āra. Vī. Bhasīna ; anuvādaka, Anila Miśra	R. V. Bhasin			2003	Neśnala Pablikeśansa						ZZZ000000
+9788179921258	The last laugh,stories where women take centre-stage	Gajra Kottary			2003	Jaico Pub. House						ZZZ000000
+9788179923290	Millennium Mums & The Art Of Chakki Peesing	Sonali Mehta		This Book Is About - Surprise, Surprise - Mothers. Indian Mothers. Who Can Forget The Thrill Of Their Child S First Concert? (And Who Can Forget The Frantic Desperation Of Searching For A Tailor Who Knew How To Sew A Flamenco Dancer Outfit That Immediately Preceded It?)Everyone Knows That Being A Mum Is Not Easy. Being An Indian Mum - Even Tougher! But Being An Indian Mum Today - Whoa! Hold It Right There. You Have To Be A Teacher-Cum-Friend-Cum-Nutritionalist-Cum-Ceo-Cum-Transmitter-Of-Cultural-Values (Not To Be Confused With Cultural Attaché - He Gets To Ride In A Limousine).Which Is Why Millennium Mums & The Art Of Chakki Peesing Is Required Reading For Everyone Who Is A Mum, Has A Mum Or Then, Loves Chakki Peesing!	2004-01-01	Jaico Publishing House						ZZZ000000
+9788179923450	Think Like a CEO	Ray C. Johnson			2006-07-01	Jaico Publishing House						ZZZ000000
+9788179924105	Mentoring the "I" Discipline	R. Subramaniam			2006-06-01	Jaico Publishing House						ZZZ000000
+9788179922682	Sales Team Leadership	Graham R. Little				Jaico Publishing House						ZZZ000000
+9788179924990	Let Go Let Miracles Happen	Kathy Cordova		Let Go, Let Miracles Happen Shows How Surrender Is More Powerful And Effective Than Constant Striving Or Toughing It Out At All Costs. These Are Real-Life Stories Of People Who Have Let Go Of Bad Relationships, Miserable Jobs, Or Addictions. There Are Stories From People Who Have Thrived In The Face Of Life-Threatening Illnesses, Devastating Personal Problems, Or The Loss Of Loved Ones. Each And Every One Of Them Inspires And Motivates Us To Live A Different Way.Life Is Easier When You Let Go Of The Emotions And Situations That Hold You Back Surrender Any Problem And Experience Miraculous Results Go With The Flow And Let Your Intuition And Higher Power Guide Your Life Surrender To Love By Releasing Fear And Anger	2005-01-01	Jaico Publishing House						ZZZ000000
+9788179925218	Live In The Moment	Julie Clark Robinson		Fresh, Funny, And Blatantly Honest, Live In The Moment Holds The Secret To Harnessing The Power Of The Present. A Practical Book About Creating One©S Own Life Experiences, Author Julie Clark Robinson S Words Of Inspiration Will Help You To Create Your Own Mental Treasure Chest. Live In The Moment Is For Those Times When We Simply Need To Stop Allowing Life S Ups And Downs To Dictate How We Feel And Look To Ourselves To Set The Tone. If You Re Willing To Lighten Up One Minute, Dig Deep The Next, And Be Painstakingly Honest Throughout, You Will Come Away With A Revitalized Outlook On Life.	2006-01-01	Jaico Publishing House						ZZZ000000
+9788172241407	Healthy Middle-age Through Yoga	S. Muzumdar			2005-07-01	Jaico Publishing House						ZZZ000000
+9788184951226	101 Ways To Score Higher On Your Gre	Angela Eward-Mangione		Every year more than 350,000 people take part in the Graduate Record Examinations, more commonly known as the GRE®. Approximately 60 percent of graduate programs require applicants to take the GRE, making it necessary to get a good score to get into a good program. An average score on the GRE is around 500 (out of 800) on both the verbal and quantitative sections and a 4 (out of 6) on the analytical writing section. How can you boost your score and ensure acceptance into the graduate program of your choice? Reading 101 Ways to Score Higher on Your GRE® and using the techniques it details is one way to do so.101 Ways to Score Higher on Your GRE is filled with practice questions and reviews of test topics including: antonyms, analogies, sentence completion, reading comprehension, vocabulary, analytical writing, quantitative comparisons, data interpretation, and math concepts. Additionally, this book provides you with a comprehensive vocabulary list. Some of the strategies you will learn include how to solve analogies when you do not know the meaning of the words and how to solve algebra problems by plugging in numbers in place of variables.In this new book, you will learn about and understand the scoring system, as well as the computerized format and the content. You will learn how to read questions correctly, control your anxiety, and approach each section. Finally, this book will present you with a list of resources to help you prepare and dozens of proven strategies, mindsets, and problem-solving methods.	2010	Jaico Publishing House						ZZZ000000
+9788184951325	Brand New World	Max Lenderman		About the Book : To get around a ban on alcohol advertising, a Russian oligarch starts a bank with the same name as his bestselling premium vodka. Russian Standard is still the #1 vodka and is now the largest consumer bank, issuing 77 percent of credit cards Russia. Silk Street market, the epicenter of piracy and counterfeiting in China, launches its own brand of clothing. The largest city in South America bans all billboards, posters, and signs in a fight against visual pollution. In the hyper-developing BRIC countries Brazil, Russia, India and China marketing is taking on incredible new forms. The unprecedented economic growth in these nations is revolutionizing marketing throughout the world. Drawing on more than two years of extensive travel and research, award-winning creative director Max Lenderman shares groundbreaking strategies and business models that every savvy marketer needs to understand.Brisk, fascinating, and a little bit shocking, Brand New World is an indispensable guide for the new era of global marketing.	2010	Jaico Publishing House						ZZZ000000
+9788184951356	Worlds In Harmony	His Holiness The Dalai Lama		About the Book : In Worlds in Harmony, the Dalai Lama explores the nature of suffering and its release through compassionate action. It focuses on the understanding that a deep awareness of our shared desire to avoid pain leads to an awareness of our responsibility to relieve others of suffering.Worlds in Harmony offers the reader insight into the relation between awareness and right action, and bridges personal consciousness and global concerns. With the knowledge that insight is of no use unless it results in action, the Dalai Lama teaches ways of being, thinking, and acting in the world that are based on equanimity and understanding. This book can be a key guide to the practice of healing and compassionate action in daily life.	2010	Jaico Publishing House						ZZZ000000
+9788172240790	The art of vegetarian cookery	Betty Wason			1992	Jaico Pub. House						ZZZ000000
+9788172243722	Yoga for You	Indra Devi			2003-07-15	Jaico Publishing House						ZZZ000000
+9788172245658	Delicious Bengali Dishes	Aroona Reejsinghani			2000-03-22	Sangam Books Limited						ZZZ000000
+9788172241599	Kahlil Gibran Reader,Spirits Rebelloius; the Secrets of the Heart, and Tears and Laughter	Kahlil Gibran			1999-12-01	Jaico Publishing House						ZZZ000000
+9788172242336	Party Recipes	Sylla Baisa			2006-06-01	Jaico Publishing House						ZZZ000000
+9788172240547	Temptingly Yours	M. Currim&M. Rahimtoola			2000-03-01	Sangam Books						ZZZ000000
+9788172240561	Appetizingly Yours	M. Currim&M. Rahimtoola			2006-06-01	Jaico Publishing House						ZZZ000000
+9788172243227	Conquering Constipation	Alan Moyle				Jaico Publishing House						ZZZ000000
+9788172244927	Dynamics Of Mind Management	Luis S. R. Vas			1991	Jaico Publishing House						ZZZ000000
+9788172244224	How to Negotiate with Different Types of Personalities	Tom Anastasi			1995	Jaico Publishing House						ZZZ000000
+9788172244651	Household Hints	Christine Green				Jaico Publishing House						ZZZ000000
+9788172245313	Electronic Circuit Analysis and Design	William H. Hayt&G.W. Neudeck			2006-08-01	Jaico Publishing House						ZZZ000000
+9788172245887	Coping with Chronic Fatigue Syndrome	Fred Friedberg			1997-12-31	Jaico Publishing House						ZZZ000000
+9788172246365	Prana,the secret of Yogic healing	Atreya			1997	Jaico Pub. House						ZZZ000000
+9788172246556	Healing with Ayurveda	Angela Hope			1997-06-01	Jaico Publishing House						ZZZ000000
+9788172246495	Java for Business	Thomas Anderson				Jaico Publishing House						ZZZ000000
+9788172246709	Market Yourself	Ian Phillipson				Jaico Publishing House						ZZZ000000
+9788172247423	Pure Selling: The Basics	Wayne Vanwyck				Jaico Publishing House						ZZZ000000
+9788172247430	Perceptions	S.K. Kulkarni			2005-12-01	Jaico Publishing House						ZZZ000000
+9788172247713	The Drinking Man's Ballad & Other Rhymes	Divesh Wadhawan				Jaico Publishing House						ZZZ000000
+9788172247980	Existential Angst	Sunil Kumar				Jaico Publishing House						ZZZ000000
+9788172243371	Management Techniques For Decision Makers	Larry M. Austin&Parviz Ghandforoush			1994	Jaico Publishing House						ZZZ000000
+9788172244422	Tubular Wire Welding	David Widgery			2005-06-30	Jaico Publishing House						ZZZ000000
+9788172244392	Subscriber Loop Signalling and Transmission	Whitham D. Reeve				Jaico Publishing House						ZZZ000000
+9788172245726	The Civil Engineering Handbook	W.F. Chen				Jaico Publishing House						ZZZ000000
+9788172245733	The Computer Science and Engineering Handbook	Allen B. Tucker				Jaico Publishing House						ZZZ000000
+9788172245788	Tools for Team Excellence: Getting Your Team Into High Gear and Keeping It There	Gregory E. Huszczo			1999	Jaico Publishing House						ZZZ000000
+9788172246402	Shakespeare: A to Z	Charles Boyce				Jaico Publishing House						ZZZ000000
+9788172247676	360 Degree Feedback: A Management Tool	Peter Ward				Jaico Publishing House						ZZZ000000
+9788172247850	The Control Handbook	William S. Levine				Jaico Publishing House						ZZZ000000
+9788172247973	Seize The Day	Danny Cox&John Hoover				Jaico Publishing House						ZZZ000000
+9788172249236	Motivation management,fueling performance by discovering what people believe about themselves and their organisations	Thad B. Green			2001	Jaico						ZZZ000000
+9788179921852	Sales Force Management	Tony Carter		Sales Force Management Will Help Sales Managers Align Resources And Strategic Effort To Gain An Edge Over Competitors. Grounded In Practical Applications, It Unites Theoretical Principles With Applied Examples And Case Studies, Demonstrating How Top Players Achieve Success.	2003-01-01	Jaico Publishing House						ZZZ000000
+9788179921906	Cataloging and Classification for Library Personal	Mary L. Kao			2003	Jaico Publishing House						ZZZ000000
