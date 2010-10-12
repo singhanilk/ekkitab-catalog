@@ -1019,3 +1019,9 @@
 9780330392907	The Scar	Mieville  China				PanMacmillan		English				ZZZ000000
 9780330458450	The Ancient	Salvatore  R. A.				PanMacmillan		English				ZZZ000000
 9780330461658	The Highwayman	Salvatore  R. A.				PanMacmillan		English				ZZZ000000
+9780753414125	Everything You Need to Know							English				ZZZ000000
+9780753416648	Atlas of the Ancient World							English				ZZZ000000
+9780753416655	Atlas of the Medieval World							English				ZZZ000000
+9780753416631	Atlas of the Modern World							English				ZZZ000000
+9780753418475	Earth Story							English				ZZZ000000
+9780753415436	Illustrated Pocket Thesaurus							English				ZZZ000000

@@ -9646,3 +9646,281 @@
 9789814291361	DYNAMICAL SYMMETRY	WULFMAN CARL E	HardBack	Whenever systems are governed by continuous chains of causes and effects, their behavior exhibits the consequences of dynamical symmetries, many of them far from obvious. Dynamical Symmetry introduces the reader to Sophus Lie's discoveries of the connections between differential equations and continuous groups that underlie this observation. It develops and applies the mathematical relations between dynamics and geometry that result. Systematic methods for uncovering dynamical symmetries are described, and put to use. Much material in the book is new and some has only recently appeared in research journals.Though Lie groups play a key role in elementary particle physics, their connection with differential equations is more often exploited in applied mathematics and engineering. Dynamical Symmetry bridges this gap in a novel manner designed to help readers establish new connections in their own areas of interest. Emphasis is placed on applications to physics and chemistry. Applications to many of the other sciences illustrate both general principles and the ubiquitousness of dynamical symmetries.			298					SCI057000,MAT00700,SCI013050
 9789814304108	HEISENBERG'S QUANTUM MECHANICS	RAZAVY MOHSEN	HardBack	This book provides a detailed account of quantum theory with a much greater emphasis on the Heisenberg equations of motion and the matrix method. No other texts have come close to discuss quantum theory in terms of depth of coverage.The book features a deeper treatment of the fundamental concepts such as the rules of constructing quantum mechanical operators and the classical-quantal correspondence; the exact and approximate methods based on the Heisenberg equations; the determinantal approach to the scattering theory and the LSZ reduction formalism where the latter method is used to obtain the transition matrix. The uncertainty relations for a number of different observables are derived and discussed. A comprehensive chapter on the quantization of systems with nonlocalized interaction is included. Exact solvable models, and approximate techniques for solution of realistic many-body problems are also considered. The book takes a unified look in the final chapter, examining the question of measurement in quantum theory, with an introduction to the Bell's inequalities.			299					SCI057000,SCI055000,SCI041000
 9789814304115	HEISENBERG'S QUANTUM MECHANICS	RAZAVY MOHSEN	PaperBack	This book provides a detailed account of quantum theory with a much greater emphasis on the Heisenberg equations of motion and the matrix method. No other texts have come close to discuss quantum theory in terms of depth of coverage.The book features a deeper treatment of the fundamental concepts such as the rules of constructing quantum mechanical operators and the classical-quantal correspondence; the exact and approximate methods based on the Heisenberg equations; the determinantal approach to the scattering theory and the LSZ reduction formalism where the latter method is used to obtain the transition matrix. The uncertainty relations for a number of different observables are derived and discussed. A comprehensive chapter on the quantization of systems with nonlocalized interaction is included. Exact solvable models, and approximate techniques for solution of realistic many-body problems are also considered. The book takes a unified look in the final chapter, examining the question of measurement in quantum theory, with an introduction to the Bell's inequalities.			300					SCI057000,SCI055000,SCI041000
+9780521282840	MEANINGS INTO WORDS INTERMEDIATE WORKBOOK	DOFF						English				ZZZ000000
+9780521285803	INTRODUCING ENGLISH PRONUNCIATION	Baker						English				ZZZ000000
+9780521289498	SEMANTICS:A COURSEBOOK	HURFORD						English				ZZZ000000
+9780521289849	THE CAMB ENGLISH COURSE : LEVEL 2 : STUDENTS BOOK	SWAN						English				ZZZ000000
+9780521395519	STUDY SPEAKING.	Lynch						English				ZZZ000000
+9780521399746	STUDY READING.	GLENDINNING						English				ZZZ000000
+9780521357494	THE CAMB ENGLISH COURSE : LEVEL 1 : PRAC BK + KEY	SWAN						English				ZZZ000000
+9780521357883	CAMBRIDGE ENG.COURSE-LEVEL 3-PRAC.BOOK 3 WITH KEY.	SWAN						English				ZZZ000000
+9780521421690	CAMBRIDGE ENGLISH FOR SCHOOL LEVEL1-STUDENTS BK	Littlejohn						English				ZZZ000000
+9780521498968	CAMBRIDGE PRACTICE TESTS FOR FIRSTCERTIFICATE 1- SELF STUDY STUDENTS BOOK	CARNE						English				ZZZ000000
+9780521318563	POEM INTO POEM. `BOOK`	MALEY						English				ZZZ000000
+9780521497886	TEACHER COGNITION IN LANGUAGE TEACHING.	WOODS						English				ZZZ000000
+9780521560894	HARD TIMES	DICKENS						English				ZZZ000000
+9780521242752	D.H.LAWRENCE: SEA AND SARDINIA	D						English				ZZZ000000
+9780521479004	WELCOME. `STUDENT BK`	JONES						English				ZZZ000000
+9780521599801	BALANCED SCIENCE 2  : 2/E	JONES						English				ZZZ000000
+9780521648233	OPEN MODELLING LANGUAGE	FIRESMITH						English				ZZZ000000
+9788175960473	STUDY SKILLS IN ENGLISH STUDENT`S BOOK	Wallace						English				ZZZ000000
+9780521657761	NEW DIRECTIONS	GARDNER						English				ZZZ000000
+9788175960565	COORDINATED SCIENCE : CHEMISTRY 2/E	JONES						English				ZZZ000000
+9780521657990	WRITER WORKBK INSTRUCTOR MANUAL 3ED	SMOKE						English				ZZZ000000
+9788175960664	THE PHYSICS OF FLUIDS AND PLASMAS : AN INTRO      FOR ASTROPHYSICS	CHOUDHURI						English				ZZZ000000
+9780521634878	MATHS WORKOUT : BOOK 3 (LEVEL 4-5)	HARTMAN						English				ZZZ000000
+9780521634861	MATHS WORKOUT : BOOK 4 (LEVEL 5)	HARTMAN						English				ZZZ000000
+9780521786157	MATHEMATICS FOR SCIENCE STUDENTS (CLPE)	Lyons						English				ZZZ000000
+9780521789646	BETTER ENGLISH PRONUNCIATION (CLPE) : 1B2C	OCONNOR						English				ZZZ000000
+9780521786102	CAMB ADVANCED LEVEL MATHS : DISCRETE MATHEMATICS 1OCR	DOLAN						English				ZZZ000000
+9780521788656	BASIC VOCABULARY IN USE : WITH ANSWERS	MCCARTHY						English				ZZZ000000
+9780521799485	CAMB KEY ENGLISH TEST 2STD BOOK	UCLES						English				ZZZ000000
+9780521799492	CAMB KEY ENG TEST 2 STD BK W/ANS	UCLES						English				ZZZ000000
+9780521662154	IGNEOUS ROCKS : A CLASSIFICATION & GLOSSARY OF TERMS 2/E	Lemaitre						English				ZZZ000000
+9780719578496	IGCSE PHYSICS	DUNCAN						English				ZZZ000000
+9780199183401	SCIENCE SUCCESS BOOK 3	Jennings						English				ZZZ000000
+9780521788014	SMP 16-19 : MECHANICS 2	SMP						English				ZZZ000000
+9780582405479	BUSINESS STUDIES : AS AND A LEVEL	BARRATT						English				ZZZ000000
+9780199147397	COMPLETE BIOLOGY	Pickering						English				ZZZ000000
+9780521753739	CSAM : LECTURES IN LOGIC AND SET THEORY : VOL 1	TOURLAKIS						English				ZZZ000000
+9780199134076	ADVANCED GEOGRAPHY	NAGLE						English				ZZZ000000
+9780174402718	ENCORE : TRICOLORE 1 : STUDENTS BOOK	HONNOR						English				ZZZ000000
+9780174403227	ENCORE : TRICOLORE 2 : STUDENTS BOOK	HONNOR						English				ZZZ000000
+9781843150275	REVISE KS3 : SCIENCE : KEY STAGE 3 : FOR SAT	MCDUELL						English				ZZZ000000
+9780748768592	MTSS : EXPLAINING AND QUESTIONING	KERRY						English				ZZZ000000
+9780521754521	ENGLISH FOR BUSINESS COMMUNICATION : ACD SET : 2/E	SWEENEY						English				ZZZ000000
+9780582249752	THE TWENTIETH CENTURY WORLD	BROOMAN						English				ZZZ000000
+9780521547697	BUSINESS VOCABULARY IN USE	MASCULL						English				ZZZ000000
+9780521594981	CONNECT : STUDENT BOOK 1	RICHARDS						English				ZZZ000000
+9781841100685	THE MEDICAL DOCUMENTATION OF TORTURE	PEEL						English				ZZZ000000
+9781900151023	MINIMAL ACCESS SURGERY IN ONCOLOGY	GERAGHTY						English				ZZZ000000
+9780719571886	EXISTENTIALISM AND HUMANISM JEAN - PAUL SARTRE	JONES						English				ZZZ000000
+9780521773751	NEW INTERCHANGE INTRO CLASS CDS	RICHARDS						English				ZZZ000000
+9780174483052	ENVIRONMENTAL SCIENCE	Byrne						English				ZZZ000000
+9780521011693	ESSENTIAL PSYCHOPHARMACOLOGY : THE PRESCRIBERS   GUIDE	STAHL						English				ZZZ000000
+9780340813997	STATISTICS 1 (MEI STRUCTURED MATHEMATICS)	ECCLES						English				ZZZ000000
+9780719579684	PHILOSOPHY OF RELIGION : PHILOSOPHY IN FOCUS	JONES						English				ZZZ000000
+9788170460572	BEYOND THE STARS : THE MEMOIRS OF SERGEI          EISENSTEIN	EISENSTEIN						English				ZZZ000000
+9788170461647	MONTAGE	Sen						English				ZZZ000000
+9788170462507	CITY FLICKS	TARKOVSKY						English				ZZZ000000
+9788170462590	DEATH OF A DISCIPLINE	SPIVAK						English				ZZZ000000
+9788170461449	OLD WOMEN	MAHASWETA						English				ZZZ000000
+9788170461869	TILL DEATH DO US PART : FIVE STORIES	MAHASWETA						English				ZZZ000000
+9788170461760	CHOTTI MUNDA AND HIS ARROW	MAHASWETA						English				ZZZ000000
+9788170462064	THE GLORY OF SRI SRI GANESH	MAHASWETA						English				ZZZ000000
+9780521649834	SPELLING PATTERNS BOOK 3	CUP						English				ZZZ000000
+9780174216858	NELSON MATHEMATICS TOWARDS LEVEL 3 EXTRA PUPILS  BOOK	Harrison						English				ZZZ000000
+9780174218678	NELSON MATHEMATICS TOWARDS LEVEL 4 PUPILS BK 1	Nelson						English				ZZZ000000
+9788186706992	WRITING THE WOMENS MOVEMENT A READER	KHULLAR						English				ZZZ000000
+9780521848893	GEOMETRY AND TOPOLOGY	Reid						English				ZZZ000000
+9780521687256	CTAM : PRACTICAL APPLIED MATHEMATICS	HOWINSON						English				ZZZ000000
+9780521866958	CAMBRIDGE ADVANCED LEARNERS DICTIONARY HB WITH CD2ND EDITION	CUP						English				ZZZ000000
+9780719580666	CHECKPOINT : CHEMISTRY TEACHERS RESOURCE BOOK	RILEY						English				ZZZ000000
+9780340888537	STATISTICS - 2 : 3/ED MEI SM	Davies						English				ZZZ000000
+9780340905258	STATISTICS - 3 : 3/ED MEI SM	Davies						English				ZZZ000000
+9780340905265	STATISTICS - 4 : 3/ED MEI SM	Michael						English				ZZZ000000
+9780748790517	HORIZONS 3 : GEOGRAPHY 11-14	GARDNER						English				ZZZ000000
+9788175963221	EXPERIENCE AND EMOTION : AN ANTHOLOGY OF PROSE    POETRY AND FICTION (PRES J & K)	ASLAM						English				ZZZ000000
+9788170462668	THE COMING OF THE BOOK	SEAGULL						English				ZZZ000000
+9780199134502	GEOG 2 NEW EDITION : GEOGRAPHY FOR KEY STAGE 3	Gallagher						English				ZZZ000000
+9780435169794	NHM : NEW HEIN MATH 2 : OMNIBUS PACK ENGL	HEINEMANN						English				ZZZ000000
+9788170463085	MOVING FOCUS : ESSAYS ON INDIAN ART	SUBRAMANYAN						English				ZZZ000000
+9780435171957	7** NEW HEIN MATH 3 : ACTIVITY BOOK	HEINEMANN						English				ZZZ000000
+9780435178765	NEW HEINMANN MATH 6 : EXTENSION TEXTBOOK	HEINEMANN						English				ZZZ000000
+9788170463061	THE NEURAL	BARTHES						English				ZZZ000000
+9781905422241	VSEVOLOD PUDOVKIN : SELECTED ESSAYS	TAYLOR						English				ZZZ000000
+9780007755455	CAMBRIDGE IGCSE CHEMISTRY WITH CD-ROM	Goodman						English				ZZZ000000
+9788175963603	IMAGES OF LIFE : AN ANTHOLOGY PROSE	ANAND						English				ZZZ000000
+9780521696494	CIE : IGCSE FIRST LANGUAGE ENGLISH	COX						English				ZZZ000000
+9780003172461	SCIENCE DIRECTIONS : PUPIL BOOK 2	SUNLEY						English				ZZZ000000
+9780007755424	CIE : CAMBRIDGE IGCSE BIOLOGY WITH CD	Price						English				ZZZ000000
+9788175963672	WARRIOR ASCETICS AND INDIAN EMPIRES	PINCH						English				ZZZ000000
+9780007755431	CAMBRIDGE IGCSE PHYSICS	BRADLEY						English				ZZZ000000
+9780748791842	SCIENTIFICA WORK BOOK 7	ELLIS						English				ZZZ000000
+9780521704052	GRAMMAR IN PRACTICE 1	ROGERGOWER						English				ZZZ000000
+9788170463184	IMPOSSIBLE DESIRES	GOPINATH						English				ZZZ000000
+9780898715545	MATHEMATICAL MODELS IN BIOLOGY	EDELSTEIN-KESHET						English				ZZZ000000
+9780748797028	NEW KEY GEOGRAPHY CONNECTIONS	Waugh						English				ZZZ000000
+9780435171964	NEW HEINEMANN MATHS: ACTIVITY BOOK 8	HARCOURT						English				ZZZ000000
+9780435174279	NEW HEIN MATH 4 : ASSESS WORKBK 8PK	HEIN						English				ZZZ000000
+9780435176518	NEW HEIN MATHS 5 : ASSESS WORKBK 8PK	HEIN						English				ZZZ000000
+9780435178796	NEW HEIN MATH 6 : ASSESS WORKBK 8PK	HEIN						English				ZZZ000000
+9781905422227	THE PRISON MANUSCRIPTS	BUKHARIN						English				ZZZ000000
+9788175965034	LANGUAGE IN USE : UPPER-INTER : SELF-STUDY CD	DOFF						English				ZZZ000000
+9781841100548	CASE STUDIES IN BREAST CANCER	HARNETT						English				ZZZ000000
+9780748758227	EPICS : DEVELOPMENT GLOBALISATION AND SUSTAIN-    ABILITY	WITHERICK						English				ZZZ000000
+9780340928066	IGCSE ENGLISH AS A SECOND LANGUAGE	DIGGER						English				ZZZ000000
+9780898713527	ITERATIVE METHODS FOR LINEAR AND NONLINEAR        EQUATIONS	KELLEY						English				ZZZ000000
+9780898714548	MATRIX ANALYSIS AND APPLIED LINEAR ALGEBRA	Meyer						English				ZZZ000000
+9780521051446	BENGAL DIVIDED	CHATTERJI						English				ZZZ000000
+9780521056199	DEVELOPMENT POLICY OF A COMMUNISTS GOVERNMENT	MALLICK						English				ZZZ000000
+9788170463245	SEXUALITY IN THE FIELD OF VISION	Rose						English				ZZZ000000
+9780521730778	THE CAMBRIDGE INTRODUCTION TO CREATIVE WRITING	Morley						English				ZZZ000000
+9780521725682	CAMBRIDGE ESSENTIALS SCIENCE EXTENSION 7 W/CD-ROM	Martin						English				ZZZ000000
+9780521724555	PHYSICS 1 FOR OCR	Sang						English				ZZZ000000
+9788175964785	BRIGHT SPARKS : STORM (SR)	BLAXLAND						English				ZZZ000000
+9788175964495	BRIGHT SPARKS : IN MY BAG (SR)	BLAXLAND						English				ZZZ000000
+9788175964815	BRIGHT SPARKS : TIDES (SR)	BLAXLAND						English				ZZZ000000
+9788175964440	BRIGHT SPARKS : WHERES THE CAT ? (SR)	BLAXLAND						English				ZZZ000000
+9788175964464	BRIGHT SPARKS : MY SANDWICH (SR)	BLAXLAND						English				ZZZ000000
+9788175964587	BRIGHT SPARKS : SIX BIG BALLOONS (SR)	BLAXLAND						English				ZZZ000000
+9788175964648	BRIGHT SPARKS : THE PRESENT THAT GREW (SR)	BLAXLAND						English				ZZZ000000
+9788175965263	BRIGHT SPARKS : GRANNY ROMA (SR)	BLAXLAND						English				ZZZ000000
+9788175965287	BRIGHT SPARKS : NEW SCHOOL (SR)	Hughes						English				ZZZ000000
+9788175964433	BRIGHT SPARKS : IN THE GARDEN (SR)	BLAXLAND						English				ZZZ000000
+9780748783281	NEW PHYSICS FOR YOU	JOHNSON						English				ZZZ000000
+9781904467540	GCSE ICT 3/E	HEIN						English				ZZZ000000
+9780521735827	MURPHYS ENGLISH GRAMMAR 3/ED                     PRESCRIBED BY GURU NANAK DEV UNIVERSITY AMRITSAR	MURPHY						English				ZZZ000000
+9780748765430	NT FRAMEWORK ENG 1 TG	Nelson						English				ZZZ000000
+9780748769490	NT FRAMEWORK ENG 2 TG	Nelson						English				ZZZ000000
+9788175966246	CAMBRIDGE CARDS PACK 1 (SET OS 20 CARDS)	PLANT						English				ZZZ000000
+9788175966253	CAMBRIDGE CARDS PACK 2 (SET OF 20 CARDS)	RAO						English				ZZZ000000
+9780199135028	GEOG.1 WORKBOOK 3/ED	Gallagher						English				ZZZ000000
+9780521741088	CAMBRIDGE EXPRESS WORKBOOK 5	SARFRAJ						English				ZZZ000000
+9780898716481	A FIRST COURSE IN ORDER STATISTICS	Arnold						English				ZZZ000000
+9780521741057	CAMBRIDGE EXPRESS WORKBOOK 8	BARKER						English				ZZZ000000
+9780340959442	INTERNATIONAL ENGLISH WORKBOOK 1	Hodder						English				ZZZ000000
+9780435337568	HEINEMANN EXPLORE SCIENCE: STUDENT BOOK 4         INTERNATIONAL EDITION	LIVESLEY						English				ZZZ000000
+9780435337582	HEINEMANN EXPLORE SCIENCE: STUDENT BOOK 6         INTERNATIONAL EDITION	LIEVESLEY						English				ZZZ000000
+9780898711899	LARGE DEVIATIONS AND APPLICATIONS	VARADHAN						English				ZZZ000000
+9788125929949	TRANSITIONS HISTORY & CIVICS ICSE CLASS 8	MADHUBUN						English				ZZZ000000
+9780521738309	PHYSICS 2 FOR OCR	CHADHA						English				ZZZ000000
+9788173353581	Bhasha Tharani IGCSE Hindi as a Second Language	BATRA						English				ZZZ000000
+9780435126087	WUTHERING HEIGHTS	BRONTE						English				ZZZ000000
+9788175966741	PRISM:AN ANTHOLOGY OF SHORT STORIES(GUJARAT UNIVERSITY EDITION	SELVAKUMAR GEETHA						English				ZZZ000000
+9780000702265	THE VIOLENCE OF DEVELOPMENT	KAPADIA						English				ZZZ000000
+9788131712122	LONGMAN PANORAMA CIVICS 6	JASMINE DHILLON						English				ZZZ000000
+9789078677239	ENACTION, EMBODIMENT, EVOLUTIONARY ROBOTICS: SIMULATION MODELS IN THE STUDY OF HUMAN COGNITION	ROHDE MARIEKE						English				ZZZ000000
+9789812839152	REGIONAL ECONOMIC ENGAGEMENTS AND THE FREE TRADE AGREEMENTS: ANALYTICAL INSIGHTS AND POLICY OPTIONS	DAS RAM UPENDRA ET AL						English				ZZZ000000
+9788175966802	TEXTURES OF ENGLISH	RAJEEVAN						English				ZZZ000000
+9780340959428	International English Coursebook 2	LUCANTONI						English				ZZZ000000
+9788175966789	REFLECTION 2 (With CD)	NANDINI NAYAR						English				ZZZ000000
+9788125929628	GUNJAN 1 HINDI PATH MALA 1	MADHUBAN						English				ZZZ000000
+9788190618656	THE CLASH OF CHRONOLOGIES	TRAUTMANN						English				ZZZ000000
+9780435994457	Pearson Baccalaureate: Biology Higher Level	DAMON						English				ZZZ000000
+9780435994426	PEARSON BACCALAUREATE: HIGHER LEVEL PHYSICS	HAMPER						English				ZZZ000000
+9788189884338	GENDER JUSTICE CITIZENSHIP DEVELOPMENT	SINGH						English				ZZZ000000
+9780980232714	Introduction to Linear Algebra	STRANG						English				ZZZ000000
+9781843122647	Jumpstart ! Numeracy : Maths  activities & games  for ages 5-14	Taylor, John|						English				ZZZ000000
+9781843124658	Jumpstart ! ICT :  Activities & games  for ages 7-14	Taylor, John|						English				ZZZ000000
+9788175966857	I CARE : My Book of Environmental Awareness  2 "Tchr`s Manual"   (INDIA EDITION)	Subramaniam						English				ZZZ000000
+9780340965993	International Science: Workbook - Bk. 3	MORRISON						English				ZZZ000000
+9788175967038	GOLDEN LAURELS "PRESCRIBED IN MANIPUR UNIVERSITY"	SINGH						English				ZZZ000000
+9780521168106	FACE2FACE PRE-INTERMEDIATE WORKBOOK	TIMS						English				ZZZ000000
+9780435994402	Pearson Baccalaureate: Higher Level Chemistry	BROWN						English				ZZZ000000
+9788175545250	COMMUNICATE TO WIN	DENNY						English				ZZZ000000
+9780340959435	International English: Coursebook Bk. 3	LUCANTONI						English				ZZZ000000
+9780435994471	Pearson Baccalaureate: Standard Level Physics	HAMPER						English				ZZZ000000
+9780952474678	Economics from a Global Perspective	GLANVILLE						English				ZZZ000000
+9780883855706	Mathematics in Historical Context	SUZUKI						English				ZZZ000000
+9780521530361	Strange Parallels   Vol.2	LIEBERMAN						English				ZZZ000000
+9780340967690	OCR ART & DESIGN AS/A LEVEL	SHIRLEY						English				ZZZ000000
+9780435966867	Heinemann IGCSE Maths Extended Student Book	NYE						English				ZZZ000000
+9780521176170	CAMBRIDGE IGCSE BIOLOGY TEACHERS RESOURCE CD ROM	JONES						English				ZZZ000000
+9788175967335	Advanced Technical Communication	Gupta						English				ZZZ000000
+9780521742856	Cambridge Express Workbook 1 with Interactive CD-Rom	BHATT						English				ZZZ000000
+9780521742917	Cambridge Express Workbook 4 with Interactive CD-Rom	SARFARAJ						English				ZZZ000000
+9780521742931	Cambridge Express Workbook 5 with Interactive CD-Rom	SARFARAJ						English				ZZZ000000
+9780521742993	Cambridge Express Workbook 8 with Interactive CD-Rom	BARKER						English				ZZZ000000
+9780521742870	Cambridge Express Workbook 2 with Interactive CD-Rom	BHATT						English				ZZZ000000
+9780521742894	Cambridge Express Workbook 3 with Interactive CD-Rom	RAJEEVAN						English				ZZZ000000
+9780521742955	Cambridge Express Workbook 6 with Interactive CD-Rom	SUGATHAN						English				ZZZ000000
+9780521742979	Cambridge Express Workbook 7 with Interactive CD-Rom	BARKER						English				ZZZ000000
+9788175967373	A Course In Listening and Speaking II	DAMODAR						English				ZZZ000000
+9780521152655	Fluid Mechanics ( South Asian Edition )	PNUELI						English				ZZZ000000
+9780521151948	Listening in the Language Classroom ( South Asian Edition )	Field						English				ZZZ000000
+9789812772022	ADVANCES IN CODING THEORY AND CRYPTOGRAPHY	SHASKA T ET AL						English				ZZZ000000
+9789812701541	STOCHASTIC ANALYSIS: CLASSICAL AND QUANTUM: PERSPECTIVES OF WHITE NOISE THEORY	HIDA TAKEYUKI						English				ZZZ000000
+9780521140812	Selections	WEST						English				ZZZ000000
+9781904724797	CHALLENGES FROM A NEW WORLD	Walker						English				ZZZ000000
+9788189884529	MEMORIES OF A ROLLING STONE	Mazumdar						English				ZZZ000000
+9788175967397	STUDY GUIDE TO INTEGRATED GENERAL ENGLISH COURSE I	AKHTER						English				ZZZ000000
+9780521140454	Developing Intermediate Vocabulary	Haines						English				ZZZ000000
+9788188861095	I Am Not An Island : An Experiment in Autobiography	ABBAS						English				ZZZ000000
+9788175967403	Integrated General English Course II ( Pres.by University of J & K )	ASLAM						English				ZZZ000000
+9788175967410	Study Guide to Integrated General English Course II ( Pres.by University of J & K )	AKHTER						English				ZZZ000000
+9781408503201	AQA Gcse Art & Design Student Handbook	Ager						English				ZZZ000000
+9781408505960	AQA GCSE Engl Lang Foundation Student Bk	SECCOMBE						English				ZZZ000000
+9781408506479	Business Studies for IGCSE	DRANSFIELD						English				ZZZ000000
+9780340985052	Chemitry for IB with CD	TALBOT						English				ZZZ000000
+9788175967427	Integrated General English Course Book III ( Pres.by J & K Board )	ASLAM						English				ZZZ000000
+9780521173063	Cambridge English Reader Level 5 : Windows of the Mind	BRENNAN						English				ZZZ000000
+9780521152525	Games for Language Learning ( South Asian Ed.)	WRIGHT						English				ZZZ000000
+9780521152488	Keep Talking ( South Asian Ed.)	KLIPPEL						English				ZZZ000000
+9788175967281	First Course in Metric Spaces	TYAGI						English				ZZZ000000
+9780521168212	From Asian to Global Financial Crisis ( South Asian Edition )	SHENG						English				ZZZ000000
+9788175967502	Non Fictional Prose ( Pres.by University of J & K )	ASLAM						English				ZZZ000000
+9781107000261	The Ancient Indus: Urbaism, Economy and Society	WRIGHT						English				ZZZ000000
+9780521153997	Stahls Illustrated Anxiety, Stress, and PTSD	STAHL						English				ZZZ000000
+9780521152129	Cambridge English Skills Real Writing 2 with Answers with CD  ( South Asian Edition )	PALMER						English				ZZZ000000
+9780521152143	Cambridge English Skills Real Writing 3 with Answers with CD ( South Asian Edition )	GOWER						English				ZZZ000000
+9788189884833	Missing : Half The Story	Sharma						English				ZZZ000000
+9780521173032	English Literature in Context ( South Asian Edition )	POPLAWSKI						English				ZZZ000000
+9780521880527	High-Temperature Levitated Materials	Price						English				ZZZ000000
+9780521177191	The Tempest South Asian Edition	LINDLEY						English				ZZZ000000
+9780521176804	Switching and Finite Automata Theory 3/e ( South Asian Edition )	JHA						English				ZZZ000000
+9780340949238	Edexcel A2 Psychology Unit 4 How Psychology Works	BRAIN						English				ZZZ000000
+9780898716948	Primer on Optimal Control Theory	Speyer, Jacobson,						English				ZZZ000000
+9780521152181	Grammar Practice Activities 2/e with CD ( South Asian Edition )	UR						English				ZZZ000000
+9788175967526	PERSPECTIVES IN LITERATURE	SADASIVAN LEESA						English				ZZZ000000
+9780340782354	Anstoss GCSE Teachers Resource File	SHEPHERD						English				ZZZ000000
+9780521176934	Astrophysics for Physicists ( South Asian Edition )	CHOUDHURI						English				ZZZ000000
+9780521757843	Cambridge IGCSE Geography Coursebook with CD-ROM	CAMBERS						English				ZZZ000000
+9780521726368	English Unlimited Starter Class Audio CDs (2)	DOFF						English				ZZZ000000
+9780521697798	English Unlimited Pre-intermediate Class Audio CDs (3)	TILBURY						English				ZZZ000000
+9780521178778	An Introduction to Relativity ( South Asian Edition )	NARLIKAR						English				ZZZ000000
+9788175967496	Listening and Speaking A course for Undergraduate Students	SASIKUMAR						English				ZZZ000000
+9788483236956	A Little Trouble in Dublin Level 1 Beginner/Elementary	MacAndrew						English				ZZZ000000
+9780521113373	Speech and Silence in American Law	SARAT						English				ZZZ000000
+9780521697729	English Unlimited Elementary Coursebook with e-Portfolio	TILBURY						English				ZZZ000000
+9780521697774	English Unlimited Pre-intermediate Coursebook with e-Portfolio	TILBURY						English				ZZZ000000
+9780521169653	CAMBRIDGE ACTIVITY BOOK A	Gupta						English				ZZZ000000
+9780521169660	CAMBRIDGE ACTIVITY BOOK B	Gupta						English				ZZZ000000
+9780521169677	CAMBRIDGE ACTIVITY BOOK C	Gupta						English				ZZZ000000
+9780521169684	CAMBRIDGE ACTIVITY TEACHERS MANUAL	Gupta						English				ZZZ000000
+9789067043199	The Permanent Court of Arbitration	CAMBRIDGE						English				ZZZ000000
+9780521122108	Cambridge IGCSE Business Studies Coursebook with CD-ROM	Nuttall						English				ZZZ000000
+9780521178761	Gravitation : Foundations and Frontiers ( South Asian Edition )	PADMANABHAN						English				ZZZ000000
+9788175967557	Varieties of Expressions	TAK						English				ZZZ000000
+9788189013059	The Peripheral Centre	Gill						English				ZZZ000000
+9788175967540	Chinar : An Anthology of Prose & Poems	KAUL						English				ZZZ000000
+9788175967632	ENGLISH FOR LIFE 1 BA/BSc, SEMESTER 1	BOARD OF EDITIORS						English				ZZZ000000
+9788175967656	Literature and Contemporary Issues	Board of Directors						English				ZZZ000000
+9780521179119	Cambridge IGCSE ICT Coursebook with CD-ROM	LEADBETTER						English				ZZZ000000
+9780521140898	Success International English IGCVSE audio cd	BARRY						English				ZZZ000000
+9780521178747	Principles and Techniques of Biochemistry and Molecular Biology ( 7th  Edn ) NEW	Wilson/Walker						English				ZZZ000000
+9780521181914	Machine Learning Methods in the Environmental Sciences South Asian Ed.	Hsieh						English				ZZZ000000
+9780521181921	Deploying Wireless Networks South Asian Ed.	WILTON						English				ZZZ000000
+9780521140584	Practice Tests for IGCSE English as a Second Language : Listening and Speaking, Core Level Book 1	BARRY						English				ZZZ000000
+9780521140546	Practice Tests for IGCSE English as a Second Language : Listening and Speaking, Extended Level Book	BARRY						English				ZZZ000000
+9780521746236	American Criminal Justice Policy	Mears						English				ZZZ000000
+9788175967649	Interface 1: English for BCom/BBA/BCA, Semester I	Padma Ravindran						English				ZZZ000000
+9780521140423	Listen Here! Intermediate Listening Activities CDs	WEST						English				ZZZ000000
+9788188861101	One Dimensional Woman	POWER						English				ZZZ000000
+9780552773317	God Delusion	DAWKINS						English				ZZZ000000
+9788175967663	Basic Technical Communication Revised Ed. ( Pres.by Uttrakhand Tech.University )	Gupta						English				ZZZ000000
+9780521193504	Claims Against Iraqi Oil and Gas	ZEDALIS						English				ZZZ000000
+9780521136723	Essential Neuropharmacology	SILBERSTEIN						English				ZZZ000000
+9780521853118	International Commercial Tax	Harris						English				ZZZ000000
+9780340887660	Formative Assessment in the Secondary Classroom	Clarke						English				ZZZ000000
+9781843545743	God is not great	HITCHENS						English				ZZZ000000
+9780566086281	Outdoor and Experiential Learning	Martin						English				ZZZ000000
+9788175967731	FOOTPRINTS III: AN ANTHOLOGY OF PROSE AND FICTION	NANDINI NAYAR						English				ZZZ000000
+9788175967588	Reflections III	C.L.N.Prakash						English				ZZZ000000
+9788175967595	Fast Track II	Kshema Jose						English				ZZZ000000
+9780521697743	English Unlimited Elementary Self-study Pack (Workbook with DVD-ROM)	Baigent						English				ZZZ000000
+9781843123224	Choosing and Using Fiction and Non-Fiction 3-11	MARGARET						English				ZZZ000000
+9780415576895	Developing Language and Communication Skills Through Effective Small Group Work	PALMER						English				ZZZ000000
+9780435806996	OCR A Level Psychology Student Book	LINTERN						English				ZZZ000000
+9788175967748	READING LITERATURE IN ENGLISH (KOVEMPU UNIVERSITY)	Muraleedharan K C						English				ZZZ000000
+9788175967779	IMPRESSIONS A MULTI-SKILL COURSE IN ENGLISH (PONDICHERRY UNIVERSITY)	RADHAKRISHNA PILLAI						English				ZZZ000000
+9781849040266	My Life with the Taliban	Zaeef						English				ZZZ000000
+9780521126656	Cambridge International AS Level and A Level Economics Coursebook with CD-ROM	BAMFORD						English				ZZZ000000
+9780898717006	Modeling, Simulation, and Optimization of Supply Chains	Gottlich						English				ZZZ000000
+9788125917755	Environmental Education for Class 2	MOHINDRA						English				ZZZ000000
+9788176486569	Teaching of Geogrpahy	SIDDIQUI						English				ZZZ000000
+9780521134583	Learning One-to-One Paperback with CD-ROM	Wisniewska						English				ZZZ000000
+9780521179256	Kingship and Conversion in Sixteenth-Century Sri Lanka South Asian Edition	Strathern						English				ZZZ000000
+9780521111157	Fact-Finding Without Facts	Combs						English				ZZZ000000
+9788184734034	Direct Taxes Ready Reckoner 2010-2011 24th ed	Dhruv						English				ZZZ000000
+9788175967793	INNOVATE WITH ENGLISH	SAMSON T						English				ZZZ000000
