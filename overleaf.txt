@@ -1,0 +1,2 @@
+#ISBN	Title	Publisher	Distributor	List Price	Offer Price	Price to Ekkitab	Percent Discount from Supplier	Delivery period
+000641414800X	The BIG Outdoor Maths Box	Nelson Thornes, UK	overleaf	13500	9975	8975	10	5
