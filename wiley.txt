@@ -4520,7 +4520,7 @@
 9780470409480	INFORMATION TECHNOLOGY PROJECT MANAGEMENT, WITH CD-ROM 3E INTERNATIONAL STUDENT VERSION	MARCHEWKA	Paperback		2009/04/21	wiley	440	English				ZZZ000000
 9780470683989	IPHONE SDK 3 PROGRAMMING - ADVANCED MOBILE DEVELOPMENT FOR APPLE IPHONE AND IPOD TOUCH	ALI	Paperback		2009/09/25	wiley	672	English				ZZZ000000
 9780470742822	IPHONE SDK PROGRAMMING - DEVELOPING MOBILE APPLICATIONS FOR APPLE IPHONE AND IPOD TOUCH	ALI	Paperback		2009/01/23	wiley	396	English				ZZZ000000
-9780470684207	LEAN ARCHITECTURE - FOR AGILE SOFTWARE DEVELOPMENT	COPLIEN	Paperback		2010/06/18	wiley	376	English				ZZZ000000
+9780470684207	LEAN ARCHITECTURE - FOR AGILE SOFTWARE DEVELOPMENT	James Coplien&Gertrud Bj?rnvig	Paperback		2010/06/18	wiley	376	English				ZZZ000000
 9780470277942	LINQ FOR DUMMIES	MUELLER	Paperback		2008/07/18	wiley	364	English				ZZZ000000
 9780470404157	MANAGING THE TESTING PROCESS: PRACT ICAL TOOLS AND TECHNIQUES FOR MANAGING HARDWARE AND SOFTWARE TESTING, THIRD EDITION	BLACK	Paperback		2009/07/27	wiley	672	English				ZZZ000000
 9780470386804	MICROSOFT POWERSHELL, VBSCRIPT, AND JSCRIPT BIBLE	STANEK	Paperback		2009/02/06	wiley	912	English				ZZZ000000
@@ -11311,3 +11311,4 @@
 9789350040270	ASP.NET 4.0: COVERS C# 2010 AND VB 2010 CODES, BLACK BOOK	KOGENT LEARNING SOLUTIONS INC.						English				ZZZ000000
 9789350040782	PHOTOSHOP CS5 IN SIMPLE STEPS	KOGENT LEARNING SOLUTIONS INC.						English				ZZZ000000
 9789350040867	HTML 5 IN SIMPLE STEPS	KOGENT LEARNING SOLUTIONS INC.						English				ZZZ000000
+9788126528240	REWIRE YOUR BRAIN: THINK YOUR WAY TO A BETTER LIFE	JOHN B. ARDEN	Paperback	Explaining exciting new developments in neuroscience and their applications to daily living, Rewire Your Brain will guide you through the process of changing your brain so you can change your life and be free of self-imposed limitations. Due to new discoveries in neuroscience, we know much more about how the brain works and how you can rewire parts of the brain that have become out of balance. In Rewire Your Brain, Arden describes how specific parts of your brain tend to get overactivated or underactivated, especially when you are feeling down. He shows you how to activate the parts of your brain that need to be brought back into balance so that you feel positive about your life and remain calm during stressful times. You will also learn the secrets to improving your memory, boosting your mood, having better relationships, and getting a good night's sleep.	22 October 2010	Wiley India	256	English				ZZZ000000
