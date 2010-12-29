@@ -1,0 +1,863 @@
+9788184892109	General Relativity: With Applications to Astrophysics	Straumann	Paperback			Springer India	686	English				ZZZ000000
+9788184894578	A Short Course in General Relativity, 3e	Foster	Paperback			Springer India	302	English				ZZZ000000
+9788181289193	Handbook of Ingredients for Aquaculture Feeds	Hertrampf	Paperback			Springer India	624	English				ZZZ000000
+9788184895872	Plant Pathology	Burns 	Paperback			Springer India	330	English				ZZZ000000
+9788184893106	A Guide to Clinical Drug Research, 2e	Cohen	Paperback			Springer India	222	English				ZZZ000000
+9788181289247	Biochemistry and Molecular Biology of Antimicrobial Drug Action, 6e	Franklin	Paperback			Springer India	182	English				ZZZ000000
+9788184893861	Data Mining, Systems Analysis, and Optimization in Biomedicine	Seref	Paperback			Springer India	328	English				ZZZ000000
+9788184891515	Dose Finding in Drug Development	Ting	Paperback			Springer India	262	English				ZZZ000000
+9788181288615	ELISA: Theory and Practice	Crowther	Paperback			Springer India	256	English				ZZZ000000
+9788184892918	Formulation, Characterization, and Stability of Protein Drugs: Case Histories	Pearlman	Hardcover			Springer India	460	English				ZZZ000000
+9780306474743	Fundamentals of Biomechanics	Knudson	Paperback			Springer India	356	English				ZZZ000000
+9788181289230	Genome	Gustafson	Paperback			Springer India	268	English				ZZZ000000
+9788181283207	Genomics and Proteomics: Functional and Computational Aspects	Suhai	Paperback			Springer India	260	English				ZZZ000000
+9788181286970	Good Laboratory Practice, 2e	Seiler	Paperback			Springer India	424	English				ZZZ000000
+9788181288837	Handbook of Drug Interactions: A Clinical and Forensic Guide	Mozayani	Hardcover			Springer India	680	English				ZZZ000000
+9788184890617	Introduction to Bioinformatics: A Theoretical And Practical Approach (With CD)	Krawetz	Paperback			Springer India	550	English				ZZZ000000
+9788181284815	Lab-on-Chips for Cellomics: Micro and Nanotechnologies for Life Sciences 	Andersson	Paperback			Springer India	363	English				ZZZ000000
+9788181283702	Poucher's Perfumes, Cosmetics and Soaps, 10e	Butler	Hardcover			Springer India	800	English				ZZZ000000
+9788184892949	Selective Toxicity: Physico-chemical Basis of Therapy 	Albert	Hardcover			Springer India	640	English				ZZZ000000
+9788181281982	Solving Problems in Genetics	Kowles	Paperback			Springer India	496	English				ZZZ000000
+9788181282392	Stability of Drugs and Dosage Forms	Yoshioka	Paperback			Springer India	272	English				ZZZ000000
+9788181287649	Toxicology & Clinical Pharmacology of Herbal Products	Cupp	Hardcover			Springer India	344	English				ZZZ000000
+9788184895070	Drug Metabolism and Transport: Molecular Methods and Mechanisms	Lash	Hardcover			Springer India	400	English				ZZZ000000
+9788184895605	Herbal Drugs: Ethnomedicine to Modern Medicine	Ramawat	Hardcover			Springer India	424	English				ZZZ000000
+9788184894318	Milk and Milk Products: Technology, Chemistry, and Microbiology	Varnam	Paperback			Springer India	463	English				ZZZ000000
+9788181288677	A Beginner's Guide to Microarrays	Blalock	Paperback			Springer India	368	English				ZZZ000000
+9788181287311	A Practical Approach to Microarray Data Analysis	Berrar	Paperback			Springer India	384	English				ZZZ000000
+9788181288417	Advances in Microbial Control of Insect Pests	Upadhyay	Hardcover			Springer India	340	English				ZZZ000000
+9788181283788	Air Pollution and Plant Biotechnology: Prospects for Photomonitoring and Phytoremediation	Omasa	Paperback			Springer India	476	English				ZZZ000000
+9788181288714	An Introduction to Agroforestry	Nair	Paperback			Springer India	520	English				ZZZ000000
+9788181281975	Analytical Biotechnology	Schalkhammer	Paperback			Springer India	344	English				ZZZ000000
+9788184893199	Applied Microbiology	Durieux	Paperback			Springer India	288	English				ZZZ000000
+9788181281760	Bacterial Metabolism, 2e	Gottschalk	Hardcover			Springer India	376	English				ZZZ000000
+9788181288080	Basic Cell Culture Protocols, 3e (With CD)	Helgason	Paperback			Springer India	384	English				ZZZ000000
+9788181287960	Basic Techniques in Molecular Biology	Surzycki	Paperback			Springer India	434	English				ZZZ000000
+9788184890761	Beverages: Technology, Chemistry and Microbiology	Vernam	Paperback			Springer India	464	English				ZZZ000000
+9780387969848	Biochemistry and Physiology of Plant Hormones, 2e	Moore	Paperback			Springer India	330	English				ZZZ000000
+9788181288479	Bioinformatics Methods and Protocols	Misener	Paperback			Springer India	512	English				ZZZ000000
+9788181283771	Bioinformatics of Genome Regulation and Structure	Kolchanov	Paperback			Springer India	392	English				ZZZ000000
+9788181288110	Biomechanics -  Mechanical Properties of Living Tissues, 2e	Fung	Paperback			Springer India	568	English				ZZZ000000
+9788181281265	Biophysics	Glaser	Paperback			Springer India	380	English				ZZZ000000
+9788184890440	Brewing Microbiology, 3e	Priest	Paperback			Springer India	411	English				ZZZ000000
+9788181283542	Cereals and Cereal Products: Technology and Chemistry	Dendy	Hardcover			Springer India	444	English				ZZZ000000
+9788181287021	Commercial Chicken Meat and Egg Production, 5e	Bell 	Hardcover			Springer India	1416	English				ZZZ000000
+9788181284204	Computational Biology: Unix/Linux, Data Processing and Programming	W nschiers	Paperback			Springer India	304	English				ZZZ000000
+9788181283641	Developmental Biology	Muller	Paperback			Springer India	392	English				ZZZ000000
+9788181287953	Developmental Biology of Flowering Plants	Raghavan	Hardcover			Springer India	354	English				ZZZ000000
+9788181287434	DNA - Based Markers in Plants, 2e	Phillips	Paperback			Springer India	532	English				ZZZ000000
+9788181285683	Economic Botany: Principles and Practices	Wickens	Paperback			Springer India	556	English				ZZZ000000
+9788181287472	Environmental Biotechnology: Principles and Applications	Moo-Young	Paperback			Springer India	780	English				ZZZ000000
+9788181288288	Environmental Microbiology: Methods and Protocols	Spencer	Hardcover			Springer India	448	English				ZZZ000000
+9788181283450	Essential Fungal Genetics	Moore	Paperback			Springer India	372	English				ZZZ000000
+9788184890778	Essentials of Functional Foods	Schmidl	Paperback			Springer India	412	English				ZZZ000000
+9788181288905	Fermentation and Food Safety	Adams	Hardcover			Springer India	400	English				ZZZ000000
+9788184891775	Fish Ecology	Wotton	Paperback			Springer India	228	English				ZZZ000000
+9788184891782	Fish Nutrition in Aquaculture	De Silva	Paperback			Springer India	340	English				ZZZ000000
+9788184891751	Fish Processing Technology, 2e	Hall	Paperback			Springer India	308	English				ZZZ000000
+9788181283955	Food Analysis, 3e	Nielsen	Hardcover			Springer India	558	English				ZZZ000000
+9788181288257	Food Analysis: Theory and Practice	Pomeranz	Hardcover			Springer India	778	English				ZZZ000000
+9788181288189	Food Chemistry, 3e	Belitz	Paperback			Springer India	1071	English				ZZZ000000
+9788181287632	Food Microbiology Protocols	Spencer	Hardcover			Springer India	512	English				ZZZ000000
+9788181283528	Food Preservatives, 2e	Russell	Hardcover			Springer India	396	English				ZZZ000000
+9788181285737	Westcott's Plant Disease Handbook, 6e	Horst	Hardcover			Springer India	1032	English				ZZZ000000
+9788184896381	Meat and Meat Products: Technology, Chemistry and Microbiology	Varnam	Paperback			Springer India	444	English				ZZZ000000
+9788181288561	Fruit and Vegetable Diseases	Mukerji	Hardcover			Springer India	562	English				ZZZ000000
+9788181283566	Fruit Processing: Nutrition, Products, and Quality Management, 2e	Ashurst	Hardcover			Springer India	328	English				ZZZ000000
+9788181287618	Functional Genomics: Methods and Protocols	Brownstein	Hardcover			Springer India	272	English				ZZZ000000
+9788184891911	Fundamentals of Data Mining in Genomics and Proteomics	Dubitzky	Paperback			Springer India	304	English				ZZZ000000
+9788184891409	Genetics and Fish Breeding	Purdom	Paperback			Springer India	296	English				ZZZ000000
+9788184891768	Handbook of Farm, Dairy and Food Machinery	Kutz	Paperback			Springer India	761	English				ZZZ000000
+9788181284587	Handbook of Food Processing Equipment	Saravacos	Hardcover			Springer India	710	English				ZZZ000000
+9788181289193	Handbook of Ingredients for Aquaculture Feeds	Hertrampf	Paperback			Springer India	624	English				ZZZ000000
+9788181283474	Handbook of Plant Ecophysiology Techniques	Roger	Hardcover			Springer India	468	English				ZZZ000000
+9788181281883	Insect Pest Management: Field and Protected Crops	Horowitz	Hardcover			Springer India	368	English				ZZZ000000
+9788184891904	Introduction to Agricultural Engineering Technology: A Problem Solving Approach, 3e	Field	Paperback			Springer India	400	English				ZZZ000000
+9788181283535	Introduction to Food Process Engineering	Smith	Hardcover			Springer India	484	English				ZZZ000000
+9788181282088	Limnological Analysis, 3e	Wetzel	Hardcover			Springer India	300	English				ZZZ000000
+9788181287663	Medicinal Plants of the World, Vol. 3	Ross	Hardcover			Springer India	648	English				ZZZ000000
+9788181283559	Minimally Processed Fruits and Vegetables	Tapia	Hardcover			Springer India	376	English				ZZZ000000
+9788181285287	Modern Food Microbiology, 7e	Jay	Paperback			Springer India	812	English				ZZZ000000
+9788184890990	Modern Methods of Plant Analysis (Alkaloids)	Linskens	Hardcover			Springer India	256	English				ZZZ000000
+9788184891195	Modern Methods of Plant Analysis (Analysis of Nonalcoholic Beverages)	Linskens	Hardcover			Springer India	432	English				ZZZ000000
+9788184891089	Modern Methods of Plant Analysis (Analysis of Plant Waste Materials)	Linskens	Hardcover			Springer India	230	English				ZZZ000000
+9788184891096	Modern Methods of Plant Analysis (Analysis of Taste and Aroma)	Linskens	Hardcover			Springer India	282	English				ZZZ000000
+9788184891041	Modern Methods of Plant Analysis (Beer Analysis)	Linskens	Hardcover			Springer India	328	English				ZZZ000000
+9788184891072	Modern Methods of Plant Analysis (Cell Components)	Linskens	Hardcover			Springer India	420	English				ZZZ000000
+9788184890983	Modern Methods of Plant Analysis (Essential Oils and Waxes)	Linskens	Hardcover			Springer India	356	English				ZZZ000000
+9788184891140	Modern Methods of Plant Analysis (Fruit Analysis)	Linskens	Hardcover			Springer India	176	English				ZZZ000000
+9788184891188	Modern Methods of Plant Analysis (Gas Chromatography/ Mass Spectrometry)	Linskens	Hardcover			Springer India	320	English				ZZZ000000
+9788184891164	Modern Methods of Plant Analysis (Gases in Plant and Microbial Cells)	Linskens	Hardcover			Springer India	374	English				ZZZ000000
+9788184891065	Modern Methods of Plant Analysis (Genetic Transformation of Plants)	Linskens	Hardcover			Springer India	221	English				ZZZ000000
+9788184891003	Modern Methods of Plant Analysis (High Performance Liquid Chromatography in Plant Sciences)	Linskens	Hardcover			Springer India	268	English				ZZZ000000
+9788184891034	Modern Methods of Plant Analysis (Immunolgy in Plant Sciences)	Linskens	Hardcover			Springer India	282	English				ZZZ000000
+9788184891119	Modern Methods of Plant Analysis (Nuclear Magnetic Resonance)	Linskens	Hardcover			Springer India	208	English				ZZZ000000
+9788184891126	Modern Methods of Plant Analysis (Physical Methods in Plant Sciences)	Linskens	Hardcover			Springer India	304	English				ZZZ000000
+9788184891027	Modern Methods of Plant Analysis (Plant Cell Wall Analysis)	Linskens	Hardcover			Springer India	224	English				ZZZ000000
+9788184891133	Modern Methods of Plant Analysis (Plant Fibers)	Linskens	Hardcover			Springer India	402	English				ZZZ000000
+9788184891102	Modern Methods of Plant Analysis (Plant Toxin Analysis)	Linskens	Hardcover			Springer India	415	English				ZZZ000000
+9788184891171	Modern Methods of Plant Analysis (Plant Volatile Analysis)	Linskens	Hardcover			Springer India	286	English				ZZZ000000
+9788184891201	Modern Methods of Plant Analysis (Seed Analysis)	Linskens	Hardcover			Springer India	406	English				ZZZ000000
+9788184891058	Modern Methods of Plant Analysis (Testing for Genetic Manipulation in Plants)	Linskens	Hardcover			Springer India	212	English				ZZZ000000
+9788184891010	Modern Methods of Plant Analysis (Vegetables and Vegetable Products)	Linskens	Hardcover			Springer India	204	English				ZZZ000000
+9788184891157	Modern Methods of Plant Analysis (Wine Analysis)	Linskens	Hardcover			Springer India	398	English				ZZZ000000
+9788184892063	Modern Methods of Plant Analysis [23 Volumes Set]	Linskens	Hardcover			Springer India		English				ZZZ000000
+9788184895353	Modern Phytochemical Methods: Recent Advances in Phytochemistry	Fischer 	Paperback			Springer India	418	English				ZZZ000000
+9788181287656	NanoBiotechnology Protocols	Rosenthal	Hardcover			Springer India	228	English				ZZZ000000
+9788184890747	Nutrition and Feeding of Fish, 2e	Lovell	Paperback			Springer India	284	English				ZZZ000000
+9788184893779	Physiological Plant Ecology: Ecophysiology and Stress Physiology of Functional Groups With contributions by numerous experts, 4e	Larcher	Paperback			Springer India	533	English				ZZZ000000
+9788181283108	Phytochemical Methods: A Guide to Modern Techniques of Plant Analysis, 3e	Harborne	Paperback			Springer India	320	English				ZZZ000000
+9788181280886	Plant Biotechnology: New Products and Applications	Hammond	Paperback			Springer India	256	English				ZZZ000000
+9788181283719	Plant Cell and Tissue Culture	Vasil	Hardcover			Springer India	604	English				ZZZ000000
+9788181282095	Plant Cell Biotechnology	Endress	Paperback			Springer India	368	English				ZZZ000000
+9788181288509	Plant Cell Culture Protocols	Loyala	Hardcover			Springer India	416	English				ZZZ000000
+9788181281364	Plant Drug Analysis: A Thin Layer Chromatography Atlas, 2e	Wagner	Hardcover			Springer India	400	English				ZZZ000000
+9788181285935	Plant Genetic Engineering	Grierson	Paperback			Springer India		English				ZZZ000000
+9788184890457	Plant Pathogenesis and Resistance: Biochemistry and Physiology of Plant-Microbe Interactions	Jeng-Sheng Huang	Paperback			Springer India	708	English				ZZZ000000
+9788181284013	Plant Physiology	Mohr	Hardcover			Springer India	640	English				ZZZ000000
+9788181285829	Plant Tissue Culture Manual up to and including Supplement 7: Fundamentals and Applications	Lindsey	Paperback			Springer India	1238	English				ZZZ000000
+9788181289223	Plant-Associated Bacteria	Gnanamanickam	Hardcover			Springer India	724	English				ZZZ000000
+9788184891867	Pond Aquaculture Water Quality Management	Boyd	Paperback			Springer India	720	English				ZZZ000000
+9788181285454	Principles of Food Chemistry	Deman	Paperback			Springer India		English				ZZZ000000
+9788181286086	Principles of Immunopharmacology, 2e	Nijkamp	Paperback			Springer India	662	English				ZZZ000000
+9788181284051	Principles of Plant Nutrition, 5e	Mengel	Paperback			Springer India	864	English				ZZZ000000
+9788181280817	Principles of Protein Structure	Schulz	Paperback			Springer India	326	English				ZZZ000000
+9788181283504	Principles of Seed Science and Technology, 4e	Copeland	Hardcover			Springer India	484	English				ZZZ000000
+9788181281128	Probability Models for DNA Sequence Evoluation	Durett	Paperback			Springer India	248	English				ZZZ000000
+9788181281999	Prokaryotic Genomics	Blot	Paperback			Springer India	220	English				ZZZ000000
+9788184892116	Protein Structure Analysis: Preparation, Characterization and Microsequencing	Kamp	Paperback			Springer India	316	English				ZZZ000000
+9788181287625	Recombinant Gene Expression: Reviews and Protocols	Balbas	Hardcover			Springer India	494	English				ZZZ000000
+9788181287694	Soil Ecology	Lavelle	Paperback			Springer India	688	English				ZZZ000000
+9788181283511	Statistical Quality Control for the Food Industry, 3e	Hubbard	Hardcover			Springer India	360	English				ZZZ000000
+9788181285447	The New Avenues in Bioinformatics	Seckbach	Paperback			Springer India	281	English				ZZZ000000
+9788181287670	The Protein Protocols Handbook, 2e	Walker	Hardcover			Springer India	1176	English				ZZZ000000
+9788184894271	Topics in Biostatistics	Ambrosius	Paperback			Springer India	540	English				ZZZ000000
+9788181285645	Understanding Bacteria	Shrivastava	Paperback			Springer India	492	English				ZZZ000000
+9788184892840	Vegetable I	Prohens	Paperback			Springer India	440	English				ZZZ000000
+9788184892857	Vegetable II	Prohens	Paperback			Springer India	384	English				ZZZ000000
+9788184896411	Technology of Dairy Products, 2nd ED	Early	Paperback			Springer India	446	English				ZZZ000000
+9788184893113	Biostatistical Methods	Looney	Paperback			Springer India	224	English				ZZZ000000
+9788184890624	Introduction to Computational Biology: An Evolutional Approach	Haubold	Paperback			Springer India	342	English				ZZZ000000
+9788184891508	Modern Methods of Drug Discovery	Hillisch	Paperback			Springer India	301	English				ZZZ000000
+9788184890754	Proteomics in Functional Genomics: Protein Structure Analysis	Jolles	Paperback			Springer India	249	English				ZZZ000000
+9788184892345	Pharmacogenomics: Methods and Protocols	Innocenti	Paperback			Springer India	224	English				ZZZ000000
+9788184892482	Tissue Engineering, 2e	Hauser	Hardcover			Springer India	348	English				ZZZ000000
+9788181286598	Business Process Automation :ARIS in Practice	Scheer & Abolhassan & Jost & Kirchmer	Paperback			Springer India	181	English				ZZZ000000
+9788184893847	Database Marketing: Analyzing and Managing Customers 	Blattberg	Paperback			Springer India	896	English				ZZZ000000
+9788181283290	Econometrics, 3e	Baltagi	Paperback			Springer India	420	English				ZZZ000000
+9788181280374	Handbook on Knowledge Management, Vol 2: Knowledge Directions	Holsapple	Paperback			Springer India	774	English				ZZZ000000
+9788181280374	Handbook on Knowledge Management, Vol. 1: Knowledge Matters	Holsapple	Paperback			Springer India	734	English				ZZZ000000
+9788181281012	Introduction to Business Information Systems	Wigand	Paperback			Springer India	252	English				ZZZ000000
+9788184891881	Knowledge Management: Concepts and Best Practices, 2e	Mertins	Paperback			Springer India	413	English				ZZZ000000
+9788181281586	Moving into Mass Customization: Information Systems and Management Principles 	Rautenstrauch	Hardcover			Springer India	260	English				ZZZ000000
+9788184893892	Risk Management: Challenge and Opportunity, 2nd ED	Frenkel	Paperback			Springer India	865	English				ZZZ000000
+9788181282033	Supply Chain Management and Reverse Logistics	Dyckhoff	Paperback			Springer India	448	English				ZZZ000000
+9788181280305	Supply Chain Management Based on SAP Systems	Knolmayer	Paperback			Springer India	256	English				ZZZ000000
+9788184893953	The Business Plan: How to Win Your Investors' Confidence	Schwetje	Paperback			Springer India	193	English				ZZZ000000
+9788184893267	Knowledge Management: Organizational and Technological Dimensions	Davis	Paperback			Springer India	214	English				ZZZ000000
+9788181289278	Retail Information Systems Based on SAP Products	Becker	Paperback			Springer India	246	English				ZZZ000000
+9788184895308	Advanced Asymmetric Synthesis: State-of-the-art and future trends in feature technology	Stephenson	Paperback			Springer India	442	English				ZZZ000000
+9788181283825	An Introduction to Laser Spectroscopy, 2e	Andrews	Paperback			Springer India	388	English				ZZZ000000
+9788181288745	Antibody Engineering: Methods and Protocols	Benny	Hardcover			Springer India	576	English				ZZZ000000
+9788181283429	Applied Chemistry: A Textbook for Engineers and Technologists	Gesser	Hardcover			Springer India	404	English				ZZZ000000
+9788181286833	Basic Principles of Membrane Technology, 2e	Mulder	Paperback			Springer India	584	English				ZZZ000000
+9788181289094	Bioinformatics and Drug Discovery	Larson	Hardcover			Springer India	456	English				ZZZ000000
+9788184892819	Bioorganic Chemistry	Schmidtchen	Paperback			Springer India	201	English				ZZZ000000
+9788181280442	Bioorganic Chemistry, 3e	Dugas	Paperback			Springer India	496	English				ZZZ000000
+9788184893410	Bioorganometallic Chemistry	Simonneaux	Paperback			Springer India	232	English				ZZZ000000
+9788184892932	Biopharmaceuticals, an Industrial Perspective	Walsh	Hardcover			Springer India	524	English				ZZZ000000
+9788181288998	Biotechnology in Animal Husbandry	Renaville	Hardcover			Springer India	368	English				ZZZ000000
+9788181288752	Biotechnology in India I	Ghose	Hardcover			Springer India	290	English				ZZZ000000
+9788181288776	Biotechnology in India II	Ghose	Hardcover			Springer India	304	English				ZZZ000000
+9788184890198	Biotransformations in Organic Chemistry, 4e	Faber	Paperback			Springer India	454	English				ZZZ000000
+9788184892895	Chemistry and Technology of the Cosmetics and Toiletries Industry	Williams	Hardcover			Springer India	416	English				ZZZ000000
+9788184893120	Colloid Chemistry I	Antonietti	Paperback			Springer India	268	English				ZZZ000000
+9788184893144	Colloid Chemistry II	Antonietti	Paperback			Springer India	240	English				ZZZ000000
+9788181284761	Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics	Lewars	Paperback			Springer India	484	English				ZZZ000000
+9788184894233	Electrochemistry, 2e	Rieger	Paperback			Springer India	544	English				ZZZ000000
+9788184895292	Enzyme Chemistry, 3rd ED	Suckling	Paperback			Springer India	308	English				ZZZ000000
+9788184890471	Enzyme Kinetics and Mechanism	Taylor	Paperback			Springer India	244	English				ZZZ000000
+9788184893298	Essentials of Carbohydrate Chemistry	Robyt	Paperback			Springer India	414	English				ZZZ000000
+9788181283498	Essentials of Food Science, 2e	Vaclavik	Hardcover			Springer India	500	English				ZZZ000000
+9788181282200	Heterocyclic Chemistry 1: Principles, Three- and Four-Membered Heterocycles	Gupta	Paperback			Springer India	422	English				ZZZ000000
+9788181282217	Heterocyclic Chemistry 2: Five-Membered Heterocycles	Gupta	Paperback			Springer India	649	English				ZZZ000000
+9788181288233	Immobilization of Enzymes and Cells	Guis n	Hardcover			Springer India	464	English				ZZZ000000
+9788181287342	Introduction to Supramolecular Chemistry	Dodziuk, H	Paperback			Springer India	368	English				ZZZ000000
+9788181287328	Introduction to Thermal Analysis: Techniques and Applications, 2e	Brown	Paperback			Springer India	280	English				ZZZ000000
+9788181286857	Mass Spectrometry: A Textbook	Gross, J rgen H	Paperback			Springer India	518	English				ZZZ000000
+9788181283412	Micelles: Theoretical and Applied Aspects	Moroi	Paperback			Springer India	280	English				ZZZ000000
+9788181284754	Modern Electrochemistry, 2e Vol. 1: Ionics	Bockris	Paperback			Springer India	828	English				ZZZ000000
+9788181284730	Modern Electrochemistry, 2e Vol. 2A: Fundamentals of Electrodics	Bockris	Paperback			Springer India	788	English				ZZZ000000
+9788181284747	Modern Electrochemistry, 2e Vol. 2B: Electronics in Chemistry, Engineering, Bioogy, and Environmental Science	Bockris	Paperback			Springer India	542	English				ZZZ000000
+9788184892833	Modern Mass Spectrometry	Schalley	Hardcover			Springer India	329	English				ZZZ000000
+9788181288608	Modern Physical Chemistry: A Molecular Approach	Duffey	Paperback			Springer India	566	English				ZZZ000000
+9788181286758	Name Reactions: A Collection of Detailed Reaction Mechanisms, 2e	Li	Paperback			Springer India	465	English				ZZZ000000
+9788181288738	Nuclear Magnetic Resonance: Basic Principles	Atta-Ur-Rahman	Paperback			Springer India		English				ZZZ000000
+9788181282224	Organic Reaction Mechanisms: 40 Solved Cases	G mez Gallego	Paperback			Springer India	290	English				ZZZ000000
+9788181283481	Pests of Stored Food Stuffs and Their Control	Hill	Hardcover			Springer India	492	English				ZZZ000000
+9788181285638	Polymer Synthesis - Theory and Practice: Fundamentals, Methods, Experiments, 4e	Braun	Paperback			Springer India	385	English				ZZZ000000
+9788181283405	Principles of Analytical Chemistry: A Textbook	Valcarcel	Paperback			Springer India	388	English				ZZZ000000
+9788184894158	Principles of Organometallic Chemistry, 2e	Powell	Hardcover			Springer India	436	English				ZZZ000000
+9788184894622	Principles of Polymer Chemistry, 2nd ED	Ravve	Paperback			Springer India	640	English				ZZZ000000
+9788181282040	Protein Purification: Principles and Practice, 3e	Scopes	Hardcover			Springer India	400	English				ZZZ000000
+9788181281395	Quality Assurance in Analytical Chemistry: Training and Teaching (With CD)	Wenclawiak	Paperback			Springer India	296	English				ZZZ000000
+9788181289254	Quantum Chemistry: Fundamentals to Applications	Veszpr mi	Paperback			Springer India	392	English				ZZZ000000
+9788181283146	Rate-Controlled Separations	Wankat	Paperback			Springer India	892	English				ZZZ000000
+9788184894820	Structure Based Drug Discovery	Jhoti	Paperback			Springer India	264	English				ZZZ000000
+9788181283832	Structure Determination of Organic Compounds: Tables of Spectral Data, 3e (With CD)	Pretsch	Paperback			Springer India	440	English				ZZZ000000
+9788181286369	Systematic Nomenclature of Organic Chemistry: A Directory to Comprehension and Application of its Basic Principles	Hellwinkel	Paperback			Springer India	228	English				ZZZ000000
+9788181281852	The Art of Writing Reasonable Organic Reaction Mechanisms, 2e	Grossman	Hardcover			Springer India	372	English				ZZZ000000
+9788181288639	The Chemistry of Natural Products, 2e	Thomson	Paperback			Springer India	468	English				ZZZ000000
+9788181288646	The ELISA Guidebook	Crowther	Paperback			Springer India	436	English				ZZZ000000
+9788184893755	Thermodynamics	Astarita	Paperback			Springer India	456	English				ZZZ000000
+9788181282859	Thin-Layer Chromatography: A Laboratory Handbook, 2e	Stahl	Hardcover			Springer India	1041	English				ZZZ000000
+9788184896473	Electrochemistry and Corrosion Science	Perez	Paperback			Springer India	376	English				ZZZ000000
+9788184896749	Biorelated Polymers	Chiellini	Paperback			Springer India	400	English				ZZZ000000
+9788184896251	Theory And Mathematical Methods In Bioinformatics	Shen	Paperback			Springer India	461	English				ZZZ000000
+9788184891959	A Classical Introduction to Cryptography	Vaudenay	Paperback			Springer India	353	English				ZZZ000000
+9788184893175	A Classical Introduction to Cryptography Exercise Book	Baigneres	Paperback			Springer India	268	English				ZZZ000000
+9788181284242	A Tester's Guide to .NET Programming	Sweeney	Paperback			Springer India	624	English				ZZZ000000
+9788181289100	Access Control Systems	Benantar	Paperback			Springer India	261	English				ZZZ000000
+9788181284419	ActionScript for Flash 8	Besley	Paperback			Springer India	648	English				ZZZ000000
+9788181282804	Advanced .NET Remoting, 2nd ED	Rammer	Paperback			Springer India	608	English				ZZZ000000
+9788181286178	Ajax and REST Recipes: A Problem-Solution Approach	Gross	Paperback			Springer India	360	English				ZZZ000000
+9788181286567	Algorithmic Learning in a Random World	Vovk, Gammerman & Shafer 	Paperback			Springer India	324	English				ZZZ000000
+9788181281388	Algorithms in Bioinformatics	Gary	Paperback			Springer India	538	English				ZZZ000000
+9788184890815	An Introduction to Data Structures and Algorithms	Storer	Paperback			Springer India	616	English				ZZZ000000
+9788184892796	An Introduction to HTML and JavaScript - for Scientists and Engineers	Brooks	Paperback			Springer India	211	English				ZZZ000000
+9788184890150	An Introduction to Object Oriented Programming in C++, 2e	Seed	Paperback			Springer India	972	English				ZZZ000000
+9788181287595	An Introduction to Protein Informatics	Zimmermann	Paperback			Springer India	300	English				ZZZ000000
+9788184891645	Applications of Data Mining in Computer Security	Barbara	Paperback			Springer India	272	English				ZZZ000000
+9788181287489	Applied Mathematics for Database Professionals	Haan & Koppelaars	Paperback			Springer India	408	English				ZZZ000000
+9788181284426	Beginning Apache Struts: From Novice to Professional	Doray	Paperback			Springer India	532	English				ZZZ000000
+9788181282415	Beginning ASP.NET 1.1 Databases: From Novice to Professional	Maharry	Paperback			Springer India	632	English				ZZZ000000
+9788181282491	Beginning ASP.NET 1.1 E-Commerce: From Novice to Professional	Darie	Paperback			Springer India	700	English				ZZZ000000
+9788181285911	Beginning ASP.NET 2.0 E-Commerce in C# 2005: From Novice to Professional	Darie	Paperback			Springer India	700	English				ZZZ000000
+9788181288684	Beginning ASP.NET 3.5 in C# 2008: From Novice to Professional, 2e	MacDonald 	Paperback			Springer India	992	English				ZZZ000000
+9788181284679	Beginning ASP.NET in C# 2005: Novice to Professional	MacDonald	Paperback			Springer India	1184	English				ZZZ000000
+9788181286284	Beginning C# 2005 Databases: From Novice to Professional	Huddleston	Paperback			Springer India	528	English				ZZZ000000
+9788181288707	Beginning C# 2008: From Novice to Professional	Gross	Paperback			Springer India	510	English				ZZZ000000
+9788181286048	Beginning Google Maps Applications with PHP and Ajax: From Novice to Professional	Purvis	Paperback			Springer India	384	English				ZZZ000000
+9788181285348	Beginning Hibernate: From Novice to Professional	Minter	Paperback			Springer India	360	English				ZZZ000000
+9788181282927	Beginning J2ME Platform: From Novice to Professional	Knudsen	Paperback			Springer India	480	English				ZZZ000000
+9788181283320	Beginning Java Objects: From Concepts to Code, 2e	Barker	Paperback			Springer India	960	English				ZZZ000000
+9788181284969	Beginning JavaScript with DOM Scripting and Ajax: From Novice to Professional	Heilmann	Paperback			Springer India	510	English				ZZZ000000
+9788181288769	Beginning Java  SE 6 Platform: From Novice to Professional	Friesen	Paperback			Springer India	512	English				ZZZ000000
+9788181282521	Beginning JSP2: From Novice to Professional	Haan	Paperback			Springer India	463	English				ZZZ000000
+9788181286734	Beginning PHP and MySQL 5: From Novice to Professional, 2e	Gilmore	Paperback			Springer India	952	English				ZZZ000000
+9788181286000	Beginning PHP and PostgreSQL 8: From Novice to Professional	Gilmore	Paperback			Springer India	895	English				ZZZ000000
+9788181288851	Beginning PL/SQL: From Novice to Professional	Bales	Paperback			Springer India	496	English				ZZZ000000
+9788181286062	Beginning Ruby on Rails E-Commerce: From Novice to Professional	Hellsten	Paperback			Springer India	448	English				ZZZ000000
+9788184890181	Beginning SQL Server 2008 Express for Developers: From Novice to Professional	Dewson	Paperback			Springer India	496	English				ZZZ000000
+9788181286055	Beginning Ubuntu Linux: From Novice to Professional	Thomas	Paperback			Springer India		English				ZZZ000000
+9788181289575	Beginning VB 2008: From Novice to Professional	Gross	Paperback			Springer India	470	English				ZZZ000000
+9788181284075	Beginning Web Development with Perl: From Novice to Professional	Suehring 	Paperback			Springer India	375	English				ZZZ000000
+9788181289858	Beginning Web Development, Silverlight, and ASP.NET AJAX: From Novice to Professional	Moroney	Paperback			Springer India	448	English				ZZZ000000
+9788184890174	Beginning XML with C# 2008: From Novice to Professional	Joshi	Paperback			Springer India	552	English				ZZZ000000
+9788181287700	Beginning XML with DOM and Ajax: From Novice to Professional	Jacobs	Paperback			Springer India	456	English				ZZZ000000
+9788181287717	Beginning XSLT 2.0: From Novice to Professional	Tennison	Paperback			Springer India	824	English				ZZZ000000
+9788184894776	Bioinformatics	Polanski	Paperback			Springer India	394	English				ZZZ000000
+9788181285317	Bioinformatics Technologies	Chen	Paperback			Springer India	396	English				ZZZ000000
+9788184890211	Biomedical Informatics: Computer Application in Health Care and Biomedicine	Shortliffe	Paperback			Springer India	1037	English				ZZZ000000
+9788181285386	BizTalk 2006 Recipes: A Problem-Solution Approach	Beckner	Paperback			Springer India	560	English				ZZZ000000
+9788181280961	Building ASP.NET Server Controls	Michalk	Paperback			Springer India	836	English				ZZZ000000
+9788181280640	Building Client/Server Applications with VB .NET: An Example-Driven Approach	Levinson	Paperback			Springer India	624	English				ZZZ000000
+9788181287939	Building Spring 2 Enterprise Applications	Smeets & Ladd	Paperback			Springer India	352	English				ZZZ000000
+9788181281005	Common SAP R/3 Functions Manual (With CD)	Lawlor	Paperback			Springer India	424	English				ZZZ000000
+9788184891270	Computation Engineering	Gopalakrishnan	Paperback			Springer India	512 	English				ZZZ000000
+9788181287977	Computational Genome Analysis: An Introduction	Deonier	Paperback			Springer India	535	English				ZZZ000000
+9788181285607	Computational Intelligence in Economics and Finance	Chen	Paperback			Springer India	480	English				ZZZ000000
+9788184893045	Computer Architecture: Complexity and Correctness	Mueller 	Paperback			Springer India	566	English				ZZZ000000
+9788184894936	Computer Graphics and Geometric Modelling - Implementation and Algorithm (with CD)	Agoston	Paperback			Springer India	927	English				ZZZ000000
+9788184895001	Computer Graphics and Geometric Modelling - Mathematics	Agoston	Paperback			Springer India	973	English				ZZZ000000
+9788184890068	Computer Insecurity	Furnell	Paperback			Springer India	240	English				ZZZ000000
+9788181285584	Computer Network Security	Kizza	Paperback			Springer India	560	English				ZZZ000000
+9788181285720	Cost-Based Oracle Fundamentals	Lewis	Paperback			Springer India	536	English				ZZZ000000
+9788181284457	Creating Client Extranets with SharePoint 2003	Gerow	Paperback			Springer India	244	English				ZZZ000000
+9788181280831	Cryptography in C and C++ , 2e (With CD)	Welschenbach	Paperback			Springer India	512	English				ZZZ000000
+9788184890563	Data Communication Principles for Fixed and Wireless Networks 	Ahmad	Paperback			Springer India	294	English				ZZZ000000
+9788181282798	Data Compression: The Complete Reference, 3e	Salomon	Paperback			Springer India	900	English				ZZZ000000
+9788184891393	Data Mining and Knowledge Discovery Handbook         	MAIMON 	Paperback			Springer India	1419	English				ZZZ000000
+9788184893588	Data Mining with Computational Intelligence	Wang	Paperback			Springer India	288	English				ZZZ000000
+9788184894998	Data Mining: A Knowledge Discovery Approach	Cios	Paperback			Springer India	621	English				ZZZ000000
+9788181282453	Developing Application Frameworks in .NET	Chen	Paperback			Springer India	392	English				ZZZ000000
+9788181286406	Developing Services for the Wireless Internet	Morisio	Paperback			Springer India	162	English				ZZZ000000
+9788181288240	Discrete Mathem,atics for Computer Science	Bogart	Paperback			Springer India	425	English				ZZZ000000
+9788181280879	Enterprise JavaBeans  2.1	Denninger	Paperback			Springer India	486	English				ZZZ000000
+9788184890235	Enterprise Service Oriented Architectures: Concepts, Challenges, Recommendations	McGovern	Paperback			Springer India	408	English				ZZZ000000
+9788181281029	Essential Director 8.5 Fast: Rapid Shockwave Movie Development 	Hussain	Paperback			Springer India	326	English				ZZZ000000
+9788181286994	Excel 2007: Beyond The Manual	Dixon	Paperback			Springer India	445	English				ZZZ000000
+9788181286321	Excel as Your Database	Cornell	Paperback			Springer India	245	English				ZZZ000000
+9788181285355	Expert .NET 2.0 IL Assembler	Lidin	Paperback			Springer India	535	English				ZZZ000000
+9788181284068	Expert ASP.NET 2.0 Advanced Application Design	Selly	Paperback			Springer India	480	English				ZZZ000000
+9788181285539	Expert C# 2005 Business Objects 2e	Lhotka	Paperback			Springer India	696	English				ZZZ000000
+9788181283733	Expert Oracle Database 10g Administration	Alapati	Paperback			Springer India	1304	English				ZZZ000000
+9788181280312	Expert Oracle9i Database Administration	Alapati	Paperback			Springer India	1244	English				ZZZ000000
+9788181284433	Expert Spring MVC and Web Flow	Ladd	Paperback			Springer India	424	English				ZZZ000000
+9788181286895	Field-Programmable Gate Arrays	Brown	Paperback			Springer India	228	English				ZZZ000000
+9788181285942	Foundation 3ds Max 8 Architectural Visualization	Smith	Paperback			Springer India	584	English				ZZZ000000
+9788181286215	Foundation Flash Applications for Mobile Devices	Leggett	Paperback			Springer India	536	English				ZZZ000000
+9788181284945	Foundations of Atlas: Rapid Ajax Development with ASP.NET 2.0	Moroney	Paperback			Springer India	336	English				ZZZ000000
+9788181286376	Foundations of BizTalk Server 2006	Woolston	Paperback			Springer India	260	English				ZZZ000000
+9788181284631	Foundations of Computer Security	Salomon	Paperback			Springer India	369	English				ZZZ000000
+9788181285416	Foundations of Jini 2 Programming	Newmarch	Paperback			Springer India	512	English				ZZZ000000
+9788181285898	Foundations of PEAR: Rapid PHP Development	Good	Paperback			Springer India	640	English				ZZZ000000
+9788181287946	Foundations of QT Development	Thelin	Paperback			Springer India	552	English				ZZZ000000
+9788181286208	Foundations of WF: An Introduction to Windows Workflow Foundation	Myers	Paperback			Springer India	264	English				ZZZ000000
+9788181286161	Foundations of WPF: An Introduction to Windows Presentation Foundation	Moroney	Paperback			Springer India	344	English				ZZZ000000
+9788181289407	Founders at Work: Stories of Startups' Early Days	Livingston	Hardcover			Springer India	472	English				ZZZ000000
+9788181286307	From After Effects to Flash: Poetry in Motion Graphics	Green	Paperback			Springer India	504	English				ZZZ000000
+9788181287571	Fuzzy logic (An Introduction to Fuzzy Logic and Fuzzy Sets)	Buckley	Paperback			Springer India	285	English				ZZZ000000
+9788184892826	Fuzzy Logic: A Spectrum of Theoretical & Practical Issues	Wang	Paperback			Springer India	475	English				ZZZ000000
+9788184894028	Fuzzy Probabilities: New Approach and Applications	Buckley	Paperback			Springer India	176	English				ZZZ000000
+9788184890280	Fuzzy-Neuro Approach to Agent Application: From the AI Perspective to Modern Ontology	Lee	Paperback			Springer India	376	English				ZZZ000000
+9788181284617	Grid Computing: Software Environments and Tools	Cunha	Paperback			Springer India	360	English				ZZZ000000
+9788181280190	Guide to Applying The UML	Alhir	Paperback			Springer India	416	English				ZZZ000000
+9788181284594	Guide to Assembly Language Programming in Linux (With DVD)	Dandamudi	Paperback			Springer India	552	English				ZZZ000000
+9788181286635	Guide to RISC Processors: for Programmers and Engineers	Dandamudi	Paperback			Springer India	380	English				ZZZ000000
+9788184891256	Guide to Wireless Network Security (With CD)	Vacca	Paperback			Springer India	872	English				ZZZ000000
+9788181286703	Holub on Patterns: Learning Design Patterns by Looking at Code	Holub, Allen	Paperback			Springer India	414	English				ZZZ000000
+9788181286253	HTML Mastery: Semantics, Standards, and Styling	Haine	Paperback			Springer India	248	English				ZZZ000000
+9788181286239	Illustrated C# 2005	Solis	Paperback			Springer India	592	English				ZZZ000000
+9788181284976	Information Storage and Retrieval Systems: Theory and Implementation 2e	Kowalski	Paperback			Springer India	336	English				ZZZ000000
+9788181285010	Introduction to Crytography: Principles and Applications, 2e	Delfs	Paperback			Springer India	310	English				ZZZ000000
+9788184890167	Java and Object Orientation: An Introduction, 2e	Hunt	Paperback			Springer India	484	English				ZZZ000000
+9788181287885	Joel on Software	Spolsky	Paperback			Springer India	362	English				ZZZ000000
+9788181283443	Mathematical Logic for Computer Science, 2e	Ben-Ari	Paperback			Springer India	320	English				ZZZ000000
+9788184894561	Mathematics for Computer Graphics, 2nd ED	Vince	Paperback			Springer India	261	English				ZZZ000000
+9788181282439	Microsoft SharePoint: Building Office 2003 Solutions	Hillier	Paperback			Springer India	512	English				ZZZ000000
+9788181286437	Microsoft SharePoint: Building Office 2007 Solutions in VB 2005	Hillier	Paperback			Springer India	550	English				ZZZ000000
+9788181285690	Mobile Communications: Re-negotiation of the Social Sphere	Ling	Paperback			Springer India	454	English				ZZZ000000
+9788184891317	Mobile Computing	Upadhyaya	Paperback			Springer India	232	English				ZZZ000000
+9788181286413	Model-Driven Design Using Business Patterns	Hruby	Paperback			Springer India	368	English				ZZZ000000
+9788184894133	Modelling Distributed Systems	Fokkink	Paperback			Springer India	164	English				ZZZ000000
+9788184890266	More Joel on Software	Spolsky	Paperback			Springer India	320	English				ZZZ000000
+9788181280329	Moving to VB .NET: Strategies, Concepts and Codes, 2e	Appleman	Paperback			Springer India	838	English				ZZZ000000
+9788184890662	Multimedia Signals and Systems (With CD)	Mandal	Paperback			Springer India	392	English				ZZZ000000
+9788181288165	Object-Oriented ActionScript 3.0	Elst	Paperback			Springer India	640	English				ZZZ000000
+9788181280183	Oracle 9i PL/SQL: A Developers Guide	Lakshman	Paperback			Springer India	582	English				ZZZ000000
+9788181282477	Oracle Application Server 10g: J2EE Deployment and Administration	Harrop	Paperback			Springer India	600	English				ZZZ000000
+9788181284365	Oracle Applications DBA Field Guide	Phelps	Paperback			Springer India	260	English				ZZZ000000
+9788181288516	Oracle Database 11g: New Features for DBAs and Developers	Alapati	Paperback			Springer India	632	English				ZZZ000000
+9788181287151	OSS for Telecom Networks: An Introduction to Network Management	Misra	Paperback			Springer India	302	English				ZZZ000000
+9788181289865	PHP Objects, Patterns and Practice, 2e	Zandstra	Paperback			Springer India	512	English				ZZZ000000
+9788181285706	Practical Ajax Projects with Java Technology	Zammetti	Paperback			Springer India	528	English				ZZZ000000
+9788181287694	Practical Rails Projects	Alameda	Paperback			Springer India	650	English				ZZZ000000
+9788181289872	Practical Ruby Projects: Ideas for the Eclectic Programmer	Cyll	Paperback			Springer India	328	English				ZZZ000000
+9788181280893	Practical Software Testing: A Process-Oriented Approach	Burnstein	Paperback			Springer India	236	English				ZZZ000000
+9788181287786	Practical Web 2.0 Application with PHP 	Zervaas	Paperback			Springer India	592	English				ZZZ000000
+9788184891669	Principles of Data Mining                                    	BRAMER 	Paperback			Springer India	354	English				ZZZ000000
+9788181284952	Pro .NET 2.0 Extreme Programming	Pearman	Paperback			Springer India	340	English				ZZZ000000
+9788181284167	Pro .NET 2.0 Windows Forms and Custom Controls in C#	MacDonald	Paperback			Springer India	1080	English				ZZZ000000
+9788181282842	Pro .NET Oracle Programming	Williams	Paperback			Springer India	441	English				ZZZ000000
+9788181283757	Pro ADO.NET 2.0	Malik	Paperback			Springer India	584	English				ZZZ000000
+9788181282514	Pro ADO.NET with VB.NET 1.1	Malik	Paperback			Springer India	584	English				ZZZ000000
+9788181284921	Pro Ajax and Java Frameworks	Schutta	Paperback			Springer India	335	English				ZZZ000000
+9788181284938	Pro Apache Geronimo	Kumar	Paperback			Springer India	272	English				ZZZ000000
+9788181285485	Pro Apache Struts with Ajax	Carnell	Paperback			Springer India	525	English				ZZZ000000
+9788181282460	Pro ASP.NET 1.1 in C#: From Professional to Expert	MacDonald	Paperback			Springer India	1000	English				ZZZ000000
+9788181288721	Pro ASP.NET 3.5 in C# 2008, 2e	MacDonald	Paperback			Springer India	1536	English				ZZZ000000
+9788181289889	Pro ASP.NET Server Controls with Ajax Components	Cameron	Paperback			Springer India	770	English				ZZZ000000
+9788181285621	Pro BizTalk 2006	Dunphy	Paperback			Springer India	528	English				ZZZ000000
+9788181280626	Pro C# 2005 and the .NET 2.0  Platform ,2e	Troelson	Paperback			Springer India	1192	English				ZZZ000000
+9788181283764	Pro C# 2005 and the .NET 2.0 Platform, 3e	Troelson	Paperback			Springer India	1028	English				ZZZ000000
+9788181289551	Pro C# 2008 and the .NET 3.5 Platform, 4e	Troelson	Paperback			Springer India	1400	English				ZZZ000000
+9788181285614	Pro Crystal Enterprise/BusinessObjects XI Programming	Ganz                    	Paperback			Springer India	485	English				ZZZ000000
+9788181285997	Pro CSS Techniques	Croft	Paperback			Springer India	408	English				ZZZ000000
+9788181283597	Pro Hibernate 3	Linwood	Paperback			Springer India	264	English				ZZZ000000
+9788181281609	Pro J2EE 1.4: From Professional to Expert	Kunnumpurath	Paperback			Springer India	908	English				ZZZ000000
+9788181287830	Pro Javascript Design Patterns 	Harmes, Diaz 	Paperback			Springer India	296	English				ZZZ000000
+9788181287991	Pro JSF and Ajax: Building Rich Internet Components	Fallows	Paperback			Springer India	464	English				ZZZ000000
+9788181285768	Pro JSP 2, 4e	Brown	Paperback			Springer India	725	English				ZZZ000000
+9788184891362	Pro LINQ Object Relational Mapping with C# 2008	Mehta	Paperback			Springer India	408	English				ZZZ000000
+9788181288929	Pro LINQ: Language Integrated Query in C# 2008	Rattz	Paperback			Springer India	624	English				ZZZ000000
+9788181282484	Pro One-on one Visual Basic	Lhotka	Paperback			Springer India	720	English				ZZZ000000
+9788181287892	Pro Oracle Database 10g RAC on Linux: Installation, Administration, and Performance	Dyke	Paperback			Springer India	203	English				ZZZ000000
+9788181283313	Pro Oracle JDBC Programming	Menon	Paperback			Springer India	744	English				ZZZ000000
+9788181282446	Pro Peoplesoft Database Administration	Kurtz	Paperback			Springer India	456	English				ZZZ000000
+9788181286680	Pro PHP Security	Snyder, Chris, Southwell, Michael	Paperback			Springer India	528	English				ZZZ000000
+9788181287496	Pro SharePoint Solution Development: Combining .NET, SharePoint and Office 2007	Hild	Paperback			Springer India	400	English				ZZZ000000
+9788181286260	Pro SMS 2003	Kruetzfeld	Paperback			Springer India	248	English				ZZZ000000
+9788181286796	Pro Spring	Harrop	Paperback			Springer India	830	English				ZZZ000000
+9788184890426	Pro T-SQL 2008 Programmer's Guide	Coles	Paperback			Springer India	688	English				ZZZ000000
+9788181282422	Pro Visual Studio .NET	Bischof	Paperback			Springer India	571	English				ZZZ000000
+9788181285362	Pro Visual Studio 2005 Team System Application Development	Shrimpton	Paperback			Springer India	792	English				ZZZ000000
+9788181286246	Pro WCF: Practical Microsoft SOA Implementation	Peiris	Paperback			Springer India	512	English				ZZZ000000
+9788181286505	Pro WF: Windows Workflow in .NET 3.0	Bukovics	Paperback			Springer India	740	English				ZZZ000000
+9788184890020	Pro WF: Windows Workflow in .NET 3.5	Bukovics 	Paperback			Springer India	856	English				ZZZ000000
+9788181289568	Pro WPF in C# 2008 : Windows Presentation Foundation with .NET 3.5, 2e	MacDonald	Paperback			Springer India	1072	English				ZZZ000000
+9788181287267	Pro WPF: Windows	Mcdonald	Paperback			Springer India	1000	English				ZZZ000000
+9788181286697	Pro XML Development with Java Technology	Vohra	Paperback			Springer India	472	English				ZZZ000000
+9788181287571	Professional Java Server Programming J2EE 1.3 edition	Allamaraju	Paperback			Springer India	675	English				ZZZ000000
+9788181289209	Professional Java Web Services	Hendricks	Paperback			Springer India	600	English				ZZZ000000
+9788181282507	Programming in Prolog: Using the ISO Standard, 5e	Clocksin	Paperback			Springer India	293	English				ZZZ000000
+9788181286727	Rails Solutions: Ruby on Rails Made Easy	Williams	Paperback			Springer India	288	English				ZZZ000000
+9788181289513	Real Time System: Design Principle for Distributed Embedded Applications	Kopetz	Paperback			Springer India	356	English				ZZZ000000
+9788184895551	Robust Intelligent Systems	Schuster	Paperback			Springer India	311	English				ZZZ000000
+9788181284846	SCJP Exam for J2SE 5: A Concise and Comprehensive Study Guide for The Sun Certified Java Programmer Exam	Sanghera	Paperback			Springer India	420	English				ZZZ000000
+9788181287236	Sharepoint 2007 User Guide	Bates	Paperback			Springer India	425	English				ZZZ000000
+9788181286819	Shell Scripting Recipes	Johnson	Paperback			Springer India	445	English				ZZZ000000
+9788181286192	SMS 2003 Recipes: A Problem-Solution Approach	Ramsey	Paperback			Springer India	640	English				ZZZ000000
+9788181287847	Software Engineering Vol. 1: Abstraction and Modelling	Bj rner	Hardcover			Springer India	714	English				ZZZ000000
+9788181287854	Software Engineering Vol. 2: Specification of Systems and Languages	Bj rner	Hardcover			Springer India	777	English				ZZZ000000
+9788181287861	Software Engineering Vol. 3: Domains, Requirements, and Software Design	Bj rner	Hardcover			Springer India	776	English				ZZZ000000
+9788181283658	Software Project Secrets: Why Software Projects Fail	Stepanek	Paperback			Springer India	184	English				ZZZ000000
+9788184890013	Spring Recipes: A Problem-Solution Approach	Mak	Paperback			Springer India	752	English				ZZZ000000
+9788181285027	Statistical Methods in Bioinformatics: An Introduction, 2e	Ewens	Hardcover			Springer India	588	English				ZZZ000000
+9788181280251	Supply Chain Management with APO	Dickersbach	Paperback			Springer India	342	English				ZZZ000000
+9788181287373	The Algorithm Design Manual (With CD)	Skiena	Paperback			Springer India	486	English				ZZZ000000
+9788181287816	The Definitive Guide to Django	Holovaty	Paperback			Springer India	480	English				ZZZ000000
+9788181283580	The Definitive Guide to Java Swing 3e	Zukowski	Paperback			Springer India	928	English				ZZZ000000
+9788181285980	The Definitive Guide to Linux Network Programming	Davis	Paperback			Springer India	375	English				ZZZ000000
+9788184891379	The Definitive Guide to SOA: Oracle Service Bus, 2e	Davies	Paperback			Springer India	536	English				ZZZ000000
+9788181286277	The Definitive Guide to SUSE Linux Enterprise Server	Vugt	Paperback			Springer India	720	English				ZZZ000000
+9788181286314	The Definitive Guide to Symfony	Zaninotto	Paperback			Springer India	520	English				ZZZ000000
+9788181287823	The Essential Guide to CSS and HTML Web Design	Grannell	Paperback			Springer India	552	English				ZZZ000000
+9788181288158	The Essential Guide to Dreamweaver CS3 with CCS, Ajax, and PHP	Powers	Paperback			Springer India	784	English				ZZZ000000
+9788181284112	Theoretical and Experimental DNA Computation	Amos	Paperback			Springer India	188	English				ZZZ000000
+9788181286963	Theory of Computation	Kozen	Paperback			Springer India	426	English				ZZZ000000
+9788184895520	Time-Dependent Scheduling	Gawiejnowicz	Paperback			Springer India	396	English				ZZZ000000
+9788181280824	Visual Basic .NET and the .NET Platform: An Advanced Guide	Troelson	Paperback			Springer India	1062	English				ZZZ000000
+9788184891355	Visual Basic 2008 Recipes: A Problem-Solution Approach	Herman	Paperback			Springer India	704	English				ZZZ000000
+9788181284211	Visual C# 2005 Recipes: A Problem-Solution Approach	Jones	Paperback			Springer India	588	English				ZZZ000000
+9788181285041	Web Engineering: Theory and Practice of Metrics and Measurement for Web Development	Mendes	Hardcover			Springer India	440	English				ZZZ000000
+9788181286468	Windows Server 2003 Networking Recipes	Hunter	Paperback			Springer India	440	English				ZZZ000000
+9788181283931	Wireless Communication Systems and Networks	Guizani	Paperback			Springer India	740	English				ZZZ000000
+9788181289155	Wireless Web Development, 2e	Rischapter	Paperback			Springer India	382	English				ZZZ000000
+9788181286710	Workflow in the 2007 Microsoft Office System	Mann, David	Paperback			Springer India	456	English				ZZZ000000
+9788181283801	XML for Bioinformatics	Cerami	Paperback			Springer India	320	English				ZZZ000000
+9788184896244	Information Sharing on the Semantic Web	Stuckenschmidt	Paperback			Springer India	295	English				ZZZ000000
+9788184896176	Web Data Mining	Liu	Paperback			Springer India	552	English				ZZZ000000
+9788184896442	Advanced Fuzzy Systems Design and Applications	Jin	Paperback			Springer India	281	English				ZZZ000000
+9788184896343	An Information Security Handbook	Hunter	Paperback			Springer India	240	English				ZZZ000000
+9788184896374	An Introduction to Fuzzy Logic Applications	Harris	Paperback			Springer India	236	English				ZZZ000000
+9788184896367	Text Mining: Predictive Methods for Analyzing Unstructured Information	Weiss	Paperback			Springer India	248	English				ZZZ000000
+9788184896435	Social Networks and the Semantic Web	Mika	Paperback			Springer India	248	English				ZZZ000000
+9788184896350	Software Quality: State of the Art in Management, Testing, and Tools With contributions by numerous experts	Wieczorek	Paperback			Springer India		English				ZZZ000000
+9788184896640	Web Engineering: Modelling and Implementing Web Applications	Rossi	Paperback			Springer India	476	English				ZZZ000000
+9788184896886	Beginning Hibernate, 2e	Linwood	Paperback			Springer India	400	English				ZZZ000000
+9788184896862	Beginning WF: Windows Workflow in .NET 4.0	Collins	Paperback			Springer India	448	English				ZZZ000000
+9788184897203	Pro C# 2010 and the .NET 4.0 Platform, 5e	Troelsen	Paperback			Springer India	1752	English				ZZZ000000
+9788184896879	Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4	MacDonald	Paperback			Springer India	1216	English				ZZZ000000
+9788184892123	Computational Geometry: An Introduction	Preparata	Paperback			Springer India	412	English				ZZZ000000
+9788184892307	Environmental Chemistry: Green Chemistry and Pollutants in Ecosystems	Lichtfouse	Paperback			Springer India	806	English				ZZZ000000
+9788184894837	Induced Earthquakes	Guha	Paperback			Springer India	324	English				ZZZ000000
+9788181282187	Quantitative Geophysics and Geology	Louis	Paperback			Springer India	496	English				ZZZ000000
+9788184894783	Tsunamis: Case Studies and Recent Developments	Satake	Paperback			Springer India	351	English				ZZZ000000
+9788184890037	Economist's Mathematical Manual, 4e	Syds ter	Paperback			Springer India	225	English				ZZZ000000
+9788181284181	Elements of International Economics	Gandolfo	Paperback			Springer India	360	English				ZZZ000000
+9788181284174	International Finance and Open-Economy Macroeconomics	Gandolfo	Paperback			Springer India	640	English				ZZZ000000
+9788181284198	International Trade Theory and Policy	Gandolfo	Paperback			Springer India	568	English				ZZZ000000
+9788184894721	Introduction to Modern Time Series Analysis	Kirchgassner	Paperback			Springer India	284	English				ZZZ000000
+9788184890310	Optimization in Economics and Finance	Craven	Paperback			Springer India	163	English				ZZZ000000
+9788181283818	A Friendly Guide to Wavelets	Kaiser	Paperback			Springer India	320	English				ZZZ000000
+9788181285560	A Guide to VHDL, 2e	Mazor	Paperback			Springer India	336	English				ZZZ000000
+9788184893397	A Practical Guide for SystemVerilog Assertions with CD-ROM	Vijayaraghavan	Paperback			Springer India	360	English				ZZZ000000
+9788184893557	Adaptive Low - Power Circuits for Wireless Communications	Tasic	Paperback			Springer India	236	English				ZZZ000000
+9788184895513	Adaptive Techniques for Dynamic Processor Optimization	Wang	Paperback			Springer India	320	English				ZZZ000000
+9788184893403	Ad-Hoc Networking Towards Seamless Communications	Gavrilovska	Paperback			Springer India	311	English				ZZZ000000
+9788181288455	Advanced Mechanics of Solids	Bruhns	Paperback			Springer India	206	English				ZZZ000000
+9788181284129	Advanced Practical Process Control (With CD)	Roffel	Paperback			Springer India	320	English				ZZZ000000
+9788181288950	Advanced Theory of Signal Detection	Song	Paperback			Springer India	359	English				ZZZ000000
+9788184895544	Advances in Differential Evolution	Chakraborty	Paperback			Springer India	350	English				ZZZ000000
+9788184892741	An Introduction to Broadband Networks	Acampora	Paperback			Springer India	356	English				ZZZ000000
+9788181284341	Analog Design for CMOS VLSI Systems	Maloberti	Paperback			Springer India	388	English				ZZZ000000
+9788184893571	Analysis and Control of Nonlinear Process Systems	Hangos	Paperback			Springer India	332	English				ZZZ000000
+9788184893007	Applied Fuzzy Arithmetic: An Introduction with Engineering Applications	Hanss	Paperback			Springer India	269	English				ZZZ000000
+9788184893243	Applied Structural Mechanics	Eschenauer	Paperback			Springer India	407	English				ZZZ000000
+9788181287229	Automotive Control System, 2e	Kiencke	Paperback			Springer India	512	English				ZZZ000000
+9788181281210	Boundary - Layer Theory, 8e	Schlichting	Paperback			Springer India	824	English				ZZZ000000
+9788184893748	Chaos in Electronics	van Wyk	Paperback			Springer India	496	English				ZZZ000000
+9788184894714	Circuit Design for Wireless Communications	Kong-Pang Pun	Paperback			Springer India	217	English				ZZZ000000
+9788181285850	CMOS Circuit Design for RF Sensors	Gudnason	Hardcover			Springer India	184	English				ZZZ000000
+9788181283115	CMOS Integrated Analog-to-Digital and Digital-to-Analog Converters, 2e	van de Plassche	Paperback			Springer India	636	English				ZZZ000000
+9788181288899	CMOS PLL Synthesizer: Analysis and Design	Shu	Paperback			Springer India	215	English				ZZZ000000
+9788181285799	CMOS VLSI Engineering: Silicon-on-Insulator (SOI)	Kuo	Paperback			Springer India	460	English				ZZZ000000
+9788181286772	Coding for Wireless Channels	Biglieri, Ezio	Paperback			Springer India	427	English				ZZZ000000
+9788184890389	Combustion: Physical and Chemical Fundamentals, Modeling and Simulation, Experiments, Pollutant Formation, 4e	Warnatz	Paperback			Springer India	390	English				ZZZ000000
+9788181288943	Communication Acoustics	Blauert	Paperback			Springer India	379	English				ZZZ000000
+9788181286536	Computational Intelligence: Principles, Techniques and Applications (With CD)	Konar	Paperback			Springer India	708	English				ZZZ000000
+9788184890495	Control Design Techniques in Power Electronics Devices	Sira-Ramirez	Paperback			Springer India	441	English				ZZZ000000
+9788181285003	Control of Electrical Drives, 3e	Leonhard	Paperback			Springer India	460	English				ZZZ000000
+9788181287335	Control Systems Design	Zakian	Paperback			Springer India	398	English				ZZZ000000
+9788181288332	Control Systems Theory with Engineering Applications (With CD)	Lyshevski	Paperback			Springer India	416	English				ZZZ000000
+9788184890891	Co-Synthesis of Hardware and Software for Digital Embedded System	Gupta	Paperback			Springer India	288	English				ZZZ000000
+9788181282118	Current-Mode VLSI Analog Filters: Design and Applications	Mohan	Paperback			Springer India	468	English				ZZZ000000
+9788181284624	Design and Performance of 3G Wireless Networks and Wireless LANs	Chuah	Paperback			Springer India	349	English				ZZZ000000
+9788181285843	Design of Low-Voltage CMOS Switched-Opamp Switched-Capacitor Systems	Cheung	Hardcover			Springer India	210	English				ZZZ000000
+9788181288011	Design of Wireless Autonomous Datalogger IC's,	Claes	Paperback			Springer India	199	English				ZZZ000000
+9788184892314	Digital Signal Processing for Measurement Systems: Theory and Applications	D'Antona	Paperback			Springer India	282	English				ZZZ000000
+9788184890488	Digital Transmission Systems, 3e	Smith	Paperback			Springer India	832	English				ZZZ000000
+9788181288790	Electrical Engineering: A Pocket Reference	Kories	Paperback			Springer India	650	English				ZZZ000000
+9788184890679	Electromagnetics: Theory, Techniques, and Engineering Paradigms	Franceschetti	Paperback			Springer India	588	English				ZZZ000000
+9783540780878	Electronic Properties of Materials, 3e	Hummel	Paperback			Springer India	438	English				ZZZ000000
+9788184893250	Engineering Acoustics: A Handbook	Maser	Paperback			Springer India	289	English				ZZZ000000
+9788184895537	Engineering Fluid Mechanics	Yamaguchi	Paperback			Springer India	587	English				ZZZ000000
+9788181288622	Fault Diagnosis of Analog Integrated Circuits	Kabisatpathy	Paperback			Springer India	182	English				ZZZ000000
+9788181286031	Field-Programmable Gate Array Technology	Trimberger	Paperback			Springer India	280	English				ZZZ000000
+9788181283887	Fluid Mechanics	Spurk	Paperback			Springer India	528	English				ZZZ000000
+9788181283870	Fluid Mechanics: Problems and Solutions	Spurk	Paperback			Springer India	620	English				ZZZ000000
+9788181288653	Functional Verification of Programmable Embedded Architectures	Mishra	Paperback			Springer India	180	English				ZZZ000000
+9788181283634	Fundamentals of Power Electronics, 2e	Erickson	Paperback			Springer India	908	English				ZZZ000000
+9788184890099	Fundamentals of Relational Database Management  Systems	Sumathi	Paperback			Springer India	776	English				ZZZ000000
+9788184890396	Fundamentals of Structural Mechanics, 2e	Hjelmstad	Paperback			Springer India	494	English				ZZZ000000
+9788181288042	Fundamentals of Switching Theory and Logic Design: A Hands on Approach	Astola	Paperback			Springer India	342	English				ZZZ000000
+9788181285119	Fuzzy Control of Queuing Systems	Zhang	Paperback			Springer India	196	English				ZZZ000000
+9788184890242	Fuzzy Control: Fundamentals, Stability and Design of Fuzzy Controllers	Michels	Paperback			Springer India	411	English				ZZZ000000
+9788181289506	Fuzzy Modelling and Fuzzy Control	Zhang	Paperback			Springer India	416	English				ZZZ000000
+9788181284600	Fuzzy Systems Engineering: Theory and Practice	Nedjah	Paperback			Springer India	227	English				ZZZ000000
+9788181285553	Global Mobile Satellite Communications: For Maritime, Land and Aeronautical Applications	Ilcev	Hardcover			Springer India	494	English				ZZZ000000
+9788181285874	Handbook of Networked and Embedded Control Systems	Hristu-Varsakelis	Hardcover			Springer India	822	English				ZZZ000000
+9788181285201	Handbook of Reliability Engineering	Pham	Paperback			Springer India	663	English				ZZZ000000
+9788181289384	Hardware / Software Co-Design for Data Flow Dominated Embedded Ssytems	Niemann	Paperback			Springer India	244	English				ZZZ000000
+9788181286840	Hardware/Software Co-Design: Principles and Practice	Staunstrup	Paperback			Springer India	416	English				ZZZ000000
+9788184890525	Heat and Mass Transfer, 2e	Baehr	Paperback			Springer India		English				ZZZ000000
+9788184890297	Integrated Circuit Test Engineering: Modern Techniques	Grout	Paperback			Springer India	362	English				ZZZ000000
+9788184890341	Introduction to Data Mining and its Application	Sumathi	Paperback			Springer India	828	English				ZZZ000000
+9788181288592	Introduction to Engineering Statistics and Six Sigma	Allen	Hardcover			Springer India	529	English				ZZZ000000
+9788184894974	Introduction to VHDL	Hunter	Paperback			Springer India	496	English				ZZZ000000
+9788181282828	Introductory Operations Research: Theory & Applications 3e	Kasana	Paperback			Springer India	584	English				ZZZ000000
+9788181288806	Laser Material Processing, 3e	Steen	Paperback			Springer India	408	English				ZZZ000000
+9788181285270	Lasers and Optical Engineering	Das	Paperback			Springer India	496	English				ZZZ000000
+9788181284839	Logic Synthesis and Verification Algorithms	Hachtel	Paperback			Springer India	564	English				ZZZ000000
+9788184895063	Low Power Design Methodologies	Rabaey	Hardcover			Springer India	388	English				ZZZ000000
+9788181289520	MATLAB  for Engineers Explained	Gustafsson	Paperback			Springer India	218	English				ZZZ000000
+9788181286024	Mechanical Design: Theory and Methodology	Waldron	Paperback			Springer India		English				ZZZ000000
+9788184893724	Mechanics and Strength of Materials	Silva	Paperback			Springer India	545	English				ZZZ000000
+9788181288493	Mechanics of Microelectromechanical Systems	Lobontiu	Paperback			Springer India	405	English				ZZZ000000
+9788181285102	Microwave Integrated Circuits	Kneppo	Paperback			Springer India	348	English				ZZZ000000
+9788184892734	Mobile Ad Hoc Networks: Energy-Efficient Real-Time Data Communications	Tavli 	Paperback			Springer India	289	English				ZZZ000000
+9788184893731	Modeling Telecom Networks and Systems Architecture	Muth	Paperback			Springer India	475	English				ZZZ000000
+9788181287144	Modelling and Control of Robot Manipulators, 2e	Sciavicco	Paperback			Springer India	378	English				ZZZ000000
+9788181287182	Modern Antennas, 2e	Drabowitch	Paperback			Springer India	689	English				ZZZ000000
+9788181287175	Modern Control Theory	Bubnicki	Paperback			Springer India	423	English				ZZZ000000
+9788181288912	Multi-Carrier Digital Communications: Theory and Applications of OFDM, 2e	Bahai	Paperback			Springer India	418	English				ZZZ000000
+9788181281890	Multimedia Communication Technology: Representation, Transmission and Identification of Multimedia Signals	Ohm	Paperback			Springer India	876	English				ZZZ000000
+9788184893595	Multi-Threshold CMOS Digital Circuits: Managing Leakage Power	Anis	Paperback			Springer India	244	English				ZZZ000000
+9788181283610	Nanoelectronics and Nanosystems: From Transistors to Molecular and Quantum Devices	Goser	Paperback			Springer India	296	English				ZZZ000000
+9788181288554	Nanoscale Transistors: Device Physics, Modeling and Simulation	Lundstrom	Paperback			Springer India	224	English				ZZZ000000
+9788181284822	Nanotechnology and Nanoelectronics: Materials, Devices, Measurement Techniques	Fahrner	Paperback			Springer India	269	English				ZZZ000000
+9788181289537	Neural Networks in a Softcomputing Framework	Du	Paperback			Springer India	566	English				ZZZ000000
+9788181286925	Optical Switching	El-Bawab	Paperback			Springer India	450	English				ZZZ000000
+9788181286550	Physics of Semiconductor Devices	Colinge & Colinge	Paperback			Springer India	456	English				ZZZ000000
+9788181288486	PID Control: New Identification and Design Methods	Johnson	Paperback			Springer India	560	English				ZZZ000000
+9788184892147	Power Quality Enhancement Using Custom Power Devices	Ghosh	Paperback			Springer India	480	English				ZZZ000000
+9788181282125	Power Transmission Through Direct Current	Uhlmann	Paperback			Springer India	389	English				ZZZ000000
+9788181284273	Principles of Computational Fluid Dynamics	Wesseling	Paperback			Springer India	656	English				ZZZ000000
+9788181286130	Principles of Mobile Communication, 2e	St ber	Paperback			Springer India	776	English				ZZZ000000
+9788184893137	Pulsed Power Systems: Principles and Applications (With CD)	Bluhm	Paperback			Springer India	341	English				ZZZ000000
+9788181287212	Radio Wave Propagation for Telecommunication Applications	Sizun	Paperback			Springer India	412	English				ZZZ000000
+9788181289759	Radiowave Propagation and Smart Antennas for Wireless Communication	Janaswamy	Paperback			Springer India	336	English				ZZZ000000
+9788181285577	Reliability Engineering	Aggarwal	Paperback			Springer India	396	English				ZZZ000000
+9788181284518	Reliability Engineering: Theory and Practice, 3e	Birolini	Paperback			Springer India	560	English				ZZZ000000
+9788181285522	Reliability Evaluation of Engineering Systems: Concepts and Techniques, 2e	Billinton	Paperback			Springer India	476	English				ZZZ000000
+9788181288660	Remote Sensing Digital Image Analysis: An Introduction, 2e	Richards	Paperback			Springer India	439	English				ZZZ000000
+9788181288585	RF System Design of Transceivers for Wireless Communications	Gu	Paperback			Springer India	479	English				ZZZ000000
+9788181285126	Robust Control Design with MATLAB  (With CD)	Gu	Paperback			Springer India	404	English				ZZZ000000
+9788181288967	Silicon-on-Insulator Technology: Materials to VLSI, 3e	Colinge	Hardcover			Springer India	384	English				ZZZ000000
+9788181288578	Statistical Analysis and Optimization for VLSI: Timing and Power	Srivastava	Paperback			Springer India	279	English				ZZZ000000
+9788181283795	Statistical Signal Processing: Modeling and Estimation (With CD)	Chonavel	Paperback			Springer India	352	English				ZZZ000000
+9788181287724	Structural Dynamics: Theory and Computation, 5e	Paz	Paperback			Springer India	840	English				ZZZ000000
+9788184894929	Structural Plasticity: Limit, Shakedown and Dynamic Plastic Analyses of Structures	Yu	Hardcover			Springer India	401	English				ZZZ000000
+9788181288431	SystemC: From the Ground UP	Black & Donovan	Paperback			Springer India	244	English				ZZZ000000
+9788184895315	SystemVerilog for Verification: A Guide to Learning the Testbench Language Features, 2e	Spear	Hardcover			Springer India	465	English				ZZZ000000
+9788181288844	The Seismic Design Handbook, 2e	Naeim	Hardcover			Springer India	848	English				ZZZ000000
+9788181288127	The Verilog PLI Handbook, 2e (With CD)	Sutherland	Paperback			Springer India	808	English				ZZZ000000
+9788181286116	The Verilog  Hardware Description Language, 5e	Thomas	Paperback			Springer India	408	English				ZZZ000000
+9788184894448	Theory of Vibration: An Introduction, 2nd ED	Shabana	Paperback			Springer India	381	English				ZZZ000000
+9788181289018	Third Generation Mobile Telecommunication Systems	Stavroukalis	Paperback			Springer India	676	English				ZZZ000000
+9788181285867	Timing Analysis and Optimization of Sequential Circuits	Maheshwari	Hardcover			Springer India	208	English				ZZZ000000
+9788181280701	Ultrasonic Testing of Materials, 4e	Krautkr mer	Hardcover			Springer India	696	English				ZZZ000000
+9788184894608	Verilog and SystemVerilog Gotchas: Verilog and SystemVerilog Gotchas 101 Common Coding Errors and How to Avoid Them	Sutherland	Paperback			Springer India	240	English				ZZZ000000
+9788181285836	Verilog: Frequently Asked Questions - Language, Applications and Extensions	Chonnad	Paperback			Springer India	238	English				ZZZ000000
+9788181288134	VHDL Answers to Frequently Asked Questions, 2e	Cohen	Paperback			Springer India	416	English				ZZZ000000
+9788181283153	VHDL Coding Styles and Methodologies, 2e	Cohen	Paperback			Springer India	476	English				ZZZ000000
+9788181285591	Vibrations and Stability: Advanced Theory, Analysis, and Tools, 2e	Thomsen	Paperback			Springer India	404	English				ZZZ000000
+9788181283160	VLSI Design Methodologies for Digital Signal Processing Architectures	Bayoumi	Paperback			Springer India	416	English				ZZZ000000
+9788181288073	VLSI-Design of Non-Volatile Memories	Campardo	Paperback			Springer India	581	English				ZZZ000000
+9788184890556	Wavelets and Signal Processing: An Application - Based Introduction	Stark	Paperback			Springer India	160	English				ZZZ000000
+9788181288813	Wind Turbine: Fundamentals, Technologies, Application, Economics, 2e	Hau	Hardcover			Springer India	783	English				ZZZ000000
+9788184892376	Wireless Network Security	Xiao	Paperback			Springer India	432	English				ZZZ000000
+9788181286642	Wireless Networks: Multiuser Detection in Cross-Layer Design	Comaniciu	Paperback			Springer India	202	English				ZZZ000000
+9788181285133	Wireless Optical Communication Systems	Hranilovic	Hardcover			Springer India	212	English				ZZZ000000
+9788184892697	Writing Testbenches using SystemVerilog	Bergeron	Paperback			Springer India	440	English				ZZZ000000
+9788181285669	Writing Testbenches: Functional Verification of HDL Models, 2e	Bergeron	Paperback			Springer India	512	English				ZZZ000000
+9788181282279	Computational Methods for Fluid Dynamics, 3e	Ferziger	Paperback			Springer India	423	English				ZZZ000000
+9788184891225	Digital Satellite Communications	Corazza	Paperback			Springer India	533	English				ZZZ000000
+9788181284334	Embedded System Design	Marwedel	Hardcover			Springer India	264	English				ZZZ000000
+9788184891348	Linear Systems	Antsaklis	Paperback			Springer India	688	English				ZZZ000000
+9788184891805	Microwave Engineering Handbook, Vol. 1: Microwave Components	Smith	Paperback			Springer India	528	English				ZZZ000000
+9788184891812	Microwave Engineering Handbook, Vol. 2: Microwave Circuits, Antennas and Propagation	Smith	Paperback			Springer India	452	English				ZZZ000000
+9788184891980	Microwave Engineering Handbook, Vol. 3: Microwave Systems and Applications	Smith	Paperback			Springer India	576	English				ZZZ000000
+9788184891300	Semiconductor Modelling: For Simulating Signal, Power, and Electromagnetic Integrity (With CD)	Leventhal	Paperback			Springer India	788	English				ZZZ000000
+9788184896459	Circuit Design for RF Transceivers	Leenaerts	Paperback			Springer India	344	English				ZZZ000000
+9788184891324	An Introduction to Environmental Biophysics, 2e	Campbell	Paperback			Springer India	307	English				ZZZ000000
+9788184893540	Biodegradation and Bioremediation	Singh	Paperback			Springer India	326	English				ZZZ000000
+9788181286338	Bioreaction Engineering Principles, 2e	Nielsen	Paperback			Springer India	540	English				ZZZ000000
+9788184895025	Wastewater Treatment: Biological and Chemical Processes, 3e	Henze	Hardcover			Springer India	430	English				ZZZ000000
+9788181289353	Geo-information for Disaster Management	Oosterom	Hardcover			Springer India	1434	English				ZZZ000000
+9788181285744	Rock Mechanics: For Underground Mining 3e	Brady	Paperback			Springer India	626	English				ZZZ000000
+9788181286918	Atomic Spectroscopy	Andreev	Paperback			Springer India	274	English				ZZZ000000
+9788184895094	Biomaterials: An Introduction, 3e	Park	Hardcover			Springer India	576	English				ZZZ000000
+9788181284662	Composite Materials: Functional Materials for Modern Technologies	Chung	Paperback			Springer India	289	English				ZZZ000000
+9788181284907	Composite Materials: Science and Engineering 2e	Chawla	Paperback			Springer India	483	English				ZZZ000000
+9788184893359	Corrosion of Metals: Physicochemical Principles and Current Problems	Kaesche	Paperback			Springer India	604	English				ZZZ000000
+9788181286574	Fundamentals of Semiconductors: Physics and Materials Properties, 3e	Yu	Paperback			Springer India	639	English				ZZZ000000
+9788181284488	Magnetism: Fundamentals	Lacheisserie	Paperback			Springer India	532	English				ZZZ000000
+9788181282026	Micromachines as Tools for Nanotechnology	Fujita	Paperback			Springer India	224	English				ZZZ000000
+9788181285058	Micromanufacturing and Nanotechnology	Mahalik	Hardcover			Springer India	468	English				ZZZ000000
+9788181285881	Nanostructures	Shchukin	Paperback			Springer India	387	English				ZZZ000000
+9788181282002	Nanostructures: Theory and Modelling	Delerue	Paperback			Springer India	304	English				ZZZ000000
+9788181282811	Nanotechnology	Timp	Paperback			Springer India	696	English				ZZZ000000
+9788184890518	Nanotechnology: Assessment and Perspectives	Brune	Paperback			Springer India	517	English				ZZZ000000
+9788181289186	Nanotribology and Nanomechanics: An Introduction	Bhushan	Hardcover			Springer India	1148	English				ZZZ000000
+9788184894165	Phase-transfer Catalysis: Fundamentals, Applications, and Industrial Perspectives	Starks	Hardcover			Springer India	688	English				ZZZ000000
+9788181284389	Physical Foundations of Materials Science	Gottstein	Hardcover			Springer India	502	English				ZZZ000000
+9788181283696	Plastics Design Handbook	Rosato	Hardcover			Springer India	700	English				ZZZ000000
+9788181288530	Principles and Applications of NanoMEMS Physics	De Los Santos	Paperback			Springer India	254	English				ZZZ000000
+9788181286789	Semiconductor Physics: An Introduction, 9e	Seeger	Paperback			Springer India	538	English				ZZZ000000
+9788181281616	Solid State Physics: An Introduction to Principles of Materials Science, 3e	Ibach	Paperback			Springer India	500	English				ZZZ000000
+9788184891218	Solving Problems in Scientific Computing Using Maple and MATLAB, 4e	Gander	Paperback			Springer India	735	English				ZZZ000000
+9788184894455	Statistical Mechanics, 2nd ED	Schwabl	Paperback			Springer India	595	English				ZZZ000000
+9788184894653	The Physics of Semiconductors: An Introduction Including Devices and nanophysics	Grundmann	Paperback			Springer India	721	English				ZZZ000000
+9788181283306	Understanding Materials Science, 2e	Hummel	Paperback			Springer India	472	English				ZZZ000000
+9788181284501	VLSI Memory Chip Design	Itoh	Paperback			Springer India	508	English				ZZZ000000
+9788181286949	A Basic Course in Algebraic Topology	Massey	Paperback			Springer India	428	English				MAT000000
+9788181282156	A Beginner's Guide to Discrete Mathematics	Wallis	Paperback			Springer India	384	English				MAT000000
+9788181282170	A Beginner's Guide to Finite Mathematics	Mould	Paperback			Springer India	368	English				MAT000000
+9788181284136	A Concrete Introduction to Higher Algebra, 2e	Childs	Paperback			Springer India	540	English				MAT000000
+9788184896725	A Course on Borel Sets	Srivastava	Paperback			Springer India	261	English				MAT000000
+9788181282408	A First Course in Calculus, 5e	Lang	Paperback			Springer India	727	English				MAT000000
+9788181282361	A First Course in Real Analysis	Berberian	Paperback			Springer India	256	English				MAT000000
+9788181288141	A Textbook of Graph Theory	Balakrishnan & Ranganathan	Paperback			Springer India	227	English				MAT000000
+9788181289063	Advanced Mathematical Methods for Scientists and Engineers I	Bender	Paperback			Springer India	593	English				MAT000000
+9788184894530	Advanced Real Analysis	Knapp	Paperback			Springer India	492	English				MAT000000
+9788184891331	Advances in Time-Delay Systems	Niculescu	Paperback			Springer India	462	English				MAT000000
+9788181281401	Algebra	Hungerford	Paperback			Springer India	528	English				MAT000000
+9788181288868	Algebra - 1	Waerden	Paperback			Springer India	265	English				MAT000000
+9788181288875	Algebra - 2	Waerden	Paperback			Springer India	284	English				MAT000000
+9788181289803	Algebra : Fields and Galois Theory 	Lorenz	Paperback			Springer India	296	English				MAT000000
+9788184895148	Algebra Interactive: Learning Algebra in an Exciting Way with CD-ROM	Cohen	Paperback			Springer India	168	English				MAT000000
+9788181281418	Algebra, 3e	Lang	Paperback			Springer India	932	English				MAT000000
+9788181283030	Algebraic Geometry	Hartshorne	Paperback			Springer India	512	English				MAT000000
+9788181282620	Algebraic Graph Theory	Godsil	Paperback			Springer India	439	English				MAT000000
+9788184891249	Algebraic Topology	Fulton	Paperback			Springer India	448	English				MAT000000
+9788181289049	An Introduction to Difference Equation, 3e	Elaydi	Paperback			Springer India	546	English				MAT000000
+9788181288035	An Introduction to Number Theory	Everest	Paperback			Springer India	302	English				MAT000000
+9788181281470	An introduction to Partial Differential Equations, 2e	Renardy	Paperback			Springer India	448	English				MAT000000
+9788181285478	An Introduction to Programming and Numerical Methods in MATLAB	Otto	Paperback			Springer India	464	English				MAT000000
+9788184890204	An Introduction to Wavelet Analysis	Walnut	Paperback			Springer India	452	English				MAT000000
+9788184895193	Analytic Number Theory	Chaohua 	Paperback			Springer India	424	English				MAT000000
+9788181281494	Applied Abstract Algebra, 2e	Lidl	Paperback			Springer India	504	English				MAT000000
+9788181289544	Applied Probability	Lange	Paperback			Springer India	307	English				MAT000000
+9788184890433	Applied Probability and Statistics for Scientists and Engineers	Lefebvre	Paperback			Springer India	373	English				MAT000000
+9788181280473	Basic Algebra: Groups, Rings, and Fields	Cohn	Paperback			Springer India	396	English				MAT000000
+9788181283276	Basic Stochastic Processes: A Course through Exercises	Brzezniak	Paperback			Springer India	240	English				MAT000000
+9788181281357	Basic Topology	Armstrong	Paperback			Springer India	268	English				MAT000000
+9788181286345	Berkeley Problems in Mathematics, 3e	Souza	Paperback			Springer India	587	English				MAT000000
+9788184894790	Calculus of One Variable	Hirst	Paperback			Springer India	278	English				MAT000000
+9788181284082	Chaos: An Introduction to Dynamical Systems	Alligood	Paperback			Springer India	624	English				MAT000000
+9788181282965	Complex Analysis	Howie	Paperback			Springer India	272	English				MAT000000
+9788181280237	Complex Analysis in One Variable, 2e	Narasimhan	Hardcover			Springer India	342	English				MAT000000
+9788184890839	Complex Analysis, 2e	Bak	Paperback			Springer India	304	English				MAT000000
+9788181282682	Computational Cell Biology	Fall	Paperback			Springer India	488	English				MAT000000
+9788181286093	Computational Electromagnetics	Bondeson	Paperback			Springer India	222	English				MAT000000
+9788184890228	Current Trends in Nonlinear Systems and Control	Menini	Paperback			Springer India	560	English				MAT000000
+9788184894707	Differential Equations: Theory and Applications With Maple (With Cd-ROM)	Betounes	Paperback			Springer India	680	English				MAT000000
+9788181281425	Elementary Analysis: The Theory of Calculus	Ross 	Paperback			Springer India	360	English				MAT000000
+9788181281432	Elementary Differential Geometry	Pressley	Paperback			Springer India	344	English				MAT000000
+9788181282781	Elementary Number Theory	Jones	Paperback			Springer India	301	English				MAT000000
+9788181280138	Elementary Probability Theory, 4e	Chung	Paperback			Springer India	396	English				MAT000000
+9788181281814	Essential  Mathematical Biology	Britton	Paperback			Springer India	352	English				MAT000000
+9788184893601	Examples and Theorems in Analysis	Walker	Paperback			Springer India	297	English				MAT000000
+9788184895162	Exercises in Functional Analysis	Costara	Paperback			Springer India	451	English				MAT000000
+9788184890952	Exercises in Probability	Cacoullos	Paperback			Springer India	273	English				MAT000000
+9788181289834	Field and Galois Theory	Howie	Paperback			Springer India	225	English				MAT000000
+9788181282767	Fourier and Wavelet Analysis	Bachman	Paperback			Springer India	505	English				MAT000000
+9788184891737	Functional Analysis	Suhubi	Paperback			Springer India	702	English				MAT000000
+9788181281579	Functional Analysis 6e	Yosida	Paperback			Springer India	516	English				MAT000000
+9788181283283	General Topology	Kelley	Paperback			Springer India	312	English				MAT000000
+9788181284785	Graphs and Applications: An Introductory Approach (With CD)	Aldous	Paperback			Springer India	444	English				MAT000000
+9788181285188	Graphs, Networks and Algorithms	Jungnickel	Hardcover			Springer India	611	English				MAT000000
+9788184890877	Groups, Rings and Fields	Wallace	Paperback			Springer India	256	English				MAT000000
+9788181281630	Information and Coding Theory	Jones	Paperback			Springer India	224	English				MAT000000
+9788181281685	Introduction to Calculus and Analysis, Vol. 1	Courant	Paperback			Springer India	688	English				MAT000000
+9788181281524	Introduction to Coding Theory, 3e	Lint	Paperback			Springer India	248	English				MAT000000
+9788181282323	Introduction to Cryptography, 2e	Buchmann	Paperback			Springer India	335	English				MAT000000
+9788181282606	Introduction to Linear Algebra, 2e	Lang	Paperback			Springer India	308	English				MAT000000
+9788181280848	Introduction to Mathematics for Life Scientists, 3e	Batschelet	Paperback			Springer India	448	English				MAT000000
+9788181286765	Introduction to Optimization	Pedregal,Pablo 	Paperback			Springer India	248	English				MAT000000
+9788181281821	Lectures on Partial Differential Equations	Arnold	Paperback			Springer India	176	English				MAT000000
+9788181281876	Linear Algebra	Janich	Paperback			Springer India	216	English				MAT000000
+9788181282149	Linear Algebra: A Pure Mathematical Approach	Rose	Paperback			Springer India	264	English				MAT000000
+9788181281784	Linear Algebra: An introductory Approach, 4e	Curtis	Paperback			Springer India	360	English				MAT000000
+9788181289346	Linear and Nonlinear Programming, 2e	Luenberger	Paperback			Springer India	516	English				MAT000000
+9788184890303	Markov Chains: Models, Algorithms and Applications	Ching	Paperback			Springer India	208	English				MAT000000
+9788181281555	Mathematical Biology, Vol. 1: An Introduction, 3e	Murray	Hardcover			Springer India	574	English				MAT000000
+9788181281562	Mathematical Biology, Vol. 2: Spatial Models and Biomedical Applications, 3e	Murray	Hardcover			Springer India	836	English				MAT000000
+9788181282576	Mathematical Statistics, 2e	Shao	Paperback			Springer India	520	English				MAT000000
+9788181280992	Mathematics and Its History, 2e	Stillwell	Paperback			Springer India	604	English				MAT000000
+9788181282293	Matrix Analysis	Bhatia	Hardcover			Springer India	368	English				MAT000000
+9788184891928	Measure Theory	Halmos	Paperback			Springer India	315	English				MAT000000
+9788184892505	Metric Spaces	Shirali	Paperback			Springer India	230	English				MAT000000
+9788181288066	Microflows and Nanoflows: Fundamentals and Simulation	Karniadakis	Paperback			Springer India	817	English				MAT000000
+9788181282385	Multivariate Calculus and Geometry, 2e	Dineen	Paperback			Springer India	254	English				MAT000000
+9788184892062	Naive Set Theory	Halmos	Paperback			Springer India	111	English				MAT000000
+9788184894592	Numerical Methods for Partial Differential Equations	Evans	Paperback			Springer India	302	English				MAT000000
+9788181285096	Optimization	Lange	Paperback			Springer India	252	English				MAT000000
+9788184892130	Partial Differential Equations, 4e	John	Paperback			Springer India	259	English				MAT000000
+9788181284778	Partial Differential Equations: Analytical Solutions Techniques 2e	Kevorkian	Paperback			Springer India	636	English				MAT000000
+9788181284143	Partial Differential Equations: Basic Theory 	Taylor	Paperback			Springer India	576	English				MAT000000
+9788181280916	Polynomials	Barbeau	Paperback			Springer India	296	English				MAT000000
+9788181283863	Prandtl's Essentials of Fluid Mechanics, 2e	Oertel	Paperback			Springer India	736	English				MAT000000
+9788181289827	Probability Essentials, 2e	Jacod	Paperback			Springer India	254	English				MAT000000
+9788181281371	Probability Theory, 3e	Chow	Paperback			Springer India	512	English				MAT000000
+9788181282286	Probability Through Problems	Capinski	Paperback			Springer India	272	English				MAT000000
+9788181280152	Problem Solving Strategies	Engel	Paperback			Springer India	426	English				MAT000000
+9788184890945	Problems in Geometry	Berger	Paperback			Springer India		English				MAT000000
+9788181281340	Representation Theory: A First Course	Fulton	Paperback			Springer India	568	English				MAT000000
+9788181280619	Ripples in Mathematics	Jenson	Paperback			Springer India	304	English				MAT000000
+9788181289742	Short Calculus	Lang	Paperback			Springer India	260	English				MAT000000
+9788181287922	Solving Problems in Scientific Computing Using Maple and MATLAB	Gander & Hrebicek	Paperback			Springer India	476	English				MAT000000
+9788181281531	Stochastic Differential Equations: An Introduction with Applications, 6e	Oksendal	Paperback			Springer India	388	English				MAT000000
+9788181285072	Supply Chain Optimization	Geunes	Paperback			Springer India	413	English				MAT000000
+9788181283382	The Laplace Transform: Theory and Applications	Schiff	Paperback			Springer India	252	English				MAT000000
+9788181284914	The Logic of Logistics: Theory, Algorithms, and Applications for Logistics and Supply Chain Management, 2e	Simchi-Levi	Paperback			Springer India	355	English				MAT000000
+9788181283191	Theory and Applications of Partial Differential Equations	Wu	Paperback			Springer India	444	English				MAT000000
+9788181284983	Topology	Janich	Paperback			Springer India	208	English				MAT000000
+9788181282958	Vector Calculus	Matthews	Paperback			Springer India	360	English				MAT000000
+9788184896022	Numerical Analysis	Kress	Paperback			Springer India	356	English				MAT000000
+9788184896398	A Course in Multivariable Calculus and Analysis	Ghorpade	Paperback			Springer India	487	English				MAT000000
+9788184896336	Linear Algebra, 4th ED	Greub	Paperback			Springer India	493	English				MAT000000
+9788184896602	Modern Geometry - Methods and Applications: Part 3: Introduction to Homology Theory	Dubrovin	Paperback			Springer India	441	English				MAT000000
+9788184896558	Modern Geometry - Methods and Applications: Part I: The Geometry of Surfaces, Transformation Groups, and Fields, 2nd ED	Dubrovin	Paperback			Springer India	507	English				MAT000000
+9788184896596	Modern Geometry. Methods and Applications: Part 2: The Geometry and Topology of Manifolds	Dubrovin	Paperback			Springer India	452	English				MAT000000
+9788184896756	Modeling in Biopharmaceutics, Pharmacokinetics and Pharmacodynamics	Macheras	Paperback			Springer India	462	English				MAT000000
+9788184896916	Linear and Nonlinear Programming, 3e	Luenberger	Paperback			Springer India	560	English				MAT000000
+9788184893427	Basic Linear Algebra, 2nd ED	Blyth	Paperback			Springer India	243	English				MAT000000
+9788184893229	Introduction to Lie Algebras	Erdmann	Paperback			Springer India	264	English				MAT000000
+9788184896466	Number Theory	Hasse	Paperback			Springer India	655	English				MAT000000
+9788184896404	Probability Theory with Applications, 2nd ED	Rao	Paperback			Springer India	545	English				MAT000000
+9788181289001	Applied Fish Pharmacology	Treves-Brown	Hardcover			Springer India	328	English				MED000000
+9788181289360	Atlas of Heart faliure	Colucci	Hardcover			Springer India	344	English				MED000000
+9788181280398	Basic Sciences for Obstetric and Gynaecology 5e (Available as set)	Chard	Paperback			Springer India	192	English				MED000000
+9788181280923	Blaustein's Pathology of the Female Genital Tract 5e	Kurman	Hardcover			Springer India	1440	English				MED000000
+9788181280930	Chassin's Operative Strategy in General Surgery: An Expositive Atlas 3e	Scott-Conner	Hardcover			Springer India	968	English				MED000000
+9788181281296	Complications in Ophthalmic Plastic Surgery	Brazzo	Hardcover			Springer India	280	English				MED000000
+9788181281487	Contact Lenses in Ophthalmic Practice	Mannis	Paperback			Springer India	336	English				MED000000
+9788181281746	Endoscopic Sinus Surgery: A Comprehensive Atlas	Yanez	Hardcover			Springer India	160	English				MED000000
+9788184890273	Essentials of Anatomic Pathology, 2e (With CD)	Cheng	Paperback			Springer India	1472	English				MED000000
+9788181287564	Essentials of Bedside Cardiology (with CD)	Jules 	Paperback			Springer India	210	English				MED000000
+9788181287533	Essentials of Orthopedic Surgery	Wiesel	Paperback			Springer India	620	English				MED000000
+9788181282071	Handbook of Practical Critical Care Medicine	Varon	Paperback			Springer India	540	English				MED000000
+9788181283962	Hip Fractures: A Practical Guide to Management	Koval	Paperback			Springer India	330	English				MED000000
+9788181281920	Kempe's Operative Neurosurger  Kempe's Operative Neurosurgery. Cranial, Cerebral, and Intracranial Vascular Disease Volume One 2e (Set Price)	Salcman	Hardcover			Springer India	240	English				MED000000
+9788181281920	Kempe's Operative Neurosurgery:  Posterior Fossa, Spinal and Peripheral Nerve Volume Two 2e (Set Price)	Salcman	Hardcover			Springer India	260	English				MED000000
+9788181284266	Knee Surgery: Complications, Pitfalls, and Salvage	Fanelli	Hardcover			Springer India	507	English				MED000000
+9788181284266	Knee Surgery: Complications, Pitfalls, and Salvage	Malek	Hardcover			Springer India	528	English				MED000000
+9788181282019	Laparoscopic Surgery of the Abdomen	MacFadyen	Hardcover			Springer India	556	English				MED000000
+9788181282064	Manual of Internal Fixation 3e	Muller	Hardcover			Springer India	300	English				MED000000
+9788181281777	Neurological Differential Diagnosis 2e	Patten	Hardcover			Springer India	516	English				MED000000
+9788181288974	Non Union of Long Bones	Mora	Paperback			Springer India	332	English				MED000000
+9788181287557	Oculoplastic Surgery Atlas(with CD) : Cosmetic Facial Surgery	Gladstone	Hardcover			Springer India	109	English				MED000000
+9788181287830	Ocuplastic Surgery Atlas: Eyelid Disorders	Gladstone	Hardcover			Springer India	110	English				MED000000
+9788181287526	Orthopedic Rehabilitation, Assessment, and Enablement	David	Paperback			Springer India	647	English				MED000000
+9788181287540	Physical therapy of Cerebral Palsy with CD	Miller	Paperback			Springer India	416	English				MED000000
+9788181280503	PNF in Practice: An Illustrated Guide, 2e	Adler	Paperback			Springer India	402	English				MED000000
+9788184890051	Principles of Molecular Cardiology	Runge	Paperback			Springer India	632	English				MED000000
+9788181280411	Right in the Middle: Selective Trunk Activity in the Treatment of Adult Hemiplegia	Davies	Paperback			Springer India	242	English				MED000000
+9788181289728	Springer Pocket Dictionary of Pulmonology	Reuter	Hardcover			Springer India		English				MED000000
+9788181280428	Starting Again: Early Rehabilitation After Traumatic Brain Injury or Other Severe Brain Lesion	Davies	Paperback			Springer India	412	English				MED000000
+9788181280435	Steps to Follow: The Comprehensive Treatment of Patients with Hemiplegia 2e	Davies	Paperback			Springer India	432	English				MED000000
+9788181281951	Surgical Anatomy and Technique: A Pocket Manual 2e	Skandalakis	Paperback			Springer India	624	English				MED000000
+9783540003045	Surgical Techniques in Total Knee Arthroplasty	Scuderi	Hardcover			Springer India	773	English				MED000000
+9788181282101	The ECG: A Two-Step Approach to Diagnosis	Gertsch	Paperback			Springer India	615	English				MED000000
+9788181285751	The SAGES Manual: Fundamentals of Laparoscopy, Thoracoscopy and GI Endoscopy 2e	Scott-Conner	Paperback			Springer India	840	English				MED000000
+9788181287038	Ultrasound of the Musculoskeletal System	Bianchi	Hardcover			Springer India	975	English				MED000000
+9788181281517	Understanding X-rays: A Synopsis of Radiology	Gelderen	Hardcover			Springer India	684	English				MED000000
+9788184890822	Manual of Arthroscopic Surgery	Strobel	Paperback			Springer India	1084	English				ZZZ000000
+9788184891386	Medicinal Plants of the World, Vol. 1	Ross 	Paperback			Springer India	492	English				ZZZ000000
+9788184890631	Principles of Deformity Correction          	Paley	Paperback			Springer India	831	English				ZZZ000000
+9788181283917	The Rationale of Operative Fracture Care, 3rd Ed	Schatzker	Paperback			Springer India	692	English				ZZZ000000
+9788181285805	The SAGES Manual of Perioperative Care in Minimally Invasive Surgery	Whelan	Paperback			Springer India	514	English				ZZZ000000
+9788184892246	The SAGES Manual of Strategic Decision Making: Case Studies in Minimal Access Surgery	Scott-Conner	Paperback			Springer India	676	English				ZZZ000000
+9788184896763	Handbook of Blood Gas/ Acid Base Interpretation	Hasan	Paperback			Springer India	330	English				ZZZ000000
+9788184891799	Post Mortem Technique Handbook, 2e	Sheaff	Paperback			Springer India	466	English				ZZZ000000
+9788181287687	Nutrition and Oral Medicine	Touger	Hardcover			Springer India	416	English				ZZZ000000
+9788184894868	Chiral Separations: Methods and Protocols	G bitz	Paperback			Springer India	448	English				ZZZ000000
+9788184891461	Development and Manufacture of Protein Pharmaceuticals	Nail	Paperback			Springer India	476	English				ZZZ000000
+9788184893878	Drug Absorption Studies: In Situ, In Vitro and In Silico Models	Ehrhardt	Paperback			Springer India	720	English				ZZZ000000
+9788184894288	Drug Delivery Systems	Jain	Paperback			Springer India	261	English				ZZZ000000
+9788184891478	Drug Metabolism: Current Concepts	Caira	Paperback			Springer India	433	English				ZZZ000000
+9788184894851	Fundamentals of  Clinical Research	Bacchieri	Paperback			Springer India	368	English				ZZZ000000
+9788184891485	Liposome Methods and Protocols	Basu	Paperback			Springer India	264	English				ZZZ000000
+9788184891454	Managing Pharmaceuticals in International Health	Anderson	Paperback			Springer India	246	English				ZZZ000000
+9788184894844	Optimization in Drug Discovery	Yan	Paperback			Springer India	436	English				ZZZ000000
+9788184893946	Polyvinylpyrrolidone Excipients for Pharmaceuticals: Povidone, Crospovidone and Copovidone	B hler	Paperback			Springer India	261	English				ZZZ000000
+9788184897029	Biopharmaceutical Drug Design and Development, 2e	Wu-Pong	Paperback			Springer India	385	English				ZZZ000000
+9788184892291	Business Ethics	Cory	Paperback			Springer India	277	English				PHI000000
+9788181288448	A Guide to Physics Problems, Part 1: Mechanics, Relativity, and Electrodynamics	Cahn	Paperback			Springer India	356	English				ZZZ000000
+9788181288462	A Guide to Physics Problems, Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics	Cahn 	Paperback			Springer India	380	English				ZZZ000000
+9788184891263	A Mathematical Introduction to Fluid Mechanics, 3e	Chorin	Paperback			Springer India	192	English				ZZZ000000
+9788184891287	Advanced Quantum Mechanics, 2e	Schwabl	Paperback			Springer India	424	English				ZZZ000000
+9788181287199	An Introduction to Biomechanics	Humphrey	Paperback			Springer India	631	English				ZZZ000000
+9788184890075	Applied Mathematics	Mahan	Paperback			Springer India	380	English				ZZZ000000
+9788181289339	Biosensing 	Schultz	Paperback			Springer India	387	English				ZZZ000000
+9788181284570	Classical Electrodynamics	Greiner	Paperback			Springer India	568	English				ZZZ000000
+9788181287465	Classical Electromagnetic Theory	VanderLinde	Paperback			Springer India	419	English				ZZZ000000
+9788181286543	Classical Mathematical Physics: Dynamical Systems and Field Theories, 3e	Thirring	Paperback			Springer India	543	English				ZZZ000000
+9788181288172	Classical Mechanics:  Point Particles and Relativity	Greiner	Paperback			Springer India	488	English				ZZZ000000
+9788181281289	Classical Mechanics: Systems of Particles and Hamiltonian Dynamics	Greiner	Paperback			Springer India	564	English				ZZZ000000
+9788184893052	Engineering Thermodynamics	Horsley	Paperback			Springer India	388	English				ZZZ000000
+9788184890372	Field Quantization	Greiner	Paperback			Springer India	454	English				ZZZ000000
+9788184894523	Foundations of Fluid Dynamics	Gallavotti	Paperback			Springer India	537	English				ZZZ000000
+9788184890570	Fundamentals of Electromagnetism	Davalos	Paperback			Springer India	309	English				ZZZ000000
+9788181285034	Fundamentals of Nuclear Physics: From Nuclear Structure to Cosmology	Basdevant	Hardcover			Springer India	522	English				ZZZ000000
+9788181284549	Fundamentals of Plasma Physics, 3e	Bittencourt	Paperback			Springer India	704	English				ZZZ000000
+9788184893182	Fundamentals of Semiconductor Lasers	Numai	Paperback			Springer India	271	English				ZZZ000000
+9788181288547	High-Energy Density Physics: Fundamentals, Inertial Fusion, and Experimental Astrophysics	Drake	Paperback			Springer India	534	English				ZZZ000000
+9788181286659	Introduction to Nonlinear Physics	Lam, Lui	Paperback			Springer India	417	English				ZZZ000000
+9788181288028	Introduction to Plasma Physics and Controlled Fusion, 2e	Chen	Paperback			Springer India	421	English				ZZZ000000
+9788181285652	Materials Handbook: A Concise Desktop Reference	Cardarelli	Hardcover			Springer India	595	English				ZZZ000000
+9788184893304	Mathematical Methods of Quantum Optics	Puri	Paperback			Springer India	300	English				ZZZ000000
+9783540780946	Mathematical Physics	Hassani	Hardcover			Springer India	1025	English				ZZZ000000
+9788184891973	Mathematical Physics: A Modern Introduction to Its Foundations	Hassani	Paperback			Springer India	1046	English				ZZZ000000
+9788181283929	Nanotribology: Critical Assessment and Research Needs	Hsu	Paperback			Springer India	456	English				ZZZ000000
+9788184892093	Nuclear Energy: Principles, Practices, and Prospects, 2e	Bodansky	Paperback			Springer India	715	English				ZZZ000000
+9788184894738	Optics: Learning by Computing, with Examples Using Maple, MathCad , Matlab , Mathematica , and Maple , 2nd ED	Moeller	Paperback			Springer India	470	English				ZZZ000000
+9788184891232	Particles and Nuclei: An Introduction to the Physical Concepts, 6e	Povh	Paperback			Springer India	412	English				ZZZ000000
+9788181281807	Physics of Semiconductor	Sapoval	Paperback			Springer India	332	English				ZZZ000000
+9788181288349	Plasma Physics: Confinement, Transport and Collective Effects	Dinklage	Paperback			Springer India	496	English				ZZZ000000
+9788184891836	Practical Quantum Mechanics	Flugge	Paperback			Springer India	642	English				ZZZ000000
+9788181289070	Principles of Lasers, 4e	Svelto	Paperback			Springer India	628	English				ZZZ000000
+9788184892079	Principles of Vibration and Sound	Rossing	Paperback			Springer India	338	English				ZZZ000000
+9788181286932	Quantum Computation and Quantum Communication: Theory and Experiment	Pavicic	Paperback			Springer India	221	English				ZZZ000000
+9788184891935	Quantum Field Theory: A Modern Perspective	Nair	Paperback			Springer India	570	English				ZZZ000000
+9788184891829	Quantum Mechanics	Hecht	Paperback			Springer India	779	English				ZZZ000000
+9788184891294	Quantum Physics	Scheck	Paperback			Springer India	754	English				ZZZ000000
+9788181285676	Relativistic Quantum Mechanics, 2e	Pilkuhn	Paperback			Springer India	278	English				ZZZ000000
+9788181286123	Relativistic Quantum Mechanics: Wave Equations, 3e	Greiner	Paperback			Springer India	424	English				ZZZ000000
+9788181287441	Semiconductor Physical Electronics	Li	Paperback			Springer India	697	English				ZZZ000000
+9788181281258	Statistical Physics, 2e	Honerkamp	Paperback			Springer India	532	English				ZZZ000000
+9788184893212	Statistical Physics: Including Applications to Condensed Matter	Hermann	Paperback			Springer India	295	English				ZZZ000000
+9788181287458	Thermodynamics and Statistical Mechanics	Greiner	Paperback			Springer India	4636	English				ZZZ000000
+9788184894462	Solid State Theory: An Introduction	Rossler	Paperback			Springer India	345	English				ZZZ000000
+9788184890419	Gauge Theory of weak Interactions, 3e	Greiner	Paperback			Springer India	402	English				ZZZ000000
+9788181284327	Handbook of Modern Sensors: Physics, Designs, and Applications, 3e	Fraden	Hardcover			Springer India	590	English				ZZZ000000
+9788184890358	Quantum Mechanics: Special Chapters	Greiner 	Paperback			Springer India	396	English				ZZZ000000
+9788184892765	Understanding Physics	Cassidy	Paperback			Springer India	874	English				ZZZ000000
+9788184893373	A Modern Introduction to Probability and Statistics	Dekking	Paperback			Springer India	504	English				ZZZ000000
+9788184895056	Applied Statistics in the Pharmaceutical Industry: With Case Studies Using S-PLUS	Millard	Hardcover			Springer India	454	English				ZZZ000000
+9788181280282	Basic Business Statistics: A Casebook	Foster	Paperback			Springer India	260	English				ZZZ000000
+9788181280299	Business Analysis using Regression: A Casebook	Foster	Paperback			Springer India	366	English				ZZZ000000
+9788184892710	Fundamentals of Clinical Trials, 3e	Friedman	Paperback			Springer India	379	English				ZZZ000000
+9788181284044	Introduction to Time Series and Forecasting, 2e (With CD)	Brockwell	Paperback			Springer India	452	English				ZZZ000000
+9788181281135	Mathematical and Statistical Methods for Genetic Analysis, 2e	Lange	Paperback			Springer India	386	English				ZZZ000000
+9788184894073	Process Optimization: A Statistical Approach	del Castillo	Paperback			Springer India	480	English				ZZZ000000
+978818128 3214	Reliability Evaluation of Power Systems	Billinton	Paperback			Springer India	536	English				ZZZ000000
+9788181286109	Statistical Methods in Molecular Evolution	Nielson	Hardcover			Springer India	508	English				ZZZ000000
+9788184890082	Survival Analysis	Kleinbaum	Paperback			Springer India	590	English				ZZZ000000
+9788184891744	Testing Statistical Hypotheses, 3e	Lehmann	Paperback			Springer India	800	English				ZZZ000000
+9788184890259	Time Series Analysis and Its Applications	Shumway	Paperback			Springer India	575	English				ZZZ000000
+9788184890860	Time Series: Theory and Methods, 2e	Brockwell	Paperback			Springer India	594	English				ZZZ000000
+9788184894752	Analysis of Microarray Gene Expression Data	Mei-Ling Ting Lee 	Paperback			Springer India	400	English				ZZZ000000
